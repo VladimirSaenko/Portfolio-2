@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <title>Мальдивы</title> -->
+    <title>Maldives</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="icon" href="/favicon (1).ico">
+</head>
+<body>
+    <div class="hero">
+        <video autoplay loop muted plays-inline id="backvideo">
+            <source src="video/production ID_4010941.mp4" type="video/mp4">
+        </video>
+        <div class="logo">
+            <img src="images/logo.png" alt="logo">
+        </div>
+
+        <div class="sidebar">
+            <div class="text-box">
+                <h1>GOLDEN RESORT</h1>
+                <H4>LUXURY LIVING</H4>
+                <div class="line"></div>
+            </div>
+        </div>
+
+        <div class="content">
+            <h1>Maldives</h1>
+            <p>Very Nice appartaments in the heart Maldives</p>
+            <div class="btn" id="playbtn">
+                <img src="images/play.png" id="icon"> Watch Video
+            </div>
+        </div>
+    </div>
+    <script>
+        var backvideo = document.getElementById('backvideo');
+        var playbtn = document.getElementById('playbtn');
+        var icon = document.getElementById('icon');
+        playbtn.onclick = function () {
+            backvideo.style.display = "block";
+            if(backvideo.paused) {
+                backvideo.play();
+                icon.src = "images/play.png";
+            }
+            else {
+                backvideo.pause();
+                icon.src = "images/pause.png";
+            }
+        }
+    </script>
+    <!-- <script src="/playBackVideo.js"></script> -->
+</body>
+</html>
