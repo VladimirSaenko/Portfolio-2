@@ -46,6 +46,7 @@
 }
 
 .text-box h1 {
+    cursor: default;
     font-size: 30px;
     font-weight: 100;
 }
@@ -55,7 +56,7 @@
     margin-left: 10px;
     margin-bottom: 0px;
     margin-top: 7px; */
-
+    cursor: default;
     margin: 7px 10px 0px;
 }
 
@@ -75,6 +76,7 @@
 }
 
 .content h1 {
+    cursor: default;
     font-size: 100px;
 }
 

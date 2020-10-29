@@ -55,6 +55,7 @@ body {
 }
 
 .container .card .img-box img {
+    cursor: pointer;
     max-width: 100%;
     border-radius: 10px;
 }
