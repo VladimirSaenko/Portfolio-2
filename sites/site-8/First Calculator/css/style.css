@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+span {
+    cursor: pointer;
+    font-size: 25px;
+}
+
+body {
+    background: #091921;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.calculator {
+    position: relative;
+    display: grid;
+}
+
+.calculator .value {
+    grid-column: span 4;
+    border: none;
+    height: 100px;
+    text-align: right;
+    outline: none;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.calculator span {
+    display: grid;
+    width: 60px;
+    height: 60px;
+    color: white;
+    background: #0c2935;
+    place-items: center;
+    border: 1.5px solid green;
+    font-size: 35px;
+}
+
+.calculator span:hover {
+    background: #113747;
+    color: greenyellow;
+}
+
+.calculator span:active {
+    background: green;
+    color: #111;
+}
+
+.calculator span.clear {
+    grid-column: span 2;
+    width: 135px;
+    background: #ff3077;
+}
+
+.calculator span.clear:hover {
+    color: black;
+}
+
+.calculator span.plus {
+    grid-row: span 2;
+    height: 120px;
+}
+
+.calculator span.equal {
+    background: #03b1ff;
+}
+
+.calculator span.equal:hover {
+    color: black;
+}
+
+.calculator span.minus_3 {
+    background: yellow;
+    color: black;
+}
+
+

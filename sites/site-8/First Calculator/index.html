@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Calculator</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <form class="calculator" name="calcul">
+        <input type="text" name="txt" class="value" readonly>
+        <span class="numb clear" onclick="document.calcul.txt.value = '' ">Стереть</span>
+        <span class="numb" onclick="document.calcul.txt.value += '/' ">/</span>
+        <span class="numb" onclick="document.calcul.txt.value += '*' ">*</span>
+        <span class="numb" onclick="document.calcul.txt.value += '7' ">7</span>
+
+        <span class="numb" onclick="document.calcul.txt.value += '8' ">8</span>
+        <span class="numb" onclick="document.calcul.txt.value += '9' ">9</span>
+        <span class="numb" onclick="document.calcul.txt.value += '-' ">-</span>
+        <span class="numb" onclick="document.calcul.txt.value += '4' ">4</span>
+
+        <span class="numb" onclick="document.calcul.txt.value += '5' ">5</span>
+        <span class="numb" onclick="document.calcul.txt.value += '6' ">6</span>
+        <span class="numb plus" onclick="document.calcul.txt.value += '+' ">+</span>
+        <span class="numb" onclick="document.calcul.txt.value += '1' ">1</span>
+
+        <span class="numb" onclick="document.calcul.txt.value += '2' ">2</span>
+        <span class="numb" onclick="document.calcul.txt.value += '3' ">3</span>
+        <span class="numb" onclick="document.calcul.txt.value += '0' ">0</span>
+        <span id="musicbutt-3" class="numb minus_3" onclick="document.calcul.txt.value += '-3' ">-3</span>
+
+        <span class="numb" onclick="document.calcul.txt.value += '.' ">.</span>
+        <span class="numb equal" onclick="document.calcul.txt.value = eval(calcul.txt.value)">=</span>
+    </form>
+    <audio id="sound" src=""></audio>
+    <script>
+        var musicbutt = document.getElementById('musicbutt-3');
+        musicbutt.addEventListener('click',function () {
+            document.getElementById('sound').play();            
+        });
+    </script>
+    <!-- <script src="/calculator.js">
+
+    </script> -->
+</body>
+</html>
