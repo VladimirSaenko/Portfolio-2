@@ -23,3 +23,9 @@ a {
 .album_details h2 {
     cursor: default;
 }
+
+.album_details h2:hover {
+    cursor: pointer;
+    text-decoration:underline black;
+    color: red;
+}
