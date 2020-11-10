@@ -1,0 +1,35 @@
+header {
+    width: 573px;
+    height: 36px;
+    margin: 77px auto;
+    padding: 0 40px;
+    background: rgb( 213, 224, 245)
+    }
+
+    a {
+       width: 71px;
+       height: 11px;
+       font-family: "Playfair Display";
+       font-size: 14px;
+       font-weight: 400;
+       line-height: 24px;
+       text-transform: uppercase;
+       text-decoration: none;
+
+       margin:0 32px;
+    }
+
+    .post {
+        background-color: royalblue;
+        display: inline-block;
+        width: 420px;
+}
+
+a:link {
+    color: seagreen;
+    padding: 2px;
+}
+a:hover {
+    color: blue;
+    background: red;
+}

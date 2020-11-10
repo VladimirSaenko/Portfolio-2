@@ -1,0 +1,121 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: darkblue;
+    height: 100vh;
+}
+
+input {
+    width: 315px;
+    cursor: pointer;
+    background: inherit;
+    outline: none;
+    border: none;
+    text-align: center;
+}
+
+.header {
+    width: 100%;
+    height: 200px;
+}
+
+.slide-section {
+    position: relative;
+    top: 55px;
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+}
+
+.slidebox {
+    margin-top: 10px;
+    width: 1350px;
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: white 20px solid;
+}
+
+.slide-tittle {
+    position: relative;
+    bottom: 35px;
+    cursor: default;
+    font-size: 75px;
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+    text-shadow: white 5px 3px 1px;
+}
+
+.lorem-text {
+    cursor: default;
+    text-align: center;
+    font-weight: 800;
+    position: relative;
+    top: 50px;
+    font-size: 35px;
+    width: 75%;
+    text-shadow: white 2px 5px 1px;
+    font-family: 'Playfair Display', serif;
+}
+
+.slide-img {
+    width: 575px;
+}
+
+.buttslider-bar {
+    width: 100%;
+    height: 200px;
+}
+
+.buttslider-list {
+    position: relative;
+    top: 100px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background: rgba(213, 224, 245, 0.2);
+    height: 125px;
+}
+
+.buttslider-item {
+    width: 350px;
+    height: 100px;
+    background-color: inherit;
+    border: white 10px solid;
+    border-radius: 25px;
+    margin: 0 15px;
+    text-align: center;
+}
+
+.buttslider-tittle {
+    position: relative;
+    top: 20%;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    text-shadow: white 5px 3px 1px;
+    font-size: 45px;
+}
+
+.buttslider-tittle:hover {
+    color: greenyellow;
+    /* color: white; */
+    text-shadow: black 5px 3px 3px;
+}
+
+.buttslider-item:nth-child(2) {
+    width: 415px;
+}
+
+.buttslider-tittle {
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase;
+}
