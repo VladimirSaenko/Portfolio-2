@@ -37,6 +37,7 @@ body {
 }
 
 .calculator span {
+    user-select: none;
     display: grid;
     width: 60px;
     height: 60px;
