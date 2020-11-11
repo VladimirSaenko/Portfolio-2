@@ -20,6 +20,11 @@ a {
     cursor: default;
 }
 
+.album_desc {
+    cursor: default;
+    user-select: none;
+}
+
 .album_details h2 {
     cursor: default;
 }
