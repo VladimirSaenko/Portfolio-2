@@ -61,6 +61,7 @@ body {
 .calculator span.clear {
     grid-column: span 2;
     width: 135px;
+    color: white;
     background: #ff3077;
 }
 
@@ -81,9 +82,19 @@ body {
     color: black;
 }
 
+.calculator span.equal:active {
+    background: black;
+    color: white;
+}
+
 .calculator span.minus_3 {
     background: yellow;
     color: black;
+}
+
+.calculator span.minus_3:hover {
+    background: black;
+    color: yellow;
 }
 
 
