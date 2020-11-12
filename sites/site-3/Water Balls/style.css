@@ -25,6 +25,7 @@ h1 {
 .img-logo {
     width: 100px;
     cursor: pointer;
+    user-select: none;
 }
 
 .navbar {
@@ -76,16 +77,26 @@ h1 {
     top: 0;
 }
 
+.side_bar img {
+    user-select: none;
+}
+
+.side_bar .menu {
+    user-select: none;
+}
+
 .menu {
     display: block;
     width: 25px;
     margin: 40px auto 0;
+    user-select: none;
 }
 
 .social-links img, .useful-links img {
     width: 25px;
     margin: 5px auto;
     cursor: pointer;
+    user-select: none;
 }
 
 .social-links {
