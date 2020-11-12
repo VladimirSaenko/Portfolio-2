@@ -37,6 +37,7 @@ h1 {
 }
 
 button {
+    user-select: none;
     cursor: pointer;
     color: white;
     padding: 10px 25px;
@@ -107,6 +108,7 @@ h1 {
 .bubbles img {
     width: 50px;
     animation: bubbleFall 3s linear infinite;
+    user-select: none;
 }
 
 .bubbles  {
