@@ -13,9 +13,11 @@ body{
     flex-direction: column;
   }
   .item{
-      width: 100%;
+    width: 100%;
+    user-select: none;
+    cursor: none;
   }
   .item:hover{
-      flex-grow: 30%;
+    flex-grow: 30%;
   }
 }

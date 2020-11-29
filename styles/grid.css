@@ -25,6 +25,7 @@
 }
 
 @media all and (max-width: 640px) {
+
     .albums {
         grid-template-columns: 1fr;
         grid-gap: 10px;
@@ -35,13 +36,22 @@
         grid-gap: 10px;
         padding: 10px;
     }
+
+    .album_videoscroll {
+        visibility: hidden;
+    }
 }
 
 @media all and(max-width:380px) {
+
     .album {
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr;
         grid-gap: 5px;
         padding: 5px;
+    }
+
+    .album_videoscroll {
+        visibility: hidden;
     }
 }
