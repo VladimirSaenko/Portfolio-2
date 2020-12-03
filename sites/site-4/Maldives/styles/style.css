@@ -43,6 +43,7 @@
     position: absolute;
     top: 45%;
     text-align: center;
+    user-select: none;
 }
 
 .text-box h1 {
@@ -78,10 +79,15 @@
 .content h1 {
     cursor: default;
     font-size: 100px;
+    text-shadow: black 10px 10px 1px;
+    user-select: none;
 }
 
 .content p {
     margin: 10px 0 40px;
+    cursor: default;
+    font-size: 25px;
+    user-select: none;
 }
 
 .btn {
