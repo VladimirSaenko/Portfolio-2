@@ -13,7 +13,8 @@ body {
     align-items: center;
     min-height: 100vh;
     overflow: hidden;
-    background: #001925;
+    /* background: #001925; */
+    background: linear-gradient(180deg, rgba(0,0,0,1) 23%, rgba(63,49,179,1) 60%);
     color: white;
 }
 
@@ -65,7 +66,7 @@ body {
 .gamelist label {
     position: relative;
     display: block;
-    margin: 35px 0;
+    margin: 15px 0;
     color: white;
     font-size: 25px;
     font-weight: 700;
