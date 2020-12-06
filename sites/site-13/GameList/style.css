@@ -1,0 +1,125 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: consolas;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+    background: #001925;
+    color: white;
+}
+
+.tittle {
+    text-align: center;
+    cursor: default;
+    user-select: none;
+    display: inline-block;
+    color: white;
+    font-size: 35px;
+    padding: 10px 0;
+    margin-left: 10px;
+    border-bottom: 10px white solid;
+    border-radius: 50px;
+}
+
+/* h3 {
+    display: inline-block;
+    color: white;
+    font-size: 35px;
+    padding: 10px 0;
+    margin-left: 10px;
+    border-bottom: 10px white solid;
+    border-radius: 50px;
+} */
+
+
+.gamelist {
+    list-style: none;
+    position: relative;
+    background: #042b3e;
+    display: flex;
+    flex-direction: column;
+    /* flex-direction: column-reverse; */
+    justify-content: center;
+    align-items: center;
+    padding: 30px 75px 10px 30px;
+    border-top: 35px solid rgb(85, 85, 252);
+    border-bottom: rgb(85, 85, 252) 25px solid;
+    border-radius: 25px;
+}
+
+.gamelist li {
+    margin-top: 5px;
+    cursor: default;
+    user-select: none;
+}
+
+.gamelist label {
+    position: relative;
+    display: block;
+    margin: 35px 0;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.gamelist span {
+    position: relative;
+    left: 40px;
+}
+
+.gamelist span::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: white;
+    transform: translateY(-50%) scaleX(0);
+    transform-origin: right;
+    /* transition: transform 1s; */
+}
+
+.gamelist i {
+    transition: 0.5s;
+    border-radius: 0px;
+    position: absolute;
+    top: 2px;
+    display: inline-block;
+    border: 2px solid white;
+    width: 25px;
+    height: 25px;
+}
+
+.gamelist input[type="checkbox"] {
+    -webkit-appearance: none;
+}
+
+.gamelist input[type="checkbox"]:checked ~ i {
+    top: 1px;
+    border-top: none;
+    border-right: none;
+    height: 15px;
+    width: 25px;
+    transform: rotate(-45deg);
+}
+
+.gamelist input[type="checkbox"]:checked ~ span {
+    color: grey;
+}
+
+.gamelist input[type="checkbox"]:checked ~ span::before {
+    transform: translateY(-50%);
+    transform-origin: left;
+    transition: transform 0.5s;
+    transition-delay: 0.5s;
+}
