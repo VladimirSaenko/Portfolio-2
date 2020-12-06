@@ -60,19 +60,21 @@ input {
     cursor: default;
     text-align: center;
     /* font-weight: 100; */
+    /* color: black; */
     position: relative;
     top: 35px;
     font-size: 35px;
     width: 75%;
-    letter-spacing: 4.5px;
-    text-shadow: white 2px 1px 2.5px;
-    font-weight: 200;
-    font-family: 'Anton', sans-serif;
+    letter-spacing: 5px;
+    text-shadow: white -2px 5px 2px;
+    /* font-weight: 200; */
+    font-family: 'Do Hyeon', sans-serif;
     user-select: none;
 
 }
 
 .slide-img {
+    user-select: none;
     width: 575px;
 }
 
@@ -130,10 +132,8 @@ input {
 .call-tittle {
     font-family: 'Anton', sans-serif;
     cursor: default;
-    text-shadow: white 1px 1px 0.5px;
+    text-shadow: white 3px 2.5px 2px;
     font-size: 40px;
     visibility: visible;
     user-select: none;
 }
-
-
