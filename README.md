@@ -10,6 +10,11 @@
 4. Сайт с фичей Photo Cards https://github.com/VladimirSaenko/Random-Photo-Cards
 5. Crazy Balls or Images Drop (сайт с бесконечным числом шариков разных размеров) https://github.com/VladimirSaenko/Crazy-Balls-or-Images-Drop
 6. Сайт с фичей Video Scrolling https://github.com/VladimirSaenko/Video-Scrolling
-9. Калькулятор с кнопкой -3 и звуком при нажатии на неё  https://github.com/VladimirSaenko/First-Calculator
+7. Калькулятор с кнопкой -3 и звуком при нажатии на неё  https://github.com/VladimirSaenko/First-Calculator
+8. Old site | Remake new version https://github.com/VladimirSaenko/Old-site-Remake-new-version
+
+
+
+12. Game List https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/GameList/index.html
 
 };
