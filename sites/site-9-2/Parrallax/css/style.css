@@ -21,7 +21,7 @@ a {
 .right-side {
     width: 766px;
     height: 100vh;
-    background-image: url(/img/space.png);
+    background-image: url(/sites/site-9-2/Parrallax/img/space.png);
     background-repeat: no-repeat;
     background-size: cover;
     transition: 1s;
@@ -34,7 +34,7 @@ a {
 .left-side {
     width: 770px;
     height: 100vh;
-    background-image: url(/img/moonlight.png);
+    background-image: url(/sites/site-9-2/Parrallax/img/moonlight.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
