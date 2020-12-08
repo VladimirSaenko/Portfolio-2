@@ -12,7 +12,8 @@ body {
 section {
     height: 100vh;
     overflow: hidden;
-    background: black;
+    /* background: black; */
+    background: #091921;
 }
 
 section span {
@@ -21,4 +22,3 @@ section span {
     border-radius: 50%;
     background-size: cover;
 }
-
