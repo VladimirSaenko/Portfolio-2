@@ -7,7 +7,8 @@
 .hero {
     height: 100vh;
     width: 100%;
-    background-image: url(/images/background.png);
+    /* background-image: url(/images/background.png); */
+    /* Здесь баг с непрогрузкой картинок, как на Parrallax'e */
     /* background: url(/images/background.png) center cover; */
     position: relative;
     background-size: cover;
