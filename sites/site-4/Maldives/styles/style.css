@@ -10,6 +10,7 @@
     /* background-image: url(/images/background.png); */
     /* Здесь баг с непрогрузкой картинок, как на Parrallax'e */
     /* background: url(/images/background.png) center cover; */
+    background: white;
     position: relative;
     background-size: cover;
     background-position: center;
