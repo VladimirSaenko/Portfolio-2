@@ -22,7 +22,7 @@ window.addEventListener('scroll', function() {
     if(isTFvis == true) {
         setTimeout(visGitImg,3500);
     }
-})
+});
 
 window.addEventListener('scroll',function() {
     let value = window.scrollY;
