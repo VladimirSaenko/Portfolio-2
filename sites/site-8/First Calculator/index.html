@@ -39,20 +39,33 @@
         
         <span class="numb" id="musicbutt40" onclick="document.calcul.txt.value += '40' ">40</span>
         <span class="numb trak_numb" onclick="document.calcul.txt.value += '300' ">300</span>
+        <span class="numb alc_numb" id="alc-1" onclick="document.calcul.txt.value += '0.25' ">0.25</span>
+        <span class="numb" id="alc-2" onclick="document.calcul.txt.value += '0.5' ">0.5</span>
 
         <span class="numb equal" onclick="document.calcul.txt.value = eval(calcul.txt.value)">=</span>
     </form>
     <audio id="sound" src="minusthree.mp3"></audio>
     <audio id="sound40" src="music40.mp3"></audio>
+    <audio id="alcosound" src="zvyakane_bokalov.mp3"></audio>
     <script>
-        var musicbutt = document.getElementById('musicbutt-3');
+
+        let musicbutt = document.getElementById('musicbutt-3');
         musicbutt.addEventListener('click',function () {
-            document.getElementById('sound').play();            
+            document.getElementById('sound').play();
         });
-        var musicbutt40 = document.getElementById('musicbutt40');
+        let musicbutt40 = document.getElementById('musicbutt40');
         musicbutt40.addEventListener('click',function () {
             document.getElementById('sound40').play();
         });
+        let musicButt0_25 = document.getElementById('alc-1');
+        let musicButt0_5 = document.getElementById('alc-2');
+        musicButt0_25.addEventListener('click', function() {
+            document.getElementById('alcosound').play();
+        });
+        musicButt0_5.addEventListener('click', function() {
+            document.getElementById('alcosound').play();
+        });
+        
     </script>
     <!-- <script src="/calculator.js">
 
