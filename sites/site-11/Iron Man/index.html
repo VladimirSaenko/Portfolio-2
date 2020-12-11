@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iron Man</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="img/icon-iron-man.jpg">
+</head>
+<body>
+    <section>
+        <img src="img/bg.jpg" id="bg">
+        <img src="img/moon.png" id="moon">
+        <img src="img/cloud1.png" id="cloud1">
+        <img src="img/cloud2.png" id="cloud2">
+        <img src="img/jet.png" id="jet">
+        <img src="img/ironman.png" id="ironman">
+    </section>
+    <div class="second">
+        <div class="content">
+            <h2> My name is Tony Stark and I'm not afraid of you, Shrek</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/ScrollTrigger.min.js" ></script>
+    <script>
+        gsap.to('#bg', {
+            scrollTrigger : {
+                scrub: true
+            },
+            y: 200,
+            scale: 1.5
+        })
+
+        gsap.to('#moon', {
+            scrollTrigger : {
+                scrub: true
+            },
+            x: -400,
+            scale: 2
+        })
+
+        gsap.to('#cloud1', {
+            scrollTrigger : {
+                scrub: true
+            },
+            x: -400
+        })
+
+        gsap.to('#cloud2', {
+            scrollTrigger : {
+                scrub: true
+            },
+            x: 300
+        })
+
+        gsap.to('#jet', {
+            scrollTrigger : {
+                scrub: true
+            },
+            x: 1000,
+            y: 200,
+            scale: 4,
+            rotation: -50
+        })
+
+        gsap.to('#ironman', {
+            scrollTrigger : {
+                scrub: true
+            },
+            x: 0,
+            y: -1800,
+            scale: -50
+        })
+    </script>
+</body>
+</html>
