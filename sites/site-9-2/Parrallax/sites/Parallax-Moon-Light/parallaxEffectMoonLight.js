@@ -15,7 +15,7 @@ window.addEventListener('scroll', function() {
     tittleFooter.style.transform = 'translateX(-0%)';
     isTFvis = true;
     function visGitImg() {
-        gitimgLink.style.transition = '3.5';
+        gitimgLink.style.transition = '2.5s';
         gitimgLink.style.visibility = 'visible';
         gitimgLink.style.transform = 'translateX(240%)';
     } 
