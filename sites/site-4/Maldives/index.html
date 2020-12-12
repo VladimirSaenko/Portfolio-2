@@ -26,17 +26,17 @@
         </div>
 
         <div class="content">
-            <h1>Maldives</h1>
+            <h1 id="tittle">Maldives</h1>
             <p>Very Nice appartaments in the heart Maldives</p>
-            <div class="btn" id="playbtn">
+            <div class="btn" id="playbtn" onclick="hiddenTittle()">
                 <img src="images/play.png" id="icon"> Watch Video
             </div>
         </div>
     </div>
     <script>
-        var backvideo = document.getElementById('backvideo');
-        var playbtn = document.getElementById('playbtn');
-        var icon = document.getElementById('icon');
+        let backvideo = document.getElementById('backvideo');
+        let playbtn = document.getElementById('playbtn');
+        let icon = document.getElementById('icon');
         playbtn.onclick = function () {
             backvideo.style.display = "block";
             if(backvideo.paused) {
