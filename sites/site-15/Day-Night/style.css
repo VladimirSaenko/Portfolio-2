@@ -1,0 +1,114 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+.scene {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(#111425,#3751e0);
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+.scene::before {
+    content: "";
+    position: absolute;
+    bottom: -100%;
+    left: 0;
+    width: 100%;
+    height: 250px;
+    transition: 0.5s;
+    background: linear-gradient(transparent,#fff,#2598f3);
+}
+
+.scene.active::before {
+    bottom: 0;
+}
+
+.scene.active {
+    background: linear-gradient(#ffeb3b,#ff9800);
+}
+
+.scene.active .moon {
+    left: 200px;
+    box-shadow: 0 0 20px rgba(255,255,255,0.5),
+    0 0 40px rgba(255,255,255,0.5),
+    0 0 80px rgba(255,255,255,0.5),
+    0 0 120px rgba(255,255,255,0.3),
+    0 0 180px rgba(255,255,255,0.2),
+    0 0 240px rgba(255,255,255,0.2),
+    0 0 300px rgba(255,255,255,0.1);
+}
+
+.scene.active .moon::before {
+    opacity: 0;
+    /* display: none; */
+}
+
+.moon {
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    width: 250px;
+    height: 250px;
+    background: white;
+    border-radius: 50%;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.moon::before {
+    content: "";
+    position: absolute;
+    top: -15px;
+    left: 15px;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: linear-gradient(#111425,#3751e0);
+    background-attachment: fixed;
+}
+
+.forest {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    transform: scale(1.2);
+    z-index: 100;
+    transition: 0.5s;
+}
+
+.scene.active .forest {
+    bottom: -100%;
+}
+
+.scene i {
+    position: absolute;
+    background: white;
+    border-radius: 50%;
+    animation: starsSpawn linear infinite;
+}
+
+.scene.active i {
+    display: none;
+}
+
+@keyframes starsSpawn {
+    0% {
+        opacity: 0;
+        transform: translateY(0px);
+    }
+    10%,90% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        transform: translateY(-100px);
+    }
+}
