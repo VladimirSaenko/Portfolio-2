@@ -21,7 +21,7 @@ function starsSpawn() {
         star.style.top = y + 'px';
         star.style.width = size + 'px';
         star.style.height = size + 'px';
-        star.style.animationDuration = 5 + duration + 's';
+        star.style.animationDuration = 15 + duration + 's';
         star.style.animationDelay = duration + 's';
         scene.appendChild(star);
         i++;
