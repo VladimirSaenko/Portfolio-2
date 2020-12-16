@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <title>The Witcher: Days and Nights</title> -->
+    <title>The Witcher | Days and Nights</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="img/icon.jpg">
+
+</head>
+<body>
+    <div class="mainscene" id="scene">
+        <div class="right" onmouseover="changeItemRight(),changeItemRightNight()" onmouseout="changeItemLeft()" id="right"></div>
+        <div class="left" onmouseover="changeItemLeft(),changeItemLeftNight()" onmouseout="changeItemRight()" id="left"></div>
+        <div class="sun" onclick="toggle()" id="sun"></div>
+        <div class="moon" onclick="retoggle()" id="moon"></div>
+        <img id="horse" onmouseover="changeItemLeft()" class="roach" src="img/witcher-horse.png">
+        <img class="witcher" id="geralt-of-Rivia" src="img/geralt-if-Rivia-witcher.png">
+        <img class="monster" id="leshyi" src="img/monster-leshyi.png">
+        <img class="raven-1" id="raven-1" src="img/raven.png">
+        <img class="raven-2" id="raven-2" src="img/raven.png">
+        <img class="raven-3" id="raven-3" src="img/raven.png">
+        <img class="hidden-ewok" id="bear" src="img/ewok.png">
+    </div>
+    <audio id="forestDay" src="audios/forest-sound.mp3"></audio>
+    <audio id="forestNight" src="audios/night-forest-sound.wav"></audio>
+    <audio id="goRoach" src="audios/go-roach-sound.mp3"></audio>
+    <audio id="ravens" src="audios/ravens-sound.mp3"></audio>
+    <script src="scripts/mainscript.js"></script>
+</body>
+</html>

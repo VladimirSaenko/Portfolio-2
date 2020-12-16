@@ -1,0 +1,160 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+.witcher {
+    visibility: hidden;
+    cursor: pointer;
+    position: absolute;
+    width: 400px;
+    bottom: 0;
+    /* left: 135vh; */
+    transform: scale(-1, 1);
+    transition: 2s;
+}
+
+.monster {
+    transition: 1.5s;
+    visibility: hidden;
+    position: absolute;
+    cursor: pointer;
+    bottom: 0;
+    width: 550px;
+    left: 135vh;
+    /* transform: scale(-1, 1); */
+}
+
+.mainscene {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url(img/forest.jpg);
+    /* background: url(img/forest-night.png); */
+    /* background: linear-gradient(#111425,#131d57); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+.right {
+    width: 50%;
+    position: absolute;
+    right: 0;
+    height: 100vh;
+    /* background: black; */
+}
+
+.left {
+    /* visibility: hidden; */
+    width: 50%;
+    height: 100vh;
+    /* background: red; */
+}
+
+.sun {
+    visibility: visible;
+    position: absolute;
+    top: 25px;
+    left: 175px;
+    width: 125px;
+    height: 125px;
+    /* background: white; */
+    background: radial-gradient(circle, rgb(237, 250, 49) 52%, rgba(255,255,255,1) 63%);
+    border-radius: 50%;
+    transition: 1.5s;
+    cursor: pointer;
+    box-shadow: 0 0 20px rgba(255,255,255,0.5),
+    0 0 40px rgba(255,255,255,0.5),
+    0 0 80px rgba(255,255,255,0.5),
+    0 0 120px rgba(255,255,255,0.3),
+    0 0 180px rgba(255,255,255,0.2),
+    0 0 240px rgba(255,255,255,0.2),
+    0 0 300px rgba(255,255,255,0.1);
+}
+
+.moon {
+    visibility: hidden;
+    position: absolute;
+    top: 45px;
+    left: 775px;
+    width: 200px;
+    height: 200px;
+    background: white;
+    border-radius: 50%;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.moon::before {
+    content: "";
+    position: absolute;
+    top: -5px;
+    left: 10px;
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    background: linear-gradient(#111425,#131d57);
+    background-attachment: fixed;
+    box-shadow: 0 0 20px rgba(255,255,255,0.5),
+    0 0 40px rgba(255,255,255,0.5),
+    0 0 80px rgba(255,255,255,0.5),
+    0 0 120px rgba(255,255,255,0.3),
+    0 0 180px rgba(255,255,255,0.2),
+    0 0 240px rgba(255,255,255,0.2),
+    0 0 300px rgba(255,255,255,0.1);
+}
+
+.roach {
+    visibility: visible;
+    cursor: pointer;
+    position: absolute;
+    width: 275px;
+    bottom: 0;
+    left: 100vh;
+    transition: 1.5s;
+}
+
+.hidden-ewok {
+    visibility: visible;
+    cursor: pointer;
+    position: absolute;
+    transition: 1s;
+    bottom: -250px;
+    right: 0;
+}
+
+.raven-1 {
+    transition: 1.5s;
+    cursor: pointer;
+    visibility: hidden;
+    position: absolute;
+    width: 150px;
+    left: 55%;
+    top: 150px;
+}
+
+.raven-2 {
+    transition: 1.5s;
+    cursor: pointer;
+    visibility: hidden;
+    position: absolute;
+    width: 150px;
+    left: 45%;
+    top: 50px;
+}
+
+.raven-3 {
+    transition: 1.5s;
+    cursor: pointer;
+    visibility: hidden;
+    position: absolute;
+    width: 150px;
+    left: 60%;
+    top: 50px;
+}
