@@ -28,7 +28,7 @@
    https://github.com/VladimirSaenko/Video-Scrolling
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-7/Video%20Scrolling/index.html 
    }
-  7. Калькулятор с кнопкой -3, 40, 300, 25 и звуком при нажатии на -3 и 40  {
+  7. Калькулятор с кнопкой -3, 40, 300, 25, 0.25, 0.5 и звуком при нажатии на -3, 40, 0.25 и 0.5  {
    https://github.com/VladimirSaenko/First-Calculator
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/First%20Calculator/index.html
    }
