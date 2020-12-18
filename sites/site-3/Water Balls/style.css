@@ -47,6 +47,12 @@ button {
     border: 1px solid white;
     border-radius: 70px;
     font-style: oblique;
+    /* text-align: center; */
+}
+
+button a {
+    color: white;
+    text-decoration: none;
 }
 
 .content {
