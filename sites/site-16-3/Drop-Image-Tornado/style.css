@@ -24,6 +24,10 @@ section span{
     animation: anime 6s linear;
 }
 
+section span {
+    border: black 20px solid;
+}
+
 @keyframes anime {
     0% {
         transform: perspective(500px) rotate(0deg) translateX(-250px);
