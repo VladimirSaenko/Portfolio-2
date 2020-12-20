@@ -70,3 +70,17 @@
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-16-1/Witcher-Days-and-Night/index.html
    https://github.com/VladimirSaenko/Witcher-Days-and-Nights
  }
+ 
+ 
+17. Drop Images | InvertRain {
+   https://github.com/VladimirSaenko/Drop-Images-InvertRain
+   https://vladimirsaenko.github.io/Portfolio-2/sites/site-16-2/Drop-Image-Rain/index.html
+}
+
+18. Drop Image | Tornado {
+  https://vladimirsaenko.github.io/Portfolio-2/sites/site-16-3/Drop-Image-Tornado/index.html
+  https://github.com/VladimirSaenko/Drop-Images-Tornado
+}
+
+
+
