@@ -113,3 +113,81 @@
         /* transform: translateY(100px); */
     }
 }
+
+
+@keyframes animCloud{
+    0% {
+        transform: translateX(-100%) scale(1);
+    }
+    100% {
+        transform: translateX(400%) scale(1.5);
+    }
+}
+
+.cloud1 {
+    position: absolute;
+    max-width: 600px;
+    left: 0;
+    z-index: 100000;
+    animation: animCloud 50s linear infinite;
+}
+
+.cloud2 {
+    position: absolute;
+    max-width: 600px;
+    left: 0;
+    z-index: 100000;
+    animation: animCloud 35s linear infinite;
+}
+
+.cloud3 {
+    position: absolute;
+    max-width: 600px;
+    left: 0;
+    top: 0;
+    z-index: 100000;
+    animation: animCloud 80s linear infinite;
+}
+
+.cloud4 {
+    position: absolute;
+    max-width: 200px;
+    left: 0;
+    top: 200px;
+    z-index: 100000;
+    animation-delay: -20s;
+    animation: animCloud 15s linear infinite;
+}
+
+.cloud5 {
+    position: absolute;
+    max-width: 500px;
+    left: 0;
+    top: 150px;
+    z-index: 100000;
+    animation-delay: -5s;
+    animation: animCloud 40s linear infinite;
+}
+
+.cloud6 {
+    position: absolute;
+    max-width: 400px;
+    left: 0;
+    top: 75px;
+    z-index: 100000;
+    animation-delay: -10s;
+    animation: animCloud 25s linear infinite;
+}
+
+img {
+    pointer-events: none;
+}
+
+.bg {
+    position: absolute;
+    bottom: 0;
+    max-width: 100%;
+    transition: 0.5s;
+    z-index: 1000;
+    transform: translateY(100%);
+}
