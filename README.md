@@ -82,5 +82,5 @@
   https://github.com/VladimirSaenko/Drop-Images-Tornado
 }
 
-
+  }
 
