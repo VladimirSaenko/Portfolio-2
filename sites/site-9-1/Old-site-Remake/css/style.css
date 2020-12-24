@@ -2,6 +2,7 @@
 * {
     margin: 0;
     padding: 0;
+    user-select: none;
 }
 
 body {
@@ -63,13 +64,13 @@ input {
     /* font-weight: 100; */
     /* color: black; */
     position: relative;
-    top: 35px;
-    font-size: 35px;
+    top: 20px;
+    font-size: 40px;
     width: 75%;
-    letter-spacing: 5px;
-    text-shadow: white -2px 5px 2px;
-    /* font-weight: 200; */
-    font-family: 'Do Hyeon', sans-serif;
+    letter-spacing: 1px;
+    text-shadow: white -2px  1.5px 1.5px;
+    /* font-family: 'Do Hyeon', sans-serif; */
+    font-family: 'Acme', sans-serif;
     user-select: none;
 
 }
