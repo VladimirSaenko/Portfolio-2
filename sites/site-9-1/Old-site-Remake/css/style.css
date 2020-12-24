@@ -61,7 +61,6 @@ input {
     visibility: hidden;
     cursor: default;
     text-align: center;
-    /* font-weight: 100; */
     /* color: black; */
     position: relative;
     top: 20px;
@@ -69,7 +68,6 @@ input {
     width: 75%;
     letter-spacing: 1px;
     text-shadow: white -2px  1.5px 1.5px;
-    /* font-family: 'Do Hyeon', sans-serif; */
     font-family: 'Acme', sans-serif;
     user-select: none;
 }
