@@ -129,6 +129,12 @@ h1 {
     user-select: none;
 }
 
+.bubbles img:hover {
+    /* visibility: hidden; */
+    opacity: 0;
+    transition: 1s;
+}
+
 .bubbles  {
     width: 100%;
     display: flex;
@@ -175,7 +181,7 @@ h1 {
 } 
 
 .bubbles img:nth-child(4) {
-    animation-delay: 5.5s;
+    animation-delay: 7s;
     width: 40px;
 } 
 
@@ -192,4 +198,4 @@ h1 {
 .bubbles img:nth-child(7) {
     animation-delay: 5s;
     width: 5px;
-} 
+}
