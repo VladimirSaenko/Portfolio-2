@@ -116,4 +116,26 @@
 }
 
 
+@media (max-width: 991px){
+    .container .imgBx{
+        display: none;
+    }
+    .container .countdownBx{
+        width: 100%;
+    }
+}
 
+@media (max-width: 600px){
+    .container .countdownBx h2{
+        font-size: 1.1em;
+    }
+    .container .countdownBx .countdown{
+        height: 100px;
+    }
+    .container .countdownBx .countdown div{
+        width: 80px;
+        color: #fff;
+        margin: 0;
+        margin-top: -25px;
+    }
+}
