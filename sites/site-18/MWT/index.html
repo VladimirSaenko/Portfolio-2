@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minimal Ways | MWT</title>
+    <!-- <title>Minimal Ways Taxi</title> -->
+    <!-- <title>www.min-ways-taxi.com.ua</title> -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/icon-logo.jpeg">
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Seymour+One:regular" rel="stylesheet" />
+</head>
+<body>
+   <header>
+       <ul class="menu-list">
+           <li class="li-frontpage">
+               <a class="frontpage-link" href="#frontpage">
+                   Титульная
+               </a>
+           </li>
+           <li class="li-main">
+               <a href="#main" class="link-mainsection">
+                   Главная
+               </a>
+           </li>
+           <!-- <li class="li-parthers_contacts">
+               <a href="#parthers_contacts" class="parthers_contacts-link">
+                   Parthers&Contacts
+               </a>
+           </li> -->
+       </ul>
+   </header>
+   <section class="front-page" id="frontpage">
+       <h1 class="tittle">
+           Minimal Way Taxi (MWT)
+       </h1>
+       <p class="p-description">!Служба, которая определит, какой путь/маршрут тебе по карману</p>
+       <p class="p-description-2">Представь, тебе нужно поехать за краской, 
+           но в кармане не так много, что делать? 
+           На каком такси лучше поехать? 
+           Где краска дешевле? Какой маршрут самый минимальный?</p>
+       <button></button>
+   </section>
+   <section class="main-section" id="main">
+       <h2 class="tittle-2">
+           ?Какой выбрать путь?
+       </h2>
+       <ul class="storelist">
+           <li class="colorli-1">
+               <h3 class="tittle_color"></h3>
+               <div class="colorset-1" id="color1" onclick="getRandomColor1()"></div>
+               <p class="colorcost-1" id="colorcost1"></p>
+           </li>
+           <li class="store-1">
+               <h3 class="tittle_store-1">Магазин №1</h3>
+               <img class="img-store" src="images/home.png">
+           </li>
+           <li class="store-2">
+            <h3 class="tittle_store-2">Магазин №2</h3>
+            <img class="img-store" src="images/home.png">
+           </li>
+           <li class="colorli-2">
+            <h3 class="tittle_color"></h3>
+            <div class="colorset-2" onclick="getRandomColor2()" id="color2"></div>
+            <p class="colorcost-2" id="colorcost2"></p>
+           </li>
+       </ul>
+       <ul class="wayslist">
+           <li class="taxcomp-1">
+               <div class="company-1"></div>
+               <p class="taxcost-1" id="taxcost1"></p>
+           </li>
+           <li class="roadcost-1">
+               <div>
+                   <h3 class="roadcost-tittle1" id="resulcost1">1 cost:</h3>
+               </div>
+           </li>
+           <li class="way-1">
+               <img class="img-road1" id="road1" src="images/road.png">
+           </li>
+           <li class="way-2">
+            <img class="img-road2" id="road2" src="images/road.png">
+           </li>
+           <li class="roadcost-2">
+               <div>
+                   <h3 class="roadcost-tittle2" id="resulcost2">2 cost:</h3>
+               </div>
+           </li>    
+           <li class="taxcomp-2">
+               <div class="company-2"></div>
+               <p class="taxcost-2" id="taxcost2"></p>
+           </li>
+       </ul>
+       <input type="number" class="limInp" id="limit" required type="number" autocomplete="off" placeholder="Введите ваш лимит денег">
+       <button class="limButt" id="LimButton">
+           <a href="#forma" onclick="calculateMinimalWay()">Рассчитать</a>
+       </button>
+    <form id="forma" class="resultForm">
+        <button id="close" onclick="closeResultForm()" class="closeButton">X</button>
+       <h2 class="tittle-result">Итог</h2>
+       <span id="resultext" class="text-result"></span>
+       <h4 class="resultColor-text"></h4>
+       <div class="resultColor"></div>
+       <div class="secondResultColor"></div>
+    </form>
+   </section>
+   <footer id="parthers_contacts">
+       <div class="git-block">
+           <a href="https://github.com/VladimirSaenko">
+           <img class="git-img" src="images/gitimg.jpg">
+           </a>
+       </div>
+   </footer>
+   <script src="scripts/mainscript.js"></script>
+</body>
+</html>
