@@ -54,6 +54,8 @@ function calculateMinimalWay() {
     hiddenResultForm.style.visibility = 'visible';
     closeButton.style.visibility = 'visible';
     resultText.textContent = 'Ваш лимит очень маленький, увеличьте его';
+    resultColor.style.visibility = 'hidden';
+    secondResultColor.style.visibility = 'hidden';
  }
 
 }
