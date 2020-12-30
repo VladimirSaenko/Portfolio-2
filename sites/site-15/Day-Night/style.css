@@ -191,3 +191,53 @@ img {
     z-index: 1000;
     transform: translateY(100%);
 }
+
+@media (max-width: 600px) {
+    .moon {
+        position: absolute;
+        top: 50px;
+        left: 25%;
+        width: 250px;
+        height: 250px;
+        background: white;
+        border-radius: 50%;
+        transition: 0.5s;
+        cursor: pointer;
+    }
+    
+    .cloud1 {
+        display: none;
+        animation: none;
+        transition: 0s;
+    }
+    
+    .cloud2 {
+        display: none;
+        animation: none;
+        transition: 0s;
+    }
+    
+    .cloud3 {
+        display: none;
+        animation: none;
+        transition: 0s;
+    }
+    
+    .cloud4 {
+        display: none;
+        animation: none;
+        transition: 0s;
+    }
+    
+    .cloud5 {
+        display: none;
+        animation: none;
+        transition: 0s;
+    }
+    
+    .cloud6 {
+        display: none;
+        animation: none;
+        transition: 0s;
+    }
+}

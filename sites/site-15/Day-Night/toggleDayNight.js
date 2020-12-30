@@ -27,4 +27,5 @@ function starsSpawn() {
         i++;
     }
 }
+
 starsSpawn();
