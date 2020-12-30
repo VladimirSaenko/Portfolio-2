@@ -98,3 +98,22 @@ section::before {
     top: 0;
     max-width: 100%;
 }
+
+
+@media (max-width: 600px) {
+    #cloud1, #cloud2 {
+        display: none;
+    }
+    
+    .second h2 {
+        text-align: center;
+        /* text-transform: capitalize; */
+        font-size: 3em;
+        /* font-size: 40px; */
+        color: white;
+        position: relative;
+        bottom: 55px;
+    }
+}
+
+
