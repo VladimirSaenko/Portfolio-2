@@ -199,3 +199,45 @@ h1 {
     animation-delay: 5s;
     width: 5px;
 }
+
+@media (max-width: 600px) {
+    .kek-button {
+        position: relative;
+        left: 70px;
+        top: 20px;
+        border: white 5px solid;
+        width: 250px;
+        height: 75px;
+        font-size: 21.5px;
+        text-shadow: black 5px 3.7px 2px;
+    }
+
+    .nonSign-button {
+        display: none;
+    }
+
+    .content h1 {
+        text-shadow: black 5px 5px 1px;
+        font-size: 83.5px;
+    }
+    
+    .content small {
+        position: relative;
+        left: 15%;
+        /* bottom: 25px; */
+        font-size: 55px;
+        text-shadow: black 5px 5px 1px;
+    }
+
+    .img-logo {
+        position: relative;
+        left: 35.5%;
+        top: 5px;
+        width: 250px;
+        height: 100px;
+    }
+
+    .side_bar {
+        display: none;
+    }
+}
