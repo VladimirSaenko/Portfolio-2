@@ -82,5 +82,18 @@
   https://github.com/VladimirSaenko/Drop-Images-Tornado
 }
 
+19. Countdown to New Year | 2021 {
+  https://vladimirsaenko.github.io/Portfolio-2/sites/site-17/Countdown-NY/index.html
+  https://github.com/VladimirSaenko/Countdown-site-example
+}
+
+20. MWT {
+   https://github.com/VladimirSaenko/Minimal-Ways-Cost-MWT
+   https://vladimirsaenko.github.io/Portfolio-2/sites/site-18/MWT/index.html
+}  
   }
+
+
+
+
 
