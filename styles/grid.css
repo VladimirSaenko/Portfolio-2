@@ -44,6 +44,14 @@
     body {
         background: linear-gradient(0deg, rgba(33,197,0,1) 50%, rgba(33,0,255,1) 75%);
     }
+
+    .album_videoscroll {
+        display: none;
+    }
+
+    .hidd_album {
+        display: none;
+    }
 }
 
 @media all and(max-width:380px) {
@@ -56,7 +64,11 @@
     }
 
     .album_videoscroll {
-        visibility: hidden;
+        display: none;
+    }
+
+    .hidd_album {
+        display: none;
     }
 
     body {
