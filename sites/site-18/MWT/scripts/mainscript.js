@@ -1,3 +1,4 @@
+
 "use scrpit";
 
 let userLim = document.getElementById('limit');
@@ -16,6 +17,8 @@ let resultColor = document.querySelector('.resultColor');
 let secondResultColor = document.querySelector('.secondResultColor');
 let resultcolorText = document.querySelector('.resultColor-text');
 
+hiddenResultForm.style.visibility = 'hidden';
+
 
 function calculateMinimalWay() {
  if(userLim.value > way1 && userLim.value > way2) {
@@ -23,8 +26,11 @@ function calculateMinimalWay() {
     closeButton.style.visibility = 'visible';
     resultText.textContent = "Ваш лимит позволяет вам воспользоваться обеями путями";
     resultcolorText.textContent = "Оба цвета";
+    resultcolorText.style.visibility = 'visible';
     resultColor.style.background = randomColor1.style.background;
     resultColor.style.left = '50%';
+    resultColor.style.visibility = "visible";
+    secondResultColor.style.visibility = "visible";
     secondResultColor.style.background = randomColor2.style.background;
  }
 
@@ -46,6 +52,7 @@ function calculateMinimalWay() {
     resultText.textContent = "Второй путь за " + way2 + " до магазина с краской- " + randomColor2.style.background +  
     "; самый минимальный для вашего лимита";
     resultcolorText.textContent = "Второй цвет";
+    resultcolorText.style.visibility = "visible";
     resultColor.style.background = randomColor2.style.background;
     resultColor.style.left = '46.5%';
     resultColor.style.visibility = 'visible';
@@ -97,6 +104,14 @@ function closeResultForm() {
     hiddenResultForm.style.visibility = 'hidden';
     closeButton.style.visibility = 'hidden';
     closeButton.style.transition = '0s';
+    resultColor.style.visibility = 'hidden';
+    resultcolorText.style.visibility = 'hidden';
+    secondResultColor.style.visibility = 'hidden';
+    colorcost1 = getRandomInt(0,100);
+    colorcost2 = getRandomInt(0,100);
+    taxcost1 = getRandomInt(0,100);
+    taxcost2 = getRandomInt(0,100);
+    getRandomColors();
 }
 
 
