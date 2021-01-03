@@ -55,9 +55,10 @@ function calculateMinimalWay() {
  if(userLim.value < way1 && userLim.value < way2 || userLim.value == 0) {
     hiddenResultForm.style.visibility = 'visible';
     closeButton.style.visibility = 'visible';
-    resultText.textContent = 'Ваш лимит очень маленький, увеличьте его';
+    resultText.textContent = 'Ваш лимит очень маленький';
     resultColor.style.visibility = 'hidden';
     secondResultColor.style.visibility = 'hidden';
+    resultcolorText.style.visibility = 'hidden';
  }
 
 }
