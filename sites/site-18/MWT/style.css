@@ -194,6 +194,10 @@ header {
 }
 
 .tittle_color {
+    display: block;
+    user-select: text;
+    /* visibility: hidden; */
+    visibility: visible;
     cursor: default;
     text-align: center;
     margin-bottom: 25px;
@@ -317,6 +321,10 @@ header {
 .way-2 {
     position: relative;
     right: 100px;
+}
+
+.roadcost-1, .roadcost-2 {
+    display: none;
 }
 
 .roadcost-1 div {

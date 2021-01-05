@@ -16,8 +16,12 @@ let closeButton = document.getElementById('close');
 let resultColor = document.querySelector('.resultColor');
 let secondResultColor = document.querySelector('.secondResultColor');
 let resultcolorText = document.querySelector('.resultColor-text');
+let rgbColorText1 = document.getElementById('rgbColorText-1');
+let rgbColorText2 = document.getElementById('rgbColorText-2');
 
 hiddenResultForm.style.visibility = 'hidden';
+// rgbColorText1.style.visibility = 'visible';
+// rgbColorText2.style.visibility = 'visible';
 
 
 function calculateMinimalWay() {
@@ -37,8 +41,10 @@ function calculateMinimalWay() {
  if(way1 < way2 && userLim.value >= way1 && userLim.value < way2) {
     hiddenResultForm.style.visibility = 'visible';
     closeButton.style.visibility = 'visible';
-    resultText.textContent = "Первый путь за " + way1 + " до магазина с краской- " + randomColor1.style.background +
+    let wayColor1 = randomColor1.style.background;
+    resultText.textContent = "Первый путь за " + way1 + " до магазина с краской- " + wayColor1 +
     " самый минимальный для вашего лимита";
+    resultcolorText.style.visibility = "visible";
     resultcolorText.textContent = "Первый цвет";
     resultColor.style.background = randomColor1.style.background;
     resultColor.style.left = '46.5%';
@@ -49,7 +55,8 @@ function calculateMinimalWay() {
  if(way2 < way1 && userLim.value >= way2 && userLim.value < way1) {
     hiddenResultForm.style.visibility = 'visible';
     closeButton.style.visibility = 'visible';
-    resultText.textContent = "Второй путь за " + way2 + " до магазина с краской- " + randomColor2.style.background +  
+    let wayColor2 = randomColor2.style.background;
+    resultText.textContent = "Второй путь за " + way2 + " до магазина с краской- " + wayColor2 +  
     "; самый минимальный для вашего лимита";
     resultcolorText.textContent = "Второй цвет";
     resultcolorText.style.visibility = "visible";
@@ -70,35 +77,41 @@ function calculateMinimalWay() {
 
 }
 
-
 function getRandomColors() {
     randomColor1.style.background = 'rgb(' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ')';
     randomColor2.style.background = 'rgb(' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ')';
+    rgbColorText1.textContent = randomColor1.style.background;
+    rgbColorText1.style.color = randomColor1.style.background;
+    rgbColorText2.textContent = randomColor2.style.background;
+    rgbColorText2.style.color = randomColor2.style.background;
 }
-
 
 function ifEqualyColors() {
     if(randomColor1.style.background == randomColor2.style.background) {
         randomColor1.style.background = 'rgb(' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ')';
         randomColor2.style.background = 'rgb(' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ')';
+        rgbColorText1.textContent = randomColor1.style.background;
+        rgbColorText1.style.color = randomColor1.style.background;
+        rgbColorText2.textContent = randomColor2.style.background;
+        rgbColorText2.style.color = randomColor2.style.background;
     }
 }
 
-
 function getRandomColor1() {
     randomColor1.style.background = 'rgb(' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ')';
+    rgbColorText1.textContent = randomColor1.style.background;
+    rgbColorText1.style.color = randomColor1.style.background;
 }
-
 
 function getRandomColor2() {
     randomColor2.style.background = 'rgb(' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ')';
+    rgbColorText2.textContent = randomColor2.style.background;
+    rgbColorText2.style.color = randomColor2.style.background;
 }
-
 
 function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min)) + min;
 }
-
 
 function closeResultForm() {
     hiddenResultForm.style.visibility = 'hidden';
@@ -113,6 +126,7 @@ function closeResultForm() {
     taxcost2 = getRandomInt(0,100);
     getRandomColors();
 }
+
 
 
 
