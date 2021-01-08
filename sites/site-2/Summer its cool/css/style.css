@@ -11,6 +11,7 @@
 }
 
 .item {
+    user-select: none;
     border: 1px solid black;
     /* cursor: default; */
     cursor: pointer;
