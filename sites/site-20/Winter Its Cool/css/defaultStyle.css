@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  font-family: 'Bad Script', sans-serif;
+}
+
+@media (max-width: 640px){
+  .slider{
+    height: 100vh;
+    flex-direction: column;
+  }
+  .item{
+    width: 100%;
+    user-select: none;
+    cursor: none;
+  }
+  .item:hover{
+    flex-grow: 30%;
+  }
+}
