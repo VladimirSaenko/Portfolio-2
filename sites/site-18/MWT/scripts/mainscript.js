@@ -75,6 +75,15 @@ function calculateMinimalWay() {
     resultcolorText.style.visibility = 'hidden';
  }
 
+ if(userLim.value < 0) {
+    hiddenResultForm.style.visibility = 'visible';
+    closeButton.style.visibility = 'visible';
+    resultText.textContent = 'Ваш лимит минусовой, напишете число больше 0';
+    resultColor.style.visibility = 'hidden';
+    secondResultColor.style.visibility = 'hidden';
+    resultcolorText.style.visibility = 'hidden';
+ }
+
 }
 
 function getRandomColors() {

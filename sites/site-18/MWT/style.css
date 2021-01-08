@@ -268,6 +268,7 @@ header {
 }
 
 .p-description {
+    user-select: text;
     font-family: 'Roboto', sans-serif;
     cursor: default;
     position: absolute;
@@ -280,6 +281,7 @@ header {
 }
 
 .p-description-2 {
+    user-select: text;
     font-family: 'Roboto', sans-serif;
     cursor: default;
     position: relative;
