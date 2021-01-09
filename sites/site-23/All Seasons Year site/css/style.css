@@ -48,21 +48,21 @@ a {
 }
 
 .item-1 {
-    background: url(/img/Summer.jpg) center;
+    background: url(../img/Summer.jpg) center;
     background-size: cover;
 }
 .item-2 {
-    background: url(/img/Winter.jpg) center;
+    background: url(../img/Winter.jpg) center;
     background-size: cover;
 }
 
 .item-3 {
-    background: url(/img/Autumn.jpg) center;
+    background: url(../img/Autumn.jpg) center;
     background-size: cover;
 }
 
 .item-4 {
-    background: url(/img/Spring.jpg) center;
+    background: url(../img/Spring.jpg) center;
     background-size: cover;
 }
 
