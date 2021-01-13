@@ -6,6 +6,9 @@ function lifestyleText() {
     document.getElementById('image').src = "img/two_girls_image.png";
     document.getElementById('lorem').style.visibility = "visible";
     document.getElementById('calltittle').style.visibility = "hidden";
+    if(window.matchMedia("max-width:600px")) {
+        document.getElementById('tittle').style.fontSize = "75px";
+    }
 }
 
 function photodiaryText() {
@@ -13,6 +16,9 @@ function photodiaryText() {
     document.getElementById('image').src = "img/coffe_image.png";
     document.getElementById('lorem').style.visibility = "visible";
     document.getElementById('calltittle').style.visibility = "hidden";
+    if(window.matchMedia("max-width:600px")) {
+        document.getElementById('tittle').style.fontSize = "60px";
+    }
 }
 
 function musicText() {

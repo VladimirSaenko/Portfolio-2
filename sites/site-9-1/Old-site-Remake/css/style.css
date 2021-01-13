@@ -7,7 +7,8 @@
 
 body {
     /* background: darkblue; */
-    background: radial-gradient(circle, rgba(14,15,240,0.9363095580028886) 44%, rgba(23,34,121,1) 98%);
+    background: radial-gradient(circle, rgba(14,15,240,0.9363095580028886) 44%, 
+    rgba(23,34,121,1) 98%);
     height: 100vh;
 }
 
@@ -50,7 +51,6 @@ input {
     position: relative;
     bottom: 45px;
     cursor: default;
-    user-select: none;
     font-size: 95px;
     text-transform: uppercase;
     font-family: 'Playfair Display', serif;
@@ -66,14 +66,12 @@ input {
     top: 20px;
     font-size: 40px;
     width: 75%;
-    letter-spacing: 1px;
+    letter-spacing: -0.5px;
     text-shadow: white -2px  1.5px 1.5px;
     font-family: 'Acme', sans-serif;
-    user-select: none;
 }
 
 .slide-img {
-    user-select: none;
     width: 575px;
 }
 
@@ -111,6 +109,8 @@ input {
     font-weight: bold;
     text-shadow: white 5px 3px 1px;
     font-size: 45px;
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase;
 }
 
 .buttslider-tittle:hover {
@@ -123,16 +123,68 @@ input {
     width: 415px;
 }
 
-.buttslider-tittle {
-    font-family: 'Playfair Display', serif;
-    text-transform: uppercase;
-}
-
 .call-tittle {
     font-family: 'Anton', sans-serif;
     cursor: default;
     text-shadow: white 3px 2.5px 2px;
     font-size: 40px;
     visibility: visible;
-    user-select: none;
+}
+
+@media(max-width:600px) {
+
+    .header {
+        height: 350px;
+    }
+
+    .buttslider-list {
+        top: 125px;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .buttslider-item {
+        border: white 10px solid;
+        margin: 15px 0px;
+    }
+
+    .buttslider-tittle {
+        top: -3%;
+    }
+
+    .buttslider-item:nth-child(2) {
+        width: 425px;
+        font-size: 25px;
+    }
+
+    .slidebox {
+        margin-top: 30%;
+        width: 435px;
+        height: 750px;
+    }
+
+    .call-tittle {
+        text-shadow: white 3px 2.5px 2px;
+        font-size: 55px;
+        margin: 150px 0px 0px 12px;
+    }
+
+    .buttslider-bar {
+        height: 400px;
+    }
+
+    .slide-tittle {
+        bottom: 50%;
+    }
+
+    .slide-img {
+        width: 100%;
+        position: relative;
+        bottom: 35%;
+    }
+
+    .lorem-text {
+        display: none;
+    }
 }
