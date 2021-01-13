@@ -20,15 +20,12 @@ let rgbColorText1 = document.getElementById('rgbColorText-1');
 let rgbColorText2 = document.getElementById('rgbColorText-2');
 
 hiddenResultForm.style.visibility = 'hidden';
-// rgbColorText1.style.visibility = 'visible';
-// rgbColorText2.style.visibility = 'visible';
-
 
 function calculateMinimalWay() {
  if(userLim.value > way1 && userLim.value > way2) {
     hiddenResultForm.style.visibility = 'visible';
     closeButton.style.visibility = 'visible';
-    resultText.textContent = "Ваш лимит позволяет вам воспользоваться обеями путями";
+    resultText.textContent = "Ваш лимит позволяет вам воспользоваться обеями путями на ваш выбор";
     resultcolorText.textContent = "Оба цвета";
     resultcolorText.style.visibility = 'visible';
     resultColor.style.background = randomColor1.style.background;
@@ -66,6 +63,19 @@ function calculateMinimalWay() {
     secondResultColor.style.visibility = 'hidden';
  }
 
+ if(way1 == way2 && userLim.value > way1 && way2) {
+    hiddenResultForm.style.visibility = 'visible';
+    closeButton.style.visibility = 'visible';
+    resultText.textContent = "Ваш лимит позволяет вам воспользоваться обеями путями на ваш выбор";
+    resultcolorText.textContent = "Оба цвета";
+    resultcolorText.style.visibility = 'visible';
+    resultColor.style.background = randomColor1.style.background;
+    resultColor.style.left = '50%';
+    resultColor.style.visibility = "visible";
+    secondResultColor.style.visibility = "visible";
+    secondResultColor.style.background = randomColor2.style.background;
+ }
+
  if(userLim.value < way1 && userLim.value < way2 || userLim.value == 0) {
     hiddenResultForm.style.visibility = 'visible';
     closeButton.style.visibility = 'visible';
@@ -73,6 +83,7 @@ function calculateMinimalWay() {
     resultColor.style.visibility = 'hidden';
     secondResultColor.style.visibility = 'hidden';
     resultcolorText.style.visibility = 'hidden';
+    alert(way1 + "and" + way2);
  }
 
  if(userLim.value < 0) {
@@ -83,6 +94,7 @@ function calculateMinimalWay() {
     secondResultColor.style.visibility = 'hidden';
     resultcolorText.style.visibility = 'hidden';
  }
+ getRandomCostWays();
 
 }
 
@@ -106,6 +118,12 @@ function ifEqualyColors() {
     }
 }
 
+function ifEgualyRandomCostWay() {
+    if(way1 == way2) {
+        getRandomCostWays()
+    }
+}
+
 function getRandomColor1() {
     randomColor1.style.background = 'rgb(' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ')';
     rgbColorText1.textContent = randomColor1.style.background;
@@ -122,6 +140,15 @@ function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min)) + min;
 }
 
+function getRandomCostWays() {
+    colorcost1 = getRandomInt(0,100);
+    colorcost2 = getRandomInt(0,100);
+    taxcost1 = getRandomInt(0,100);
+    taxcost2 = getRandomInt(0,100);
+    way1 = colorcost1 + taxcost1;
+    way2 = colorcost2 + taxcost2;
+}
+
 function closeResultForm() {
     hiddenResultForm.style.visibility = 'hidden';
     closeButton.style.visibility = 'hidden';
@@ -134,10 +161,10 @@ function closeResultForm() {
     taxcost1 = getRandomInt(0,100);
     taxcost2 = getRandomInt(0,100);
     getRandomColors();
+    getRandomCostWays();
 }
-
-
-
 
 getRandomColors();
 ifEqualyColors();
+getRandomCostWays();
+ifEgualyRandomCostWay()
