@@ -98,6 +98,7 @@
        <button class="limButt" id="LimButton">
            <a href="#forma" onclick="calculateMinimalWay()">Рассчитать</a>
        </button>
+       <input id="randomLimits" list="randomLimitNumbers" type="number" class="limitRandomButton" autocomplete="off" placeholder="лимит рандома">
     <form id="forma" class="resultForm">
         <button id="close" onclick="closeResultForm()" class="closeButton">X</button>
        <h2 class="tittle-result">Итог</h2>
@@ -107,6 +108,15 @@
        <div class="secondResultColor"></div>
     </form>
    </section>
+   <datalist id="randomLimitNumbers">
+    <option value="10"></option>
+    <option value="50"></option>
+    <option value="100"></option>
+    <option value="250"></option>
+    <option value="300"></option>
+    <option value="500"></option>
+    <option value="1000"></option>
+</datalist>
    <footer id="parthers_contacts">
        <div class="git-block">
            <a href="https://github.com/VladimirSaenko">

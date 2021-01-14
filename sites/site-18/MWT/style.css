@@ -315,6 +315,26 @@ header {
     font-size: 45px;
 }
 
+.limInp::placeholder {
+    color: black;
+}
+
+.limitRandomButton {
+    position: relative;
+    right: 35%;
+    top: 24%;
+    width: 200px;
+    height: 75px;
+    outline: none;
+    border: rgb(12, 12, 12) 5px solid;
+    border-radius: 15px;
+}
+
+.limitRandomButton::placeholder {
+    font-size: 23px;
+    color: black;
+}
+
 .way-1 {
     position: relative;
     left: 75px;
