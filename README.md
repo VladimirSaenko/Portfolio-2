@@ -183,6 +183,22 @@ P.S Некоторые сайты отсутствуют на мобильной
  
  }
  
+ 24. Gradient Photos site {
+ 
+ https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Gradient-Photo-site/index.html
+ 
+ https://github.com/VladimirSaenko/Gradient-Photo-site.git
+ 
+ }
+ 
+ 25. Clip-Path-site {
+ 
+ https://vladimirsaenko.github.io/Portfolio-2/sites/site-25/Clip-Path/index.html
+ 
+ https://github.com/VladimirSaenko/Clip-Path-site.git
+ 
+ }
+ 
    }
 
 
