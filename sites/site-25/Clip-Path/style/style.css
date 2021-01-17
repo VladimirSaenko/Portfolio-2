@@ -1,0 +1,41 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    box-sizing: border-box;
+}
+
+body {
+    height: 300vh;
+    background: url(../img/shrek.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+section {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+}
+
+section .side {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url(../img/bg.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+section .side#side1{
+    clip-path: polygon(0 0, 64% 0%, 33% 13%, 63% 21%, 38% 28%, 52% 32%, 37% 39%, 59% 46%, 39% 52%, 65% 61%, 34% 67%, 56% 70%, 30% 79%, 60% 83%, 27% 92%, 58% 100%, 0 100%);
+}
+
+section .side#side2{
+    clip-path: polygon(100% 0, 64% 0%, 33% 13%, 63% 21%, 38% 28%, 52% 32%, 37% 39%, 59% 46%, 39% 52%, 65% 61%, 34% 67%, 56% 70%, 30% 79%, 60% 83%, 27% 92%, 58% 100%, 100% 100%);
+}

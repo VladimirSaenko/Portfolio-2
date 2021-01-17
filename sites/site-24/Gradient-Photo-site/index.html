@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gradient Photos site</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="box"><img src="images/movie1.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie2.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie3.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie4.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie5.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie6.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie7.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie8.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie9.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie10.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie11.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie12.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie13.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie14.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie15.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie16.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie17.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie18.jpg" alt="sanya"></div>
+        <div class="box"><img src="images/movie19.jpg" alt="sanya"></div>
+    </div>
+    <script src="https://unpkg.com/grade-js/docs/dist/grade.js"></script>
+<script type="text/javascript">
+    window.addEventListener('load', function(){
+        /*
+            A NodeList of all your image containers (Or a single Node).
+            The library will locate an <img /> within each
+            container to create the gradient from.
+         */
+        Grade(document.querySelectorAll('.box'))
+    })
+</script>
+</body>
+</html>
