@@ -15,7 +15,7 @@ header {
 .front-page {
     width: auto;
     height: 865px;
-    background: url(images/tax.jpeg);
+    background: url(../images/tax.jpeg);
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
@@ -262,7 +262,6 @@ header {
     left: 42%;
 }
 
-
 .img-store {
     width: 375px;
 }
@@ -345,52 +344,6 @@ header {
     right: 100px;
 }
 
-.roadcost-1, .roadcost-2 {
-    display: none;
-}
-
-.roadcost-1 div {
-    border-radius: 35px;
-    position: relative;
-    left: 125px;
-    top: 50%;
-    width: 200px;
-    height: 75px;
-    background: black;
-}
-
-.roadcost-2 div {
-    border-radius: 35px;
-    position: relative;
-    top: 50%;
-    right: 175px;
-    height: 75px;
-    width: 200px;
-    background: black;
-}
-
-.roadcost-tittle1, .roadcost-tittle2 {
-    font-family: 'Anton', sans-serif;
-    font-weight: 100;
-    letter-spacing: 5px;
-    text-align: center;
-    text-transform: capitalize;
-    font-size: 45px;
-    color: white;
-    cursor: default;
-}
-
-
-.colorcost-1, .colorcost-2, .taxcost-1, .taxcost-2 {
-    font-family: 'Anton', sans-serif;
-    text-align: center;
-    font-size: 45px;
-    width: auto;
-    background: black;
-    color: white;
-    /* cursor: default; */
-}
-
 .limButt {
     outline: none;
     cursor: pointer;
@@ -454,9 +407,3 @@ footer {
     background: linear-gradient(rgba(9,9,121,0.9587185215883228), #091921);
 }
 
-/* .company-1, .company-2 {
-    visibility: hidden;
-    width: 200px;
-    height: 150px;
-    border: gray 15px groove;
-} */

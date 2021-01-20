@@ -20,7 +20,7 @@ let resultcolorText = document.querySelector('.resultColor-text');
 let rgbColorText1 = document.getElementById('rgbColorText-1');
 let rgbColorText2 = document.getElementById('rgbColorText-2');
 
-hiddenResultForm.style.visibility = 'hidden';
+// hiddenResultForm.style.visibility = 'hidden';
 
 function mainFunc() {
     if(randomLimits.value == 100) {
@@ -184,6 +184,15 @@ function calculateMinimalWay() {
       secondResultColor.style.visibility = 'hidden';
       resultcolorText.style.visibility = 'hidden';
    }
+
+   if(userLim.value == 0 && way1 == 0 && way2 == 0) {
+      hiddenResultForm.style.visibility = 'visible';
+      closeButton.style.visibility = 'visible';
+      resultText.textContent = 'Введите лимит';
+      resultColor.style.visibility = 'hidden';
+      secondResultColor.style.visibility = 'hidden';
+      resultcolorText.style.visibility = 'hidden';
+   }
 }
 
 function getRandomColors() {
@@ -208,7 +217,7 @@ function ifEqualyColors() {
 
 function ifEgualyRandomCostWay() {
     if(way1 == way2) {
-      getRandomCostWays()
+      getRandomCostWays();
     }
 }
 
@@ -251,6 +260,7 @@ function closeResultForm() {
    getRandomColors();
    getRandomCostWays();
 }
+
 
 getRandomColors();
 ifEqualyColors();
