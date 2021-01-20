@@ -20,7 +20,7 @@ let resultcolorText = document.querySelector('.resultColor-text');
 let rgbColorText1 = document.getElementById('rgbColorText-1');
 let rgbColorText2 = document.getElementById('rgbColorText-2');
 
-// hiddenResultForm.style.visibility = 'hidden';
+hiddenResultForm.style.visibility = 'hidden';
 
 function mainFunc() {
     if(randomLimits.value == 100) {
