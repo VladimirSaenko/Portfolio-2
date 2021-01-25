@@ -1,0 +1,149 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.maincontainer {
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+}
+
+.hexagonBlock-1, .hexagonBlock-2, .hexagonBlock-3, .hexagonBlock-4, .hexagonBlock-5 {
+    border: 2px solid grey;
+    cursor: pointer;
+    height: 100vh;
+    display: flex;
+    flex-basis: 25%;
+    justify-content: center;
+    align-items: center;
+}
+
+.hexagonBlock-1 {
+    background: white;
+    /* background: inherit; */
+}
+
+.hexagonBlock-2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    animation: anime 2s linear infinite;
+    background: black;
+}
+
+.hexagonBlock-1:hover, .hexagonBlock-3:hover, .hexagonBlock-4:hover, .hexagonBlock-5:hover {
+    background: black;
+    transition: 0.5s;
+}
+
+.hexagonTittle-1 {
+    font-family: 'Potta One', cursive;
+    position: fixed;
+    text-transform: uppercase;
+    top: 25%;
+    left: 3%;
+    color: black;
+    text-decoration: none;
+    font-size: 35px;
+}
+
+.hexagonTittle-2 {
+    font-family: 'Potta One', cursive;
+    position: fixed;
+    text-transform: uppercase;
+    color: white;
+    font-size: 35px;
+    top: 25%;
+    left: 17%;
+}
+
+.hexagonTittle-3 {
+    font-family: 'Potta One', cursive;
+    position: fixed;
+    text-transform: uppercase;
+    color: black;
+    font-size: 35px;
+    top: 25%;
+    left: 43%;
+}
+
+.hexagonTittle-4 {
+    font-family: 'Potta One', cursive;
+    position: fixed;
+    text-transform: uppercase;
+    color: black;
+    font-size: 35px;
+    top: 25%;
+    left: 63%;
+}
+
+.hexagonTittle-5 {
+    font-family: 'Potta One', cursive;
+    position: fixed;
+    text-transform: uppercase;
+    color: black;
+    font-size: 35px;
+    top: 25%;
+    right: 25px;
+}
+
+.hexagon-1 {
+    width: 160px;
+    height: 170px;
+    background: #111;
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
+.hexagon-2 {
+    position: relative;
+    width: 160px;
+    height: 170px;
+    background: #0f0;
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
+.hexagon-3 {
+    position: relative;
+    width: 160px;
+    height: 170px;
+    background: #111;
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
+.hexagon-4 {
+    position: relative;
+    width: 160px;
+    height: 170px;
+    background: #111;
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
+.hexagon-5 {
+    position: relative;
+    width: 160px;
+    height: 170px;
+    background: #111;
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
+
+
+@keyframes anime {
+
+    0% {
+        filter: hue-rotate(0deg);
+    }
+
+    100% {
+        filter: hue-rotate(360deg);
+    }
+}
