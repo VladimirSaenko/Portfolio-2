@@ -46,9 +46,10 @@ function hoverHexagon2() {
 
 function onhoverHexagon2() {
     hexagon2Block.style.transition = "0.8s";
-    hexagon2Block.style.background = "black";
+    hexagon2Block.style.background = "white";
+    // hexagon2Block.style.background = "black";
     hexagon2Block.style.borderColor = "grey";
-    hexagon2Tittle.style.color = "white";
+    hexagon2Tittle.style.color = "black";
     hexagon2Tittle.style.textShadow = "none";
 }
 
@@ -60,7 +61,8 @@ function hoverHexagon3() {
     hexagon3Tittle.style.color = "white";
     hexagon3Tittle.style.transition = "0.5s";
     if(hexagon2Block.style.background == "black") {
-        hexagon2Tittle.style.color = "white";
+        hexagon2Tittle.style.color = "black";
+        hexagon2Block.style.background = "white";
     }
 }
 
@@ -112,3 +114,11 @@ function onhoverHexagon5() {
     hexagon5Tittle.style.transition = "2s";
 }
 
+function ifMobileSite() {
+    if(window.matchMedia("(max-width: 400px)")) {
+        hexagon2Block.style.background = "white";
+        hexagon2Tittle.style.color = "black";
+    }
+}
+
+ifMobileSite();
