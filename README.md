@@ -199,6 +199,14 @@ P.S Некоторые сайты отсутствуют на мобильной
  
  }
  
+ 26. Hexagons-sites-site {
+ 
+ https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/Hexagons/index.html
+ 
+ https://github.com/VladimirSaenko/Hexagons-sites-site
+ 
+ }
+ 
    }
 
 
