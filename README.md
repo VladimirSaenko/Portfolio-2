@@ -207,6 +207,14 @@ P.S Некоторые сайты отсутствуют на мобильной
  
  }
  
+ 27. Hexagon-FormX-site {
+ 
+ https://github.com/VladimirSaenko/Hexagon-FormX-site
+ 
+ https://vladimirsaenko.github.io/Portfolio-2/sites/site-26-2/Hexagon-FormX-site/index.html
+ 
+ }
+ 
    }
 
 
