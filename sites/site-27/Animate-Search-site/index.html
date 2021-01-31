@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animate-Search-site</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="img/icon.jpg">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/7a538433c3.js"></script>
+</head>
+<body>
+    <div class="search-box">
+        <input type="text" placeholder="Введите для поиска">
+        <div class="search-btn">
+            <i class="fa fa-search"></i>
+        </div>
+        <div class="cancel-btn">
+            <i class="fa fa-times"></i>
+        </div>
+    </div>
+    <script>
+
+        const searchBtn = document.querySelector(".search-btn");
+        const searchBox = document.querySelector(".search-box");
+        const cancelBtn = document.querySelector(".cancel-btn");
+        const searchInput = document.querySelector("input");
+
+        searchBtn.onclick = () => {
+            searchBox.classList.add("active");
+            searchInput.classList.add("active");
+            searchBtn.classList.add("active");
+            cancelBtn.classList.add("active");
+        }
+
+        cancelBtn.onclick = () => {
+            searchBox.classList.remove("active");
+            searchInput.classList.remove("active");
+            searchBtn.classList.remove("active");
+            cancelBtn.classList.remove("active");
+        }
+
+    </script>
+</body>
+</html>
