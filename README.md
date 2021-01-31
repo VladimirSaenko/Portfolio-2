@@ -215,6 +215,14 @@ P.S Некоторые сайты отсутствуют на мобильной
  
  }
  
+ 28. Animate-Search-site-example {
+ 
+ https://github.com/VladimirSaenko/Animate-Search-site-example
+ 
+ https://vladimirsaenko.github.io/Portfolio-2/sites/site-27/Animate-Search-site/index.html
+ 
+ }
+ 
    }
 
 
