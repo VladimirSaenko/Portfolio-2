@@ -87,3 +87,8 @@ html, body{
     right: -40px;
     transform: translateY(-50%) rotate(360deg); 
 }
+
+.search-data {
+    color: white;
+    font-size: 22px;
+}
