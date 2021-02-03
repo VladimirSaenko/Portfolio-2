@@ -26,11 +26,7 @@ a {
     justify-content: center;
     align-items: center;
     cursor: default;
-}
-
-.hexagonBlock-1 {
     background: white;
-    /* background: inherit; */
 }
 
 .hexagonBlock-2 {
@@ -38,7 +34,6 @@ a {
     justify-content: center;
     text-align: center;
     animation: anime 2s linear infinite;
-    background: black;
 }
 
 .hexagonBlock-1:hover, .hexagonBlock-3:hover, .hexagonBlock-4:hover, .hexagonBlock-5:hover {
