@@ -13,4 +13,9 @@
         font-size: 20px;
         left: -10px;
     }
+
+    .hexagonBlock-5 {
+        display: none;
+    }
+    
 }
