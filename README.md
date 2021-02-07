@@ -229,6 +229,12 @@ P.S Некоторые сайты отсутствуют на мобильной
  
  }
  
+ 29. Glove of Thanos-site {
+ 
+ https://vladimirsaenko.github.io/Portfolio-2/sites/site-28/GloveOfThanos/index.html
+ 
+ https://github.com/VladimirSaenko/GloveOfThanos-site
+ 
    }
 
 
