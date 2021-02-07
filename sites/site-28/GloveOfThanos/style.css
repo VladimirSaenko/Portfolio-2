@@ -60,6 +60,7 @@ section {
         background-size: cover;
         background-attachment: fixed;
         box-shadow: 0px 5px 15px rgba(0,0,0.5);
+        border-radius: 5px;
     }
     100% {
         transform: translateZ(0px);
@@ -69,6 +70,7 @@ section {
         background-attachment: fixed;
         box-shadow: 0px 5px 15px rgba(0,0,0,0);
         border: 1px solid rgba(0,0,0.1);
+        border-radius: 5px;
     }
 }
 
@@ -80,6 +82,7 @@ section.active .banner .blocks {
     background-attachment: fixed;
     box-shadow: 0px 5px 15px rgba(0,0,0,0);
     border: 1px solid rgba(0,0,0.1);
+    border-radius: 5px;
 }
 
 @keyframes secondAnimate {
@@ -90,6 +93,7 @@ section.active .banner .blocks {
         background-size: cover;
         background-attachment: fixed;
         box-shadow: 0px 5px 15px rgba(0,0,0.5);
+        border-radius: 5px;
     }
     100% {
         transform: translateZ(2000px);
@@ -99,5 +103,7 @@ section.active .banner .blocks {
         background-attachment: fixed;
         box-shadow: 0px 5px 15px rgba(0,0,0,0);
         border: 1px solid rgba(0,0,0.1);
+        border-radius: 5px;
     }
 }
+
