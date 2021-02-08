@@ -7,7 +7,7 @@
     <!-- <title>Minimal Ways Taxi</title> -->
     <!-- <title>www.min-ways-taxi.com.ua</title> -->
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/medias-style.css">
+    <!-- <link rel="stylesheet" href="css/medias-style.css"> -->
     <link rel="icon" href="images/icon-logo.jpeg">
     <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
@@ -50,6 +50,7 @@
        </h2>
        <ul class="storelist">
            <li class="colorli-1">
+               <h2 id="tittleColor1">Color-1</h2>
                <h3 id="rgbColorText-1" class="tittle_color">цвет</h3>
                <div class="colorset-1" id="color1" onclick="getRandomColor1()"></div>
            </li>
@@ -62,15 +63,16 @@
             <img class="img-store" src="images/home.png">
            </li>
            <li class="colorli-2">
+            <h2 id="tittleColor2">Color-2</h2>
             <h3 id="rgbColorText-2" class="tittle_color">цвет</h3>
             <div class="colorset-2" onclick="getRandomColor2()" id="color2"></div>
            </li>
        </ul>
        <ul class="wayslist">
-           <li class="way-1">
+           <li class="li-way-1">
                <img class="img-road1" id="road1" src="images/road.png">
            </li>
-           <li class="way-2">
+           <li class="li-way-2">
             <img class="img-road2" id="road2" src="images/road.png">
            </li> 
        </ul>
@@ -78,7 +80,10 @@
        <button class="limButt" id="LimButton">
            <a href="#forma" onclick="mainFunc()">Рассчитать</a>
         </button>
-       <input id="randomLimits" list="randomLimitNumbers" type="number" class="limitRandomButton" autocomplete="off" placeholder="диапозон рандома">
+        <input id="randomLimits" list="randomLimitNumbers" type="number" class="limitRandomButton" 
+        autocomplete="off" placeholder="диапозон рандома">
+        <input id="currency" onchange="getCurrency()" class="currencyButton" list="valyuty" type="text" 
+        autocomplete="off" placeholder="Выберите валюту">
     <form id="forma" class="resultForm">
         <button id="close" onclick="closeResultForm()" class="closeButton">X</button>
        <h2 class="tittle-result">Итог</h2>
@@ -96,6 +101,17 @@
     <option value="300"></option>
     <option value="500"></option>
     <option value="1000"></option>
+</datalist>
+<datalist id="valyuty">
+    <option value="$"></option>
+    <option value="евро"></option>
+    <option value="грн"></option>
+    <option value="рубль"></option>
+    <option value="фунт"></option>
+    <option value="юань"></option>
+    <option value="крона"></option>
+    <option value="злотый"></option>
+    <option value="франк"></option>
 </datalist>
    <footer>
        <div class="git-block">

@@ -14,11 +14,15 @@ let way1 = colorcost1 + taxcost1;
 let way2 = colorcost2 + taxcost2; 
 let randomLimits = document.getElementById('randomLimits');
 let closeButton = document.getElementById('close');
+let currencyButton = document.getElementById('currency');
 let resultColor = document.querySelector('.resultColor');
 let secondResultColor = document.querySelector('.secondResultColor');
 let resultcolorText = document.querySelector('.resultColor-text');
+let tittleColor1 = document.getElementById('tittleColor1');
+let tittleColor2 = document.getElementById('tittleColor2');
 let rgbColorText1 = document.getElementById('rgbColorText-1');
 let rgbColorText2 = document.getElementById('rgbColorText-2');
+let currencyLetter = "";
 
 hiddenResultForm.style.visibility = 'hidden';
 
@@ -130,7 +134,7 @@ function calculateMinimalWay() {
       hiddenResultForm.style.visibility = 'visible';
       closeButton.style.visibility = 'visible';
       let wayColor1 = randomColor1.style.background;
-      resultText.textContent = "Первый путь за " + way1 + " до магазина с краской- " + wayColor1 +
+      resultText.textContent = "Первый путь за " + way1 + " " + currencyLetter + " до магазина с краской- " + wayColor1 +
       " самый минимальный для вашего лимита";
       resultcolorText.style.visibility = "visible";
       resultcolorText.textContent = "Первый цвет";
@@ -144,7 +148,7 @@ function calculateMinimalWay() {
       hiddenResultForm.style.visibility = 'visible';
       closeButton.style.visibility = 'visible';
       let wayColor2 = randomColor2.style.background;
-      resultText.textContent = "Второй путь за " + way2 + " до магазина с краской- " + wayColor2 +  
+      resultText.textContent = "Второй путь за " + way2 + " " + currencyLetter + " до магазина с краской- " + wayColor2 +  
       "; самый минимальный для вашего лимита";
       resultcolorText.textContent = "Второй цвет";
       resultcolorText.style.visibility = "visible";
@@ -179,7 +183,7 @@ function calculateMinimalWay() {
    if(userLim.value < 0) {
       hiddenResultForm.style.visibility = 'visible';
       closeButton.style.visibility = 'visible';
-      resultText.textContent = 'Ваш лимит минусовой, напишете число больше 0';
+      resultText.textContent = 'Ваш лимит минусовой, напишете число больше 0 ' + currencyLetter;
       resultColor.style.visibility = 'hidden';
       secondResultColor.style.visibility = 'hidden';
       resultcolorText.style.visibility = 'hidden';
@@ -195,6 +199,98 @@ function calculateMinimalWay() {
    }
 }
 
+function getCurrency() {
+
+   if(currencyButton.value == "$") {
+      if(way1 == 1 || way2 == 1) {
+         currencyLetter = "доллар";
+      }
+      if(userLim.value <= 0 || way1 > 4 || way2 > 4) {
+         currencyLetter = "долларов";
+      }
+      if(way1 == 2 || way2 == 2 || way1 == 3 || way2 == 3 || way1 == 4 || way2 == 4) {
+         currencyLetter = "доллара";
+      }
+   }
+
+   if(currencyButton.value == "евро") {
+      currencyLetter = "eвро";
+   }
+
+   if(currencyButton.value == "грн") {
+      currencyLetter = "грн";
+   }
+
+   if(currencyButton.value == "рубль") {
+      if(way1 == 1 || way2 == 1) {
+         currencyLetter = "рубль";
+      }
+      if(userLim.value <= 0 || way1 > 4 || way2 > 4) {
+         currencyLetter = "рублей";
+      }
+      if(way1 == 2 || way2 == 2 || way1 == 3 || way2 == 3 || way1 == 4 || way2 == 4) {
+         currencyLetter = "рубля";
+      }
+   }
+
+   if(currencyButton.value == "фунт") {
+      if(way1 == 1 || way2 == 1) {
+         currencyLetter = "фунт";
+      }
+      if(userLim.value <= 0 || way1 > 4 || way2 > 4) {
+         currencyLetter = "фунтов";
+      }
+      if(way1 == 2 || way2 == 2 || way1 == 3 || way2 == 3 || way1 == 4 || way2 == 4) {
+         currencyLetter = "фунта";
+      }
+   }
+
+   if(currencyButton.value == "юань") {
+      if(way1 == 1 || way2 == 1) {
+         currencyLetter = "юань";
+      }
+      if(userLim.value <= 0 || way1 == 2 || way2 == 2 || way1 == 3 || way2 == 3 || way1 == 4 || way2 == 4) {
+         currencyLetter = "юаня";
+      }
+      if(way1 > 4 || way2 > 4) {
+         currencyLetter = "юаней";
+      }
+   }
+
+   if(currencyButton.value == "крона") {
+      if(way1 == 1 || way2 == 1) {
+         currencyLetter = "крона";
+      }
+      if(userLim.value <= 0 || way1 > 4 || way2 > 4) {
+         currencyLetter = "крон";
+      }
+      if(way1 == 2 || way2 == 2 || way1 == 3 || way2 == 3 || way1 == 4 || way2 == 4) {
+         currencyLetter = "кроны";
+      }
+   }
+
+   if(currencyButton.value == "злотый") {
+      if(userLim.value <= 0 || way1 > 1 || way2 > 1) {
+         currencyLetter = "злотых";
+      }
+      if(way1 == 1 || way2 == 1) {
+         currencyLetter = "злотый";
+      }
+   }
+
+   if(currencyButton.value == "франк") {
+      if(way1 == 1 || way2 == 1) {
+         currencyLetter = "франк";
+      }
+      if(userLim.value <= 0 || way1 > 4 || way2 > 4) {
+         currencyLetter = "франков";
+      }
+      if(way1 == 2 || way2 == 2 || way1 == 3 || way2 == 3 || way1 == 4 || way2 == 4) {
+         currencyLetter = "франка";
+      }
+   }  
+}
+
 function getRandomColors() {
    randomColor1.style.background = 'rgb(' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ')';
    randomColor2.style.background = 'rgb(' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ')';
@@ -202,6 +298,8 @@ function getRandomColors() {
    rgbColorText1.style.color = randomColor1.style.background;
    rgbColorText2.textContent = randomColor2.style.background;
    rgbColorText2.style.color = randomColor2.style.background;
+   tittleColor1.style.color = randomColor1.style.background;
+   tittleColor2.style.color = randomColor2.style.background;
 }
 
 function ifEqualyColors() {
@@ -225,12 +323,14 @@ function getRandomColor1() {
    randomColor1.style.background = 'rgb(' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ')';
    rgbColorText1.textContent = randomColor1.style.background;
    rgbColorText1.style.color = randomColor1.style.background;
+   tittleColor1.style.color = randomColor1.style.background;
 }
 
 function getRandomColor2() {
    randomColor2.style.background = 'rgb(' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ', ' + getRandomInt(0,255) + ')';
    rgbColorText2.textContent = randomColor2.style.background;
    rgbColorText2.style.color = randomColor2.style.background;
+   tittleColor2.style.color = randomColor2.style.background;
 }
 
 function getRandomInt(min, max) {
@@ -265,5 +365,5 @@ function closeResultForm() {
 getRandomColors();
 ifEqualyColors();
 getRandomCostWays();
-ifEgualyRandomCostWay()
+ifEgualyRandomCostWay();
 

@@ -113,7 +113,7 @@ header {
     letter-spacing: 6.5px;
     text-align: center;
     font-size: 50px;
-    top: 27.5%;
+    top: 15%;
     position: relative;
 }
 
@@ -121,7 +121,7 @@ header {
     text-align: center;
     font-family: 'Rubik Mono One', sans-serif;
     position: absolute;
-    bottom: 135px;
+    bottom: 125px;
     letter-spacing: 5px;
     left: 37.7%;
     font-size: 40px;
@@ -153,6 +153,18 @@ header {
 
 .li-parthers_contacts {
     margin-top: -3px;
+}
+
+.colorli-1 h2, .colorli-2 h2{
+    /* color: white; */
+    /* text-shadow: 5px -5px 1px black; */
+    font-family: 'Rubik Mono One', sans-serif;
+    cursor: default;
+    text-align: center;
+    user-select: text;
+    text-transform: uppercase;
+    font-size: 35px;
+    margin-bottom: 10px;
 }
 
 .storelist {
@@ -229,12 +241,14 @@ header {
 }
 
 .img-road1 {
+    display: block;
     transform: rotate(-25deg);
     width: 350px;
     height: 250px;
 }
 
 .img-road2 {
+    display: block;
     transform: rotate(25deg);
     width: 350px;
     height: 250px;
@@ -327,6 +341,7 @@ header {
     outline: none;
     border: rgb(12, 12, 12) 5px solid;
     border-radius: 15px;
+    font-size: 35px;
 }
 
 .limitRandomButton::placeholder {
@@ -334,12 +349,12 @@ header {
     color: black;
 }
 
-.way-1 {
+.li-way-1 {
     position: relative;
     left: 75px;
 }
 
-.way-2 {
+.li-way-2 {
     position: relative;
     right: 100px;
 }
@@ -375,7 +390,23 @@ header {
 .limButt a:hover {
     color: red;
     transition: 0.5s;
+}
 
+.currencyButton {
+    position: relative;
+    top: 24%;
+    left: 15%;
+    width: 200px;
+    height: 75px;
+    outline: none;
+    border: rgb(12, 12, 12) 5px solid;
+    border-radius: 15px;
+    font-size: 35px;
+}
+
+.currencyButton::placeholder {
+    font-size: 30px;
+    color: black;
 }
 
 .closeButton {
@@ -406,4 +437,3 @@ footer {
     height: 275px;
     background: linear-gradient(rgba(9,9,121,0.9587185215883228), #091921);
 }
-
