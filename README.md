@@ -115,6 +115,14 @@ P.S Некоторые сайты отсутствуют на мобильной
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/GameList/index.html
    
  }
+ 
+14. Lorem Children {
+
+https://vladimirsaenko.github.io/Portfolio-2/sites/site-14/Lorem-Children-animate-example/index.html
+
+https://github.com/VladimirSaenko/Lorem-Children-animate-example
+
+}
 
 15. Day & Night {
 
