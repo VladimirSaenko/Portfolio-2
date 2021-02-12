@@ -1,10 +1,15 @@
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  user-zoom: fixed;
 }
 
 body{
   margin: 0;
   font-family: 'Bad Script', sans-serif;
+  /* лол, бэд скрипт ) */
 }
 
 @media (max-width: 640px){

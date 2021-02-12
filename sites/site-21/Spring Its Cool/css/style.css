@@ -1,13 +1,7 @@
 
-/* * {
-    user-select: none;
-} */
-
-
 .slider {
     display: flex;
     justify-content: center;
-
 }
 
 .item {
@@ -27,7 +21,6 @@
 .item:hover {
     flex-basis: 70%;
 }
-
 
 span {
     color: white;

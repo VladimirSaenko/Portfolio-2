@@ -1,13 +1,21 @@
+
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  user-zoom: fixed;
 }
 
-body{
+body {
   margin: 0;
   font-family: 'Bad Script', sans-serif;
 }
 
 @media (max-width: 640px){
+  * {
+    user-zoom: fixed;
+  }
   .slider{
     height: 100vh;
     flex-direction: column;
