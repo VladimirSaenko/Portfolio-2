@@ -260,5 +260,13 @@ https://github.com/VladimirSaenko/Drop-Images-Normal-Rain
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-30/Drop-images-NormalRain/index.html
 
 }
+
+32. Menu-animate-site-example {
+
+https://vladimirsaenko.github.io/Portfolio-2/sites/site-31/Menu-animate-example/index.html
+
+https://github.com/VladimirSaenko/Menu-animate-site-example
+
+}
    
    }
