@@ -2,6 +2,8 @@
  
 Вторая версия портфолио
 
+https://vladimirsaenko.github.io/Portfolio-2/
+
 P.S Некоторые сайты отсутствуют на мобильной версии портфолио
 
 В списке такие сайты как { 
@@ -13,6 +15,7 @@ P.S Некоторые сайты отсутствуют на мобильной
     https://vladimirsaenko.github.io/Portfolio-2/sites/site-2/Summer%20its%20cool/index.html
     
     }
+
 2. Water Balls сайт { 
 
    https://github.com/VladimirSaenko/Water-Balls
@@ -28,6 +31,7 @@ P.S Некоторые сайты отсутствуют на мобильной
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-4/Maldives/index.html
    
    }
+   
 4. Сайт с фичей Photo Cards {
 
    https://github.com/VladimirSaenko/Random-Photo-Cards
