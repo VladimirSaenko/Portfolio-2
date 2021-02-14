@@ -11,26 +11,27 @@
 </head>
 <body>
     <div class="menuToggle" onclick="toggleMenu()"></div>
+    <h2 class="tittle">Нажмите на меню в правом верхнем углу</h2>
     <div class="navigation">
         <div class="navArea">
             <ul>
                 <li>
-                    <a class="menu-item" href="#">Home</a>
+                    <a class="menu-item" href="https://github.com/VladimirSaenko">Home</a>
                 </li>
                 <li>
-                    <a class="menu-item" href="#">Album</a>
+                    <a class="menu-item" href="https://vladimirsaenko.github.io/Portfolio-2/sites/site-12/BannerBF/index.html">Album</a>
                 </li>
                 <li>
-                    <a class="menu-item" href="#">Servies</a>
+                    <a class="menu-item" href="https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/First%20Calculator/index.html">Servies</a>
                 </li>
                 <li>
-                    <a class="menu-item" href="#">Portfolio</a>
+                    <a class="menu-item" href="https://vladimirsaenko.github.io/Portfolio-2/">Portfolio</a>
                 </li>
                 <li>
-                    <a class="menu-item" href="#">Team</a>
+                    <a class="menu-item" href="https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/Hexagons/index.html">Team</a>
                 </li>
                 <li>
-                    <a class="menu-item" href="#">Contacts</a>
+                    <a class="menu-item" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contacts</a>
                 </li>
             </ul>
         </div>
@@ -46,6 +47,8 @@ function toggleMenu() {
     const navigation = document.querySelector('.navigation');
     // navigation.classList.add('active');
     navigation.classList.toggle('active');
+    const tittle = document.querySelector('.tittle');
+    tittle.classList.toggle('active');
 }
 
 let menuItems = document.getElementsByClassName('menu-item');
