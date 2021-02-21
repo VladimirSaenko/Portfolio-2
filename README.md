@@ -272,5 +272,13 @@ https://vladimirsaenko.github.io/Portfolio-2/sites/site-31/Menu-animate-example/
 https://github.com/VladimirSaenko/Menu-animate-site-example
 
 }
+
+33. First-Generator-Random-Passwords {
+
+https://vladimirsaenko.github.io/Portfolio-2/sites/site-32/First%20Generator%20Passwords/index.html
+
+https://github.com/VladimirSaenko/First-Generator-Passwords
+
+}
    
    }
