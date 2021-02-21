@@ -1,0 +1,120 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: white;
+    overflow: hidden;
+    transition: 1s;
+}
+
+.inputBox {
+    position: relative;
+    width: 450px;
+}
+
+.inputBox h2 {
+    font-size: 30px;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.inputBox input {
+    position: relative;
+    width: 100%;
+    font-size: 24px;
+    height: 60px;
+    border: none;
+    padding: 0 20px;
+    margin: 15px 0 20px;
+    background: transparent;
+    outline: none;
+    letter-spacing: 4px;
+    border-radius: 8px;
+    color: black;
+    box-shadow: 
+    -4px -4px 10px rgba(255,255,255,1),
+    inset 4px 4px 10px rgba(0,0,0,0.5),
+    inset -4px -4px 10px rgba(255,255,255,1),
+    -4px -4px 10px rgba(0,0,0,0.5);
+}
+
+.inputBox input::placeholder {
+    color: black;
+    letter-spacing: 0px;
+}
+
+.inputBox #btn {
+    position: relative;
+    cursor: pointer;
+    color: white;
+    background: black;
+    font-size: 24px;
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 8px;
+    transition: 0.5s;
+    letter-spacing: 4px;
+}
+
+.inputBox #btn:hover {
+    background: #dc21fd;
+    color: black;
+}
+
+.inputBox #btn:active {
+    background: #9c27b0;
+}
+
+.copy {
+    cursor: pointer;
+    position: absolute;
+    top: 64px;
+    right: 15px;
+    width: 32px;
+    opacity: 0.5;
+    transition: 0.1s;
+}
+
+.copy:hover {
+    opacity: 1;
+}
+
+.alertBox {
+    user-select: text;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 50px;
+    right: 50px;
+    height: calc(100vh - 100px);
+    width: calc(100% - 100px);
+    background: purple;
+    color: white;
+    text-align: center;
+    font-size: 64px;
+    border-radius: 15px 15px 50% 15px;
+    transform: translate(-100%, -100%);
+    visibility: hidden;
+    opacity: 0;
+    transition: 1s;
+}
+
+.alertBox.active {
+    visibility: visible;
+    opacity: 1;
+    transform: translate(0,0);
+    border-radius: 15px;
+    background: #9c27b0;
+}
+
