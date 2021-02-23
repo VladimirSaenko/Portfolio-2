@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>First Calculator site</title>
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="logosite.png">
+    <link rel="icon" href="icon.png">
 </head>
 <body>
     <form class="calculator" name="calcul">
@@ -44,14 +44,14 @@
 
         <span class="numb equal" onclick="document.calcul.txt.value = eval(calcul.txt.value)">=</span>
     </form>
-    <audio id="sound" src="minusthree.mp3"></audio>
-    <audio id="sound40" src="music40.mp3"></audio>
-    <audio id="alcosound" src="zvyakane_bokalov.mp3"></audio>
+    <audio id="sound-30" src="audio/minusthree.mp3"></audio>
+    <audio id="sound40" src="audio/music40.mp3"></audio>
+    <audio id="alcosound" src="audio/zvyakane_bokalov.mp3"></audio>
     <script>
 
         let musicbutt = document.getElementById('musicbutt-3');
         musicbutt.addEventListener('click',function () {
-            document.getElementById('sound').play();
+            document.getElementById('sound-30').play();
         });
         let musicbutt40 = document.getElementById('musicbutt40');
         musicbutt40.addEventListener('click',function () {
