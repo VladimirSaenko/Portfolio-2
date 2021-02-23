@@ -14,6 +14,8 @@ P.S Некоторые сайты отсутствуют на мобильной
     
     https://vladimirsaenko.github.io/Portfolio-2/sites/site-2/Summer%20its%20cool/index.html
     
+    https://vladimirsaenko.github.io/Summer-Its-Cool-site/
+    
     }
 
 2. Water Balls сайт { 
@@ -21,6 +23,8 @@ P.S Некоторые сайты отсутствуют на мобильной
    https://github.com/VladimirSaenko/Water-Balls
    
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-3/Water%20Balls/index.html
+   
+   https://vladimirsaenko.github.io/Water-Balls-site/
    
    }
    
@@ -30,35 +34,45 @@ P.S Некоторые сайты отсутствуют на мобильной
    
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-4/Maldives/index.html
    
+   https://vladimirsaenko.github.io/Maldives-video-site/
+   
    }
    
-4. Сайт с фичей Photo Cards {
+4. Random Photo Cards {
 
    https://github.com/VladimirSaenko/Random-Photo-Cards
    
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-5/Photo%20Cards/index.html 
    
-   }
-   
-5. Crazy Balls or Images Drop {
-
-   https://github.com/VladimirSaenko/Crazy-Balls-or-Images-Drop
-   
-   https://vladimirsaenko.github.io/Portfolio-2/sites/site-6/Crazy%20Balls/index.html 
+   https://vladimirsaenko.github.io/Random-Photo-Cards/
    
    }
    
-6. Сайт с фичей Video Scrolling {
+5. Crazy Balls or Images Drop site {
+   
+   https://github.com/VladimirSaenko/Crazy-Balls-or-Images-Drop-site.git
+   
+   https://vladimirsaenko.github.io/Portfolio-2/sites/site-6/Crazy%20Balls/index.html
+   
+   https://vladimirsaenko.github.io/Crazy-Balls-or-Images-Drop-site/
+   
+   }
+   
+6. Video-Scrolling-site {
+    
+    https://github.com/VladimirSaenko/First-Calculator.git
+    
+    https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/First%20Calculator/index.html
+    
+    https://vladimirsaenko.github.io/First-Calculator/
 
-   https://github.com/VladimirSaenko/Video-Scrolling
-   
-   https://vladimirsaenko.github.io/Portfolio-2/sites/site-7/Video%20Scrolling/index.html 
-   
    }
    
   7. Калькулятор с кнопкой -3, 40, 300, 25, 0.25, 0.5 и звуком при нажатии на -3, 40, 0.25 и 0.5  {
   
    https://github.com/VladimirSaenko/First-Calculator
+   
+   https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/First%20Calculator/index.html
    
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/First%20Calculator/index.html
    
@@ -70,21 +84,17 @@ P.S Некоторые сайты отсутствуют на мобильной
    
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-9-1/Old-site-Remake/index.html 
    
+   https://vladimirsaenko.github.io/Old-site-Remake-new-version/
+   
    }
    
-9. Parrallax site | Сайт с еще двумя сайтами Space and Moonlight с эффектом Parallax {
+9. Parrallax site | Space and Moon-Light {
 
-   https://github.com/VladimirSaenko/Parrallax-effect-Space-and-Moon
-   
-   https://vladimirsaenko.github.io/Portfolio-2/sites/site-9-2/Parrallax/index.html
-   
-   https://github.com/VladimirSaenko/Parrallax-effect-Space-and-Moon/tree/main/Parrallax/sites/Parallax-Moon-Light
-   
-   https://vladimirsaenko.github.io/Portfolio-2/sites/site-9-2/Parrallax/sites/Parallax-Moon-Light/index.html
-   
-   https://github.com/VladimirSaenko/Parrallax-effect-Space-and-Moon/tree/main/Parrallax/sites/Parallax-Space
-   
-   https://vladimirsaenko.github.io/Portfolio-2/sites/site-9-2/Parrallax/sites/Parallax-Space/index.html
+https://github.com/VladimirSaenko/Parrallax-effect-Space-and-Moon-Light.git
+
+https://vladimirsaenko.github.io/Portfolio-2/sites/site-9-2/Parrallax/index.html
+
+https://vladimirsaenko.github.io/Parrallax-effect-Space-and-Moon-Light/
    
   }
 
@@ -94,14 +104,18 @@ P.S Некоторые сайты отсутствуют на мобильной
   
   https://github.com/VladimirSaenko/First-Clock-site-example
   
+  https://vladimirsaenko.github.io/First-Clock-site/
+  
  }
 
-11. Iron Man site {
+11. Iron Man gsap site {
 
- https://vladimirsaenko.github.io/Portfolio-2/sites/site-11/Iron%20Man/index.html
- 
- https://github.com/VladimirSaenko/Iron-Man-site
- 
+https://github.com/VladimirSaenko/Iron-Man-gsap-site.git
+
+https://vladimirsaenko.github.io/Portfolio-2/sites/site-11/Iron%20Man/index.html
+
+https://vladimirsaenko.github.io/Iron-Man-gsap-site/
+
  }
 
 12. Black Friday Banner {
@@ -118,6 +132,8 @@ P.S Некоторые сайты отсутствуют на мобильной
    
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/GameList/index.html
    
+   https://vladimirsaenko.github.io/Game-List-example/
+   
  }
  
 14. Lorem Children {
@@ -125,6 +141,8 @@ P.S Некоторые сайты отсутствуют на мобильной
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-14/Lorem-Children-animate-example/index.html
 
 https://github.com/VladimirSaenko/Lorem-Children-animate-example
+
+https://vladimirsaenko.github.io/Lorem-Children-animate-example/
 
 }
 
@@ -134,6 +152,8 @@ https://github.com/VladimirSaenko/Lorem-Children-animate-example
   
   https://github.com/VladimirSaenko/Game-List-example
   
+  https://vladimirsaenko.github.io/Day-Night-example/
+  
  }
 
 16. 🐺 Witcher | Days & Nights🐺 {
@@ -141,6 +161,8 @@ https://github.com/VladimirSaenko/Lorem-Children-animate-example
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-16-1/Witcher-Days-and-Night/index.html
    
    https://github.com/VladimirSaenko/Witcher-Days-and-Nights
+   
+   https://vladimirsaenko.github.io/Witcher-Days-and-Nights/
    
   }
  
@@ -151,6 +173,8 @@ https://github.com/VladimirSaenko/Lorem-Children-animate-example
    
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-16-2/Drop-Image-Rain/index.html
    
+   https://vladimirsaenko.github.io/Drop-Images-InvertRain/
+   
  }
 
 18. Drop Image | Tornado {
@@ -158,6 +182,8 @@ https://github.com/VladimirSaenko/Lorem-Children-animate-example
   https://vladimirsaenko.github.io/Portfolio-2/sites/site-16-3/Drop-Image-Tornado/index.html
   
   https://github.com/VladimirSaenko/Drop-Images-Tornado
+  
+  https://vladimirsaenko.github.io/Drop-Images-Tornado/
   
  }
 
@@ -167,118 +193,156 @@ https://github.com/VladimirSaenko/Lorem-Children-animate-example
   
   https://github.com/VladimirSaenko/Countdown-site-example
   
+  https://vladimirsaenko.github.io/Countdown-to-New-Year-2021/
+  
  }
+ 
+20. Countdown to New Year | 2022 {
 
-20. MWT {
+   https://github.com/VladimirSaenko/Countdown-to-New-Year-2022 
+   
+   https://vladimirsaenko.github.io/Portfolio-2/sites/site-19/Countdown-NY-2022/index.html
+   
+   https://vladimirsaenko.github.io/Countdown-to-New-Year-2022/
+   
+
+21. MWT {
 
    https://github.com/VladimirSaenko/Minimal-Ways-Cost-MWT
    
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-18/MWT/index.html
    
+   https://vladimirsaenko.github.io/Minimal-Ways-Cost-MWT/
+   
  }
  
- 21. Winter Its Cool {
+ 22. Winter Its Cool {
   
   https://vladimirsaenko.github.io/Portfolio-2/sites/site-20/Winter%20Its%20Cool/index.html
   
   https://github.com/VladimirSaenko/Winter-Its-Cool-site
   
+  https://vladimirsaenko.github.io/Winter-Its-Cool-site/
+  
  }
  
- 22. Spring Its Cool {
+ 23. Spring Its Cool {
   
   https://vladimirsaenko.github.io/Portfolio-2/sites/site-21/Spring%20Its%20Cool/index.html
   
   https://github.com/VladimirSaenko/Spring-Its-Cool-site
   
+  https://vladimirsaenko.github.io/Spring-Its-Cool-site/
+  
  }
  
- 23. Autumn Its Cool {
+ 24. Autumn Its Cool {
  
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-22/Autumn%20Its%20Cool/index.html
  
  https://github.com/VladimirSaenko/Autumn-Its-Cool-site
  
+ https://vladimirsaenko.github.io/Autumn-Its-Cool-site/
+ 
  }
  
- 24. Gradient Photos site {
+ 25. Gradient Photos site {
  
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Gradient-Photo-site/index.html
  
  https://github.com/VladimirSaenko/Gradient-Photo-site.git
  
+ https://vladimirsaenko.github.io/Gradient-Photos-site/
+ 
  }
  
- 25. Clip-Path-site {
+ 26. Clip-Path-site {
  
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-25/Clip-Path/index.html
  
  https://github.com/VladimirSaenko/Clip-Path-site.git
  
+ https://vladimirsaenko.github.io/Clip-Path-site/
+ 
  }
  
- 26. Hexagons-sites-site {
+ 27. Hexagons-sites-site {
  
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/Hexagons/index.html
  
  https://github.com/VladimirSaenko/Hexagons-sites-site
  
+ https://vladimirsaenko.github.io/Hexagons-sites-site/
+ 
  }
  
- 27. Hexagon-FormX-site {
+ 28. Hexagon-FormX-site {
  
  https://github.com/VladimirSaenko/Hexagon-FormX-site
  
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-26-2/Hexagon-FormX-site/index.html
  
+ https://vladimirsaenko.github.io/Hexagon-FormX-site/
+ 
  }
  
- 28. Animate-Search-site-example {
+ 29. Animate-Search-site-example {
  
  https://github.com/VladimirSaenko/Animate-Search-site-example
  
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-27/Animate-Search-site/index.html
  
+ https://vladimirsaenko.github.io/Animate-Search-site-example/
+ 
  }
  
- 29. Glove of Thanos-site {
+ 30. Glove of Thanos-site {
  
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-28/GloveOfThanos/index.html
  
  https://github.com/VladimirSaenko/GloveOfThanos-site
+ 
+ https://vladimirsaenko.github.io/GloveOfThanos-site/
 
 }
 
-30. SW-Republican-Fleet-site {
+31. SW-Republican-Fleet-site {
 
 https://github.com/VladimirSaenko/SW-Republican-Fleet-site
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-29/SW-Republican-Fleet-site/index.html
 
+https://vladimirsaenko.github.io/SW-Republican-Fleet-site/
+
 }
 
-31. Drop Images | Normal Rain {
+32. Drop Images | Normal Rain {
 
 https://github.com/VladimirSaenko/Drop-Images-Normal-Rain
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-30/Drop-images-NormalRain/index.html
 
+https://vladimirsaenko.github.io/Drop-Images-Normal-Rain/
+
 }
 
-32. Menu-animate-site-example {
+33. Menu-animate-site-example {
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-31/Menu-animate-example/index.html
 
 https://github.com/VladimirSaenko/Menu-animate-site-example
 
+https://vladimirsaenko.github.io/Menu-animate-site-example/
+
 }
 
-33. First-Generator-Random-Passwords {
+34. First-Generator-Random-Passwords {
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-32/First%20Generator%20Passwords/index.html
 
 https://github.com/VladimirSaenko/First-Generator-Passwords
 
+https://vladimirsaenko.github.io/First-Generator-Passwords/
+
 }
-   
    }
