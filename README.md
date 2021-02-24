@@ -246,7 +246,15 @@ https://vladimirsaenko.github.io/Lorem-Children-animate-example/
  
  }
  
- 25. Gradient Photos site {
+ 25. All-Seasons {
+    
+   https://github.com/VladimirSaenko/All-Seasons-Year-site
+   
+   https://vladimirsaenko.github.io/Portfolio-2/sites/site-23/All%20Seasons%20Year%20site/index.html
+   
+   https://vladimirsaenko.github.io/All-Seasons-Year-site/
+ 
+ 26. Gradient Photos site {
  
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Gradient-Photo-site/index.html
  
@@ -256,7 +264,7 @@ https://vladimirsaenko.github.io/Lorem-Children-animate-example/
  
  }
  
- 26. Clip-Path-site {
+ 27. Clip-Path-site {
  
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-25/Clip-Path/index.html
  
@@ -266,7 +274,7 @@ https://vladimirsaenko.github.io/Lorem-Children-animate-example/
  
  }
  
- 27. Hexagons-sites-site {
+ 28. Hexagons-sites-site {
  
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/Hexagons/index.html
  
@@ -276,7 +284,7 @@ https://vladimirsaenko.github.io/Lorem-Children-animate-example/
  
  }
  
- 28. Hexagon-FormX-site {
+ 29. Hexagon-FormX-site {
  
  https://github.com/VladimirSaenko/Hexagon-FormX-site
  
@@ -286,7 +294,7 @@ https://vladimirsaenko.github.io/Lorem-Children-animate-example/
  
  }
  
- 29. Animate-Search-site-example {
+ 30. Animate-Search-site-example {
  
  https://github.com/VladimirSaenko/Animate-Search-site-example
  
@@ -296,7 +304,7 @@ https://vladimirsaenko.github.io/Lorem-Children-animate-example/
  
  }
  
- 30. Glove of Thanos-site {
+ 31. Glove of Thanos-site {
  
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-28/GloveOfThanos/index.html
  
@@ -306,7 +314,7 @@ https://vladimirsaenko.github.io/Lorem-Children-animate-example/
 
 }
 
-31. SW-Republican-Fleet-site {
+32. SW-Republican-Fleet-site {
 
 https://github.com/VladimirSaenko/SW-Republican-Fleet-site
 
@@ -316,7 +324,7 @@ https://vladimirsaenko.github.io/SW-Republican-Fleet-site/
 
 }
 
-32. Drop Images | Normal Rain {
+33. Drop Images | Normal Rain {
 
 https://github.com/VladimirSaenko/Drop-Images-Normal-Rain
 
@@ -326,7 +334,7 @@ https://vladimirsaenko.github.io/Drop-Images-Normal-Rain/
 
 }
 
-33. Menu-animate-site-example {
+34. Menu-animate-site-example {
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-31/Menu-animate-example/index.html
 
@@ -336,7 +344,7 @@ https://vladimirsaenko.github.io/Menu-animate-site-example/
 
 }
 
-34. First-Generator-Random-Passwords {
+35. First-Generator-Random-Passwords {
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-32/First%20Generator%20Passwords/index.html
 
