@@ -353,4 +353,14 @@ https://github.com/VladimirSaenko/First-Generator-Passwords
 https://vladimirsaenko.github.io/First-Generator-Passwords/
 
 }
-   }
+
+36. Generator Random RGB Color {
+
+  https://vladimirsaenko.github.io/Portfolio-2/sites/site-33/RandomRGBColor/index.html
+  
+  https://github.com/VladimirSaenko/Generator-Random-RGB-Color-site
+  
+  https://vladimirsaenko.github.io/Generator-Random-RGB-Color-site/
+ }
+ 
+  }
