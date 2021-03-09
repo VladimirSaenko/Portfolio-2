@@ -6,9 +6,7 @@
 }
 
 body {
-    /* background: darkblue; */
-    background: radial-gradient(circle, rgba(14,15,240,0.9363095580028886) 44%, 
-    rgba(23,34,121,1) 98%);
+    background: linear-gradient(90deg, #43CBFF 35%, #9708CC 70%);
     height: 100vh;
 }
 
@@ -114,7 +112,7 @@ input {
 }
 
 .buttslider-tittle:hover {
-    color: greenyellow;
+    color: rgb(115, 32, 224);
     /* color: white; */
     text-shadow: black 5px 3px 3px;
 }
