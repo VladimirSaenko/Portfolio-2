@@ -17,4 +17,3 @@ if(backvideo.paused) {
     icon.src = "/images/play.png";
     }
 } 
-
