@@ -6,16 +6,19 @@ let hexagon1 = document.getElementById('hexagon1');
 let hexagon3 = document.getElementById('hexagon3');
 let hexagon4 = document.getElementById('hexagon4');
 let hexagon5 = document.getElementById('hexagon5');
+let hexagon6 = document.getElementById('hexagon6');
 let hexagon1Block = document.getElementById('hexBlock1');
 let hexagon2Block = document.getElementById('hexBlock2');
 let hexagon3Block = document.getElementById('hexBlock2');
 let hexagon4Block = document.getElementById('hexBlock4');
 let hexagon5Block = document.getElementById('hexBlock5');
+let hexagon6Block = document.getElementById('hexBlock6');
 let hexagon1Tittle = document.getElementById('hexTittle1');
 let hexagon2Tittle = document.getElementById('hexTittle2');
 let hexagon3Tittle = document.getElementById('hexTittle3');
 let hexagon4Tittle = document.getElementById('hexTittle4');
 let hexagon5Tittle = document.getElementById('hexTittle5');
+let hexagon6Tittle = document.getElementById('hexTittle6');
 
 
 function hoverHexagon1() {
@@ -112,6 +115,24 @@ function onhoverHexagon5() {
     hexagon5Block.style.transition = "1.5s";
     hexagon5Tittle.style.color = "black";
     hexagon5Tittle.style.transition = "2s";
+}
+
+function hoverHexagon6() {
+    hexagon6.style.background = "white";
+    hexagon6.style.transition = "0.5s";
+    hexagon6Block.style.background = "black";
+    hexagon6Block.style.transition = "0.5s";
+    hexagon6Tittle.style.color = "white";
+    hexagon6Tittle.style.transition = "0.5s";
+}
+
+function onhoverHexagon6() {
+    hexagon6.style.background = "#111";
+    hexagon6.style.transition = "1s";
+    hexagon6Block.style.background = "white";
+    hexagon6Block.style.transition = "1.5s";
+    hexagon6Tittle.style.color = "black";
+    hexagon6Tittle.style.transition = "2s";
 }
 
 function ifMobileSite() {

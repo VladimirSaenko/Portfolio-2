@@ -14,8 +14,7 @@
         left: -10px;
     }
 
-    .hexagonBlock-5 {
+    .hexagonBlock-5, .hexagonBlock-6 {
         display: none;
     }
-    
 }
