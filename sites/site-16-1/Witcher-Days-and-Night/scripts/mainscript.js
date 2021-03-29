@@ -13,6 +13,7 @@ let monster = document.getElementById('leshyi');
 let raven1 = document.getElementById('raven-1');
 let raven2 = document.getElementById('raven-2');
 let raven3 = document.getElementById('raven-3');
+
 document.getElementById('forestDay').play();
 
 
@@ -32,20 +33,20 @@ function toggle() {
     moon.style.visibility = 'visible';
     moon.style.transition = '0.5s';
     monster.style.visibility = 'visible';
-    monster.style.transition = '1.5s';
-    witcher.style.visibility = 'visible';
     witcher.style.transition = '1s';
-    scene.style.background = 'linear-gradient(#111425,#131d57)';
+    witcher.style.visibility = 'visible';
+    scene.style.backgroundColor = 'linear-gradient(#111425,#131d57)';
+    scene.style.background = 'url(img/forest-night.png)';
+    scene.style.backgroundSize = 'cover';
     document.getElementById('forestDay').pause();
     document.getElementById('forestNight').play();
-
 }
 
 function retoggle() {
     sun.style.visibility = 'visible';
     sun.style.transition = '1.5s';
     horseRoach.style.visibility = 'visible';
-    horseRoach.style.transition = '0.5s';
+    horseRoach.style.transition = '1s';
     partisanEwok.style.visibility = 'visible';
     partisanEwok.style.transition = '1s';
     raven1.style.visibility = 'hidden';
@@ -79,7 +80,6 @@ function changeItemRight() {
     sun.style.left = '175px';
     horseRoach.style.left = '100vh';
     partisanEwok.style.bottom = '-250px';
-
 }
 
 function changeItemLeftNight() {
@@ -87,6 +87,7 @@ function changeItemLeftNight() {
     raven2.style.left = '15%';
     raven3.style.left = '30%';
     monster.style.left = '135vh';
+    monster.style.transition = "1s";
     moon.style.left = '75px';
     witcher.style.left = '0';
 }
@@ -94,6 +95,7 @@ function changeItemLeftNight() {
 function changeItemRightNight() {
     witcher.style.left = '55vh';
     monster.style.left = '115vh';
+    monster.style.transition = "1s";
     moon.style.left = '775px';
     raven1.style.left = '55%';
     raven2.style.left = '45%';
@@ -115,5 +117,3 @@ raven2.addEventListener('click',function(){
 raven3.addEventListener('click',function(){
     document.getElementById('ravens').play();
 })
-
-
