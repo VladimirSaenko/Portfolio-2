@@ -8,14 +8,13 @@
 .hero {
     height: 100vh;
     width: 100%;
-    /* background-image: url(/images/background.png); */
-    /* Здесь баг с непрогрузкой картинок, как на Parrallax'e */
-    /* background: url(/images/background.png) center cover; */
-    /* background: white; */
     background: url(../images/background.png);
     position: relative;
     background-size: cover;
     background-position: center;
+    /* background-image: url(/images/background.png); */
+    /* background: url(/images/background.png) center cover; */
+    /* background: white; */
 }
 
 .logo {
@@ -84,21 +83,24 @@
     cursor: default;
     font-size: 100px;
     text-shadow: black 10px 10px 1px;
-    user-select: none;
 }
 
 .content p {
     margin: 10px 0 40px;
     cursor: default;
     font-size: 25px;
-    user-select: none;
+}
+
+.content h3 {
+    text-shadow: black 5px 5px 1px;
+    font-size: 65px;
 }
 
 .btn {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 170px;
+    width: 275px;
     padding: 10px 0;
     /* background: inherit; */
     /* color: black; */
@@ -110,7 +112,7 @@
 }
 
 .btn img {
-    width: 30px;
+    width: 75px;
     margin-right: 15px;
     outline: none;
 }

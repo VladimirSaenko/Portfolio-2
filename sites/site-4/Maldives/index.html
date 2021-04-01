@@ -28,7 +28,8 @@
             <h1 id="tittle">Maldives</h1>
             <p>Very Nice appartaments in the heart Maldives</p>
             <div class="btn" id="playbtn" onclick="hiddenTittle()">
-                <img src="images/play.png" id="icon"> Watch Video
+                <img src="images/play.png" id="icon">
+                <h3 id="buttonText"></h3>
             </div>
         </div>
     </div>
@@ -36,15 +37,19 @@
         let backvideo = document.getElementById('backvideo');
         let playbtn = document.getElementById('playbtn');
         let icon = document.getElementById('icon');
+        let buttonText = document.getElementById('buttonText');
+
         playbtn.onclick = function () {
             backvideo.style.display = "block";
             if(backvideo.paused) {
                 backvideo.play();
                 icon.src = "images/play.png";
+                buttonText.innerHTML = "Play";
             }
             else {
                 backvideo.pause();
                 icon.src = "images/pause.png";
+                buttonText.innerHTML = "Pause";
             }
         }
     </script>
