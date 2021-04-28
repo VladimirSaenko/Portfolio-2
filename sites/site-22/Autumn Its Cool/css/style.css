@@ -36,18 +36,22 @@ span {
 .item-1 {
     background: url(../img/1.jpg) center;
     background-size: cover;
+    background-position: center;
 }
 .item-2 {
     background: url(../img/2.jpg) center;
     background-size: cover;
+    background-position: center;
 }
 
 .item-3 {
     background: url(../img/3.jpg) center;
     background-size: cover;
+    background-position: center;
 }
 
 .item-4 {
     background: url(../img/4.jpg) center;
     background-size: cover;
+    background-position: center;
 }
