@@ -8,7 +8,7 @@ P.S Некоторые сайты отсутствуют на мобильной
 
 В списке такие сайты как { 
 
-1. Сайт про лето "Summer its cool!" {
+1. Summer its cool! {
 
     https://github.com/VladimirSaenko/Summer-Its-Cool-site-example
     
@@ -18,7 +18,7 @@ P.S Некоторые сайты отсутствуют на мобильной
     
     }
 
-2. Water Balls сайт { 
+2. Water Balls { 
 
    https://github.com/VladimirSaenko/Water-Balls
    
@@ -28,7 +28,7 @@ P.S Некоторые сайты отсутствуют на мобильной
    
    }
    
-3. Сайт про Мальдивы { 
+3. Maldives video site { 
 
    https://github.com/VladimirSaenko/Maldives-site-example 
    
@@ -58,7 +58,7 @@ P.S Некоторые сайты отсутствуют на мобильной
    
    }
    
-6. Video-Scrolling-site {
+6. Video Scrolling site {
     
     https://github.com/VladimirSaenko/First-Calculator.git
     
@@ -68,7 +68,7 @@ P.S Некоторые сайты отсутствуют на мобильной
 
    }
    
-  7. Калькулятор с кнопкой -3, 40, 300, 25, 0.25, 0.5 и звуком при нажатии на -3, 40, 0.25 и 0.5  {
+  7. First Calculator  {
   
    https://github.com/VladimirSaenko/First-Calculator
    
@@ -88,7 +88,7 @@ P.S Некоторые сайты отсутствуют на мобильной
    
    }
    
-9. Parrallax site | Space and Moon-Light {
+9. Parrallax sites | Space and Moon-Light {
 
 https://github.com/VladimirSaenko/Parrallax-effect-Space-and-Moon-Light.git
 
@@ -96,7 +96,7 @@ https://vladimirsaenko.github.io/Portfolio-2/sites/site-9-2/Parrallax/index.html
 
 https://vladimirsaenko.github.io/Parrallax-effect-Space-and-Moon-Light/
    
-  }
+ }
 
 10. First Clock site {
 
@@ -126,7 +126,7 @@ https://vladimirsaenko.github.io/Iron-Man-gsap-site/
  
  }
 
-13. Game List {
+13. Game List example {
 
    https://github.com/VladimirSaenko/Game-List-example
    
@@ -146,11 +146,11 @@ https://vladimirsaenko.github.io/Lorem-Children-animate-example/
 
 }
 
-15. Day & Night {
+15. Day Night example {
 
-  https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/GameList/index.html
+  https://vladimirsaenko.github.io/Portfolio-2/sites/site-15/Day-Night/index.html
   
-  https://github.com/VladimirSaenko/Game-List-example
+  https://github.com/VladimirSaenko/Day-Night-example
   
   https://vladimirsaenko.github.io/Day-Night-example/
   
@@ -246,7 +246,7 @@ https://vladimirsaenko.github.io/Lorem-Children-animate-example/
  
  }
  
- 25. All-Seasons {
+ 25. All-Seasons site {
     
    https://github.com/VladimirSaenko/All-Seasons-Year-site
    
@@ -344,7 +344,7 @@ https://vladimirsaenko.github.io/Menu-animate-site-example/
 
 }
 
-35. First-Generator-Random-Passwords {
+35. First Generator Random Passwords {
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-32/First%20Generator%20Passwords/index.html
 
