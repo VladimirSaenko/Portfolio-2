@@ -10,7 +10,7 @@ body {
     height: 300vh;
     background: url(../img/shrek.jpg);
     background-position: center;
-    background-size: cover;
+    background-size: auto;
 }
 
 section {
