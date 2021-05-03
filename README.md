@@ -264,13 +264,13 @@ https://vladimirsaenko.github.io/Lorem-Children-animate-example/
  
  }
  
- 27. Clip-Path-site {
+ 27. Shrek Clip Path site {
  
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-25/Clip-Path/index.html
  
- https://github.com/VladimirSaenko/Clip-Path-site.git
+ https://vladimirsaenko.github.io/Shrek-Clip-Path-site/
  
- https://vladimirsaenko.github.io/Clip-Path-site/
+ https://github.com/VladimirSaenko/Shrek-Clip-Path-site
  
  }
  
