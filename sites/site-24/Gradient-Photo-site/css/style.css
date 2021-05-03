@@ -30,3 +30,7 @@
     min-width: 50%;
     box-shadow: 0 25px 50px rgba(0,0,0,0.5);
 }
+
+.container .box:nth-child(17) img {
+    height: calc(100% - 50px);
+}
