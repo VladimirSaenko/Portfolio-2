@@ -33,4 +33,12 @@
 
 .container .box:nth-child(17) img {
     height: calc(100% - 50px);
+    object-fit: cover;
+    object-position: center;
+}
+
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    .container .box:nth-child(17) img {
+        height: 300px;
+    }
 }
