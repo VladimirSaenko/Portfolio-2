@@ -3,7 +3,6 @@
 function toggleScene() {
     let change = document.querySelector('.scene');
     change.classList.toggle('active');
-    starsSpawn();
 }
 
 function starsSpawn() {

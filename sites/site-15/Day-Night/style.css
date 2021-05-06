@@ -196,7 +196,7 @@ img {
     .moon {
         position: absolute;
         top: 50px;
-        left: 25%;
+        left: -25px;
         width: 250px;
         height: 250px;
         background: white;
