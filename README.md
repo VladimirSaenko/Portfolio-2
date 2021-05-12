@@ -42,11 +42,11 @@ P.S Некоторые сайты отсутствуют на мобильной
    
 4. Random Photo Cards {
 
-   https://github.com/VladimirSaenko/Random-Photo-Cards
+   https://vladimirsaenko.github.io/Random-Photo-Cards-site/
    
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-5/Photo%20Cards/index.html 
    
-   https://vladimirsaenko.github.io/Random-Photo-Cards/
+   https://vladimirsaenko.github.io/Random-Photo-Cards-site/
    
    }
    
