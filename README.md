@@ -1,8 +1,10 @@
 # Portfolio 2
  
-Вторая версия портфолио
+Вторая версия портфолио {
 
 https://vladimirsaenko.github.io/Portfolio-2/
+
+}
 
 P.S Некоторые сайты отсутствуют на мобильной версии портфолио
 
@@ -361,6 +363,17 @@ https://vladimirsaenko.github.io/First-Generator-Passwords/
   https://github.com/VladimirSaenko/Generator-Random-RGB-Color-site
   
   https://vladimirsaenko.github.io/Generator-Random-RGB-Color-site/
+  
+ }
+ 
+37. Hexagon CircleForm site {
+
+  https://vladimirsaenko.github.io/Portfolio-2/sites/site-26-3/Hexagon-CircleForm-site/index.html
+  
+  https://github.com/VladimirSaenko/Hexagon-CircleForm-site
+  
+  https://vladimirsaenko.github.io/Hexagon-CircleForm-site/
+  
  }
  
   }
