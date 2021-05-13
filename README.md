@@ -20,7 +20,7 @@ P.S Некоторые сайты отсутствуют на мобильной
     
     }
 
-2. Water Balls { 
+2. Water Balls site { 
 
    https://github.com/VladimirSaenko/Water-Balls
    
@@ -40,7 +40,7 @@ P.S Некоторые сайты отсутствуют на мобильной
    
    }
    
-4. Random Photo Cards {
+4. Random Photo Cards site {
 
    https://vladimirsaenko.github.io/Random-Photo-Cards-site/
    
@@ -120,7 +120,7 @@ https://vladimirsaenko.github.io/Iron-Man-gsap-site/
 
  }
 
-12. Black Friday Banner {
+12. Black Friday Banner site example {
 
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-12/BannerBF/index.html
  
@@ -208,13 +208,13 @@ https://vladimirsaenko.github.io/Lorem-Children-animate-example/
    https://vladimirsaenko.github.io/Countdown-to-New-Year-2022/
    
 
-21. MWT {
+21. Minimal-Way-site {
 
-   https://github.com/VladimirSaenko/Minimal-Ways-Cost-MWT
+   https://vladimirsaenko.github.io/Minimal-Way-site/
    
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-18/MWT/index.html
    
-   https://vladimirsaenko.github.io/Minimal-Ways-Cost-MWT/
+   https://github.com/VladimirSaenko/Minimal-Way-site
    
  }
  
