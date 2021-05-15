@@ -138,9 +138,9 @@ https://vladimirsaenko.github.io/Iron-Man-gsap-site/
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-14/Lorem-Children-animate-example/index.html
 
-https://github.com/VladimirSaenko/Lorem-Children-animate-example
+https://github.com/VladimirSaenko/Lorem-Children
 
-https://vladimirsaenko.github.io/Lorem-Children-animate-example/
+https://vladimirsaenko.github.io/Lorem-Children/
 
 }
 
