@@ -346,9 +346,9 @@ https://vladimirsaenko.github.io/Menu-animate-site-example/
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-32/First%20Generator%20Passwords/index.html
 
-https://github.com/VladimirSaenko/First-Generator-Passwords
+https://github.com/VladimirSaenko/First-Generator-Random-Passwords
 
-https://vladimirsaenko.github.io/First-Generator-Passwords/
+https://vladimirsaenko.github.io/First-Generator-Random-Passwords/
 
 }
 
