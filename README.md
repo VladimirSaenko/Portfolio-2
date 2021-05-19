@@ -134,7 +134,7 @@ https://vladimirsaenko.github.io/Iron-Man-gsap-site/
    
  }
  
-14. Lorem Children {
+14. Lorem Children site {
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-14/Lorem-Children-animate-example/index.html
 
@@ -251,6 +251,8 @@ https://vladimirsaenko.github.io/Lorem-Children/
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-23/All%20Seasons%20Year%20site/index.html
    
    https://vladimirsaenko.github.io/All-Seasons-Year-site/
+   
+   }
  
  26. Gradient Photos site {
  
@@ -302,7 +304,7 @@ https://vladimirsaenko.github.io/Lorem-Children/
  
  }
  
- 31. Glove of Thanos-site {
+ 31. Glove-of-Thanos-site {
  
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-28/GloveOfThanos/index.html
  
