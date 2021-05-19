@@ -47,5 +47,5 @@ gsap.to('#ironman', {
     },
     x: 0,
     y: -1800,
-    scale: -50
+    scale: 50
 })
