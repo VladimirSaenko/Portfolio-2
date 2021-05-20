@@ -28,6 +28,9 @@
         margin: 0;
     }
 
+    .roadlist li img {
+        width: 250px;
+        height: 200px;
     }
 
     .storeBox1 img, .storeBox2 img {
