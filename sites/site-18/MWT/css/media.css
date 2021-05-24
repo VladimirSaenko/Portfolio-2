@@ -86,4 +86,21 @@
     body {
         background: linear-gradient(rgba(136, 18, 18, 0.959), #091921);
     }
+
+    .title-result {
+        font-size: 60px;
+        letter-spacing: 5px;
+    }
+
+    .resultText {
+        flex-wrap: wrap;
+        letter-spacing: -2px;
+        font-size: 35px;
+        text-shadow: white 1px 5px 1px;
+    }
+
+    .resultColor {
+        bottom: 15px;
+        left: 36.5%;
+    }
 }
