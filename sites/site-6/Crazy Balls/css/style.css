@@ -22,3 +22,12 @@ section span {
     border-radius: 50%;
     background-size: cover;
 }
+
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    body {
+        background: #091921;
+    }
+    section {
+        width: 100%;
+    }
+}
