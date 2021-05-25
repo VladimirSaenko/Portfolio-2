@@ -11,36 +11,38 @@
     <link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header class="header">
-        <nav class="buttslider-bar">
-            <ul class="buttslider-list">
-                <li class="buttslider-item">
-                    <input class="buttslider-tittle" onclick="lifestyleText()" value="Lifestyle" readonly>
-                </input>
-                </li>
-                <li class="buttslider-item">
-                    <input class="buttslider-tittle" onclick="photodiaryText()" value="Photodiary" readonly>
-                </input>
-                </li>
-                <li class="buttslider-item">
-                    <input class="buttslider-tittle" onclick="musicText()" value="Music" readonly>
-                </input>
-                </li>
-                <li class="buttslider-item">
-                    <input class="buttslider-tittle" onclick="travelText()" value="Travel" readonly>
-                </input>
-                </li>
-            </ul>
-        </nav>
-    </header>
-    <section class="slide-section">
-        <div class="slidebox">
-            <h2 class="call-tittle" id="calltittle">По-нажимайте на кнопки сверху этого текста, и сами все увидите</h2>
-            <h2 class="slide-tittle" id="tittle"></h2>
-            <img class="slide-img" src="" id="slide-image" alt="">
-            <p class="lorem-text" id="lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit huibusdam sunt necessitatibus nesciunt</p>
-        </div>
-    </section>
+    <div class="container">
+        <header class="header">
+            <nav class="buttslider-bar">
+                <ul class="buttslider-list">
+                    <li class="buttslider-item">
+                        <input class="buttslider-tittle" onclick="lifestyleText()" value="Lifestyle" readonly>
+                    </input>
+                    </li>
+                    <li class="buttslider-item">
+                        <input class="buttslider-tittle" onclick="photodiaryText()" value="Photodiary" readonly>
+                    </input>
+                    </li>
+                    <li class="buttslider-item">
+                        <input class="buttslider-tittle" onclick="musicText()" value="Music" readonly>
+                    </input>
+                    </li>
+                    <li class="buttslider-item">
+                        <input class="buttslider-tittle" onclick="travelText()" value="Travel" readonly>
+                    </input>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <section class="slide-section">
+            <div class="slidebox">
+                <h2 class="call-tittle" id="calltittle">По-нажимайте на кнопки сверху этого текста, и сами все увидите</h2>
+                <h2 class="slide-tittle" id="tittle"></h2>
+                <img class="slide-img" src="" id="slide-image" alt="">
+                <p class="lorem-text" id="lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit huibusdam sunt necessitatibus nesciunt</p>
+            </div>
+        </section>
+    </div>
     <script src="buttSlider.js"></script>
 </body>
 </html>

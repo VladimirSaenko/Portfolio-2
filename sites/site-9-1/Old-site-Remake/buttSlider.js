@@ -11,7 +11,7 @@ function lifestyleText() {
     slideImage.src = "img/two_girls_image.png";
     loremtext.style.visibility = "visible";
     calltittle.style.visibility = "hidden";
-    if(window.matchMedia("max-width:600px")) {
+    if(window.matchMedia('screen and (min-width: 300px) and (max-width: 800px)')) {
         tittle.style.fontSize = "45px";
         tittle.style.letterSpacing = "3px";
     }
@@ -22,7 +22,7 @@ function photodiaryText() {
     slideImage.src = "img/coffe_image.png";
     loremtext.style.visibility = "visible";
     calltittle.style.visibility = "hidden";
-    if(window.matchMedia("max-width:600px")) {
+    if(window.matchMedia('screen and (min-width: 300px) and (max-width: 800px)'))  {
         tittle.style.fontSize = "40px";
         tittle.style.letterSpacing = "2px";
     }
@@ -33,7 +33,7 @@ function musicText() {
     slideImage.src = "img/girl_image.png";
     loremtext.style.visibility = "visible";
     calltittle.style.visibility = "hidden";
-    if(window.matchMedia("max-width:600px")) {
+    if(window.matchMedia('screen and (min-width: 300px) and (max-width: 800px)'))  {
         tittle.style.fontSize = "55px";
         tittle.style.letterSpacing = "5px";
     }
@@ -44,7 +44,7 @@ function travelText() {
     slideImage.src = "img/image_dorogi_v_Russia.png";
     loremtext.style.visibility = "visible";
     calltittle.style.visibility = "hidden";
-    if(window.matchMedia("max-width:600px")) {
+    if(window.matchMedia('screen and (min-width: 300px) and (max-width: 800px)'))  {
         tittle.style.fontSize = "65px";
         tittle.style.letterSpacing = "5px";
     }
