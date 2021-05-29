@@ -208,7 +208,7 @@ https://vladimirsaenko.github.io/Lorem-Children/
 
    https://vladimirsaenko.github.io/Minimal-Way-site/
    
-   https://vladimirsaenko.github.io/Portfolio-2/sites/site-18/MWT/index.html
+   https://vladimirsaenko.github.io/Portfolio-2/sites/site-18/MW/index.html
    
    https://github.com/VladimirSaenko/Minimal-Way-site
    
@@ -358,7 +358,7 @@ https://vladimirsaenko.github.io/First-Generator-Random-Passwords/
 
   https://vladimirsaenko.github.io/Portfolio-2/sites/site-33/RandomRGBColor/index.html
   
- https://vladimirsaenko.github.io/Generator-Random-RGB-Color/
+  https://vladimirsaenko.github.io/Generator-Random-RGB-Color/
   
   https://github.com/VladimirSaenko/Generator-Random-RGB-Color
   
