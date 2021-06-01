@@ -292,5 +292,5 @@ footer img {
 }
 
 footer img:hover {
-    border: orange 10px ridge;
+    border: darkblue 10px groove;
 }
