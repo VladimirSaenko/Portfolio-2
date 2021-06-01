@@ -259,15 +259,6 @@ input, button {
     border: black 10px solid;
 }
 
-.resultColor {
-    position: absolute;
-    bottom: 25px;
-    left: 46.5%;
-    width: 75px;
-    height: 75px;
-    border: black 10px ridge;
-}
-
 footer {
     display: flex;
     justify-content: center;
