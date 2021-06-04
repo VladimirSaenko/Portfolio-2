@@ -8,7 +8,7 @@ P.S Некоторые сайты отсутствуют на мобильной
 
 1. Summer its cool! {
 
-    https://github.com/VladimirSaenko/Summer-Its-Cool-site-example
+    https://github.com/VladimirSaenko/Summer-Its-Cool-site
     
     https://vladimirsaenko.github.io/Portfolio-2/sites/site-2/Summer%20its%20cool/index.html
     
@@ -28,7 +28,7 @@ P.S Некоторые сайты отсутствуют на мобильной
    
 3. Maldives video site { 
 
-   https://github.com/VladimirSaenko/Maldives-site-example 
+   https://github.com/VladimirSaenko/Maldives-video-site
    
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-4/Maldives/index.html
    
@@ -58,23 +58,22 @@ P.S Некоторые сайты отсутствуют на мобильной
    
 6. Video Scrolling site {
     
-    https://github.com/VladimirSaenko/First-Calculator.git
+    https://github.com/VladimirSaenko/Video-Scrolling-site
     
-    https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/First%20Calculator/index.html
+    https://vladimirsaenko.github.io/Portfolio-2/sites/site-7/Video%20Scrolling/index.html
     
-    https://vladimirsaenko.github.io/First-Calculator/
-
-   }
+    https://vladimirsaenko.github.io/Video-Scrolling-site/
+ }
    
-  7. First Calculator  {
+ 7. First Calculator  {
   
    https://github.com/VladimirSaenko/First-Calculator
    
    https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/First%20Calculator/index.html
    
-   https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/First%20Calculator/index.html
+   https://vladimirsaenko.github.io/First-Calculator/
    
-   }
+ }
    
 8. Old site | Remake new version {
 
@@ -84,7 +83,7 @@ P.S Некоторые сайты отсутствуют на мобильной
    
    https://vladimirsaenko.github.io/Old-site-Remake-new-version/
    
-   }
+}
    
 9. Parrallax sites | Space and Moon-Light {
 
@@ -122,7 +121,9 @@ https://vladimirsaenko.github.io/Iron-Man-gsap-site/
  
  https://github.com/VladimirSaenko/Black-Friday-Banner-site-example
  
- }
+ https://vladimirsaenko.github.io/Black-Friday-Banner-site-example/
+ 
+}
 
 13. Game List example {
 
@@ -132,15 +133,15 @@ https://vladimirsaenko.github.io/Iron-Man-gsap-site/
    
    https://vladimirsaenko.github.io/Game-List-example/
    
- }
+}
  
 14. Lorem Children site {
 
-https://vladimirsaenko.github.io/Portfolio-2/sites/site-14/Lorem-Children-animate-example/index.html
+  https://vladimirsaenko.github.io/Portfolio-2/sites/site-14/Lorem-Children-animate-example/index.html
 
-https://github.com/VladimirSaenko/Lorem-Children
+  https://github.com/VladimirSaenko/Lorem-Children
 
-https://vladimirsaenko.github.io/Lorem-Children/
+  https://vladimirsaenko.github.io/Lorem-Children/
 
 }
 
@@ -189,7 +190,7 @@ https://vladimirsaenko.github.io/Lorem-Children/
 
   https://vladimirsaenko.github.io/Portfolio-2/sites/site-17/Countdown-NY/index.html
   
-  https://github.com/VladimirSaenko/Countdown-site-example
+  https://github.com/VladimirSaenko/Countdown-to-New-Year-2021
   
   https://vladimirsaenko.github.io/Countdown-to-New-Year-2021/
   
