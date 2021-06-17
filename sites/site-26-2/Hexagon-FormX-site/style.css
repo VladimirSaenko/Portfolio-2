@@ -102,8 +102,6 @@ body {
 
 }
 
-
-
 @keyframes anime {
 
     0% {
@@ -114,6 +112,3 @@ body {
         filter: hue-rotate(360deg);
     }
 }
-
-
-
