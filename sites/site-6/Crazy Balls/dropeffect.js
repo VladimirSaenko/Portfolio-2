@@ -26,7 +26,8 @@ let images = [
     'url("https://picsum.photos/600/600?random=22")',
     'url("https://picsum.photos/600/600?random=23")',
     'url("https://picsum.photos/600/600?random=24")',
-    'url("https://picsum.photos/600/600?random=25")'
+    'url("https://picsum.photos/600/600?random=25")',
+    'url("https://picsum.photos/600/600?random=26")'
 ];
 
 function crazyBalls_Images() {
