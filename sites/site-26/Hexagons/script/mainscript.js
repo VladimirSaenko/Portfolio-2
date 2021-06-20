@@ -1,7 +1,6 @@
 
 "use strict";
 
-
 let hexagon1 = document.getElementById('hexagon1');
 let hexagon3 = document.getElementById('hexagon3');
 let hexagon4 = document.getElementById('hexagon4');
@@ -19,7 +18,6 @@ let hexagon3Tittle = document.getElementById('hexTittle3');
 let hexagon4Tittle = document.getElementById('hexTittle4');
 let hexagon5Tittle = document.getElementById('hexTittle5');
 let hexagon6Tittle = document.getElementById('hexTittle6');
-
 
 function hoverHexagon1() {
     hexagon1.style.background = "white";

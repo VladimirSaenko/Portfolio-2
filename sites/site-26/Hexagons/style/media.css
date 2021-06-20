@@ -1,5 +1,5 @@
 
-@media(max-width: 400px) {
+@media screen and (min-width: 300px) and (max-width: 800px) {
 
     .maincontainer {
         display: flex;
