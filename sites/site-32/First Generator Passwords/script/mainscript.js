@@ -3,7 +3,6 @@
 
 let alertBox = document.querySelector('.alertBox');
 
-
 function getPassword() {
     let chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789/@#$%&()+&<>:";
     let passwordLength = 16;
