@@ -283,5 +283,5 @@ footer img {
 }
 
 footer img:hover {
-    border: darkblue 10px groove;
+    border: red 10px groove;
 }
