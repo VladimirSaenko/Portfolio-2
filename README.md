@@ -354,18 +354,8 @@ https://github.com/VladimirSaenko/First-Generator-Random-Passwords
 https://vladimirsaenko.github.io/First-Generator-Random-Passwords/
 
 }
-
-36. Generator Random RGB Color {
-
-  https://vladimirsaenko.github.io/Portfolio-2/sites/site-33/RandomRGBColor/index.html
-  
-  https://vladimirsaenko.github.io/Generator-Random-RGB-Color/
-  
-  https://github.com/VladimirSaenko/Generator-Random-RGB-Color
-  
- }
  
-37. Hexagon CircleForm site {
+36. Hexagon CircleForm site {
 
   https://vladimirsaenko.github.io/Portfolio-2/sites/site-26-3/Hexagon-CircleForm-site/index.html
   
