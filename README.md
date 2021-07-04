@@ -1,10 +1,10 @@
 # Portfolio 2
  
-Вторая версия портфолио 
+### Вторая версия портфолио 
 
-P.S Некоторые сайты отсутствуют на мобильной версии портфолио
+#### P.S Некоторые сайты отсутствуют на мобильной версии портфолио
 
-В списке такие сайты как { 
+### В списке такие сайты как:
 
 1. Summer its cool! {
 
@@ -14,7 +14,7 @@ P.S Некоторые сайты отсутствуют на мобильной
     
     https://vladimirsaenko.github.io/Summer-Its-Cool-site/
     
-    }
+}
 
 2. Water Balls site { 
 
@@ -24,7 +24,7 @@ P.S Некоторые сайты отсутствуют на мобильной
    
    https://vladimirsaenko.github.io/Water-Balls-site/
    
-   }
+}
    
 3. Maldives video site { 
 
@@ -34,7 +34,7 @@ P.S Некоторые сайты отсутствуют на мобильной
    
    https://vladimirsaenko.github.io/Maldives-video-site/
    
-   }
+}
    
 4. Random Photo Cards site {
 
@@ -44,7 +44,7 @@ P.S Некоторые сайты отсутствуют на мобильной
    
    https://vladimirsaenko.github.io/Random-Photo-Cards-site/
    
-   }
+ }
    
 5. Crazy Balls or Images Drop site {
    
@@ -54,7 +54,7 @@ P.S Некоторые сайты отсутствуют на мобильной
    
    https://vladimirsaenko.github.io/Crazy-Balls-or-Images-Drop-site/
    
-   }
+}
    
 6. Video Scrolling site {
     
@@ -63,7 +63,7 @@ P.S Некоторые сайты отсутствуют на мобильной
     https://vladimirsaenko.github.io/Portfolio-2/sites/site-7/Video%20Scrolling/index.html
     
     https://vladimirsaenko.github.io/Video-Scrolling-site/
- }
+}
    
  7. First Calculator  {
   
@@ -73,7 +73,7 @@ P.S Некоторые сайты отсутствуют на мобильной
    
    https://vladimirsaenko.github.io/First-Calculator/
    
- }
+}
    
 8. Old site | Remake new version {
 
@@ -87,13 +87,13 @@ P.S Некоторые сайты отсутствуют на мобильной
    
 9. Parrallax sites | Space and Moon-Light {
 
-https://github.com/VladimirSaenko/Parrallax-effect-Space-and-Moon-Light.git
+  https://github.com/VladimirSaenko/Parrallax-effect-Space-and-Moon-Light.git
 
-https://vladimirsaenko.github.io/Portfolio-2/sites/site-9-2/Parrallax/index.html
+  https://vladimirsaenko.github.io/Portfolio-2/sites/site-9-2/Parrallax/index.html
 
-https://vladimirsaenko.github.io/Parrallax-effect-Space-and-Moon-Light/
+  https://vladimirsaenko.github.io/Parrallax-effect-Space-and-Moon-Light/
    
- }
+}
 
 10. First Clock site {
 
@@ -103,17 +103,17 @@ https://vladimirsaenko.github.io/Parrallax-effect-Space-and-Moon-Light/
   
   https://vladimirsaenko.github.io/First-Clock-site/
   
- }
+}
 
 11. Iron Man gsap site {
 
-https://github.com/VladimirSaenko/Iron-Man-gsap-site.git
+  https://github.com/VladimirSaenko/Iron-Man-gsap-site.git
 
-https://vladimirsaenko.github.io/Portfolio-2/sites/site-11/Iron%20Man/index.html
+  https://vladimirsaenko.github.io/Portfolio-2/sites/site-11/Iron%20Man/index.html
 
-https://vladimirsaenko.github.io/Iron-Man-gsap-site/
+  https://vladimirsaenko.github.io/Iron-Man-gsap-site/
 
- }
+}
 
 12. Black Friday Banner site example {
 
@@ -253,7 +253,7 @@ https://vladimirsaenko.github.io/Iron-Man-gsap-site/
    
    https://vladimirsaenko.github.io/All-Seasons-Year-site/
    
-   }
+}
  
  26. Gradient Photos site {
  
@@ -263,7 +263,7 @@ https://vladimirsaenko.github.io/Iron-Man-gsap-site/
  
  https://vladimirsaenko.github.io/Gradient-Photos-site/
  
- }
+}
  
  27. Shrek Clip Path site {
  
@@ -273,7 +273,7 @@ https://vladimirsaenko.github.io/Iron-Man-gsap-site/
  
  https://github.com/VladimirSaenko/Shrek-Clip-Path-site
  
- }
+}
  
  28. Hexagons-sites-site {
  
@@ -283,7 +283,7 @@ https://vladimirsaenko.github.io/Iron-Man-gsap-site/
  
  https://vladimirsaenko.github.io/Hexagons-sites-site/
  
- }
+}
  
  29. Hexagon-FormX-site {
  
@@ -293,7 +293,7 @@ https://vladimirsaenko.github.io/Iron-Man-gsap-site/
  
  https://vladimirsaenko.github.io/Hexagon-FormX-site/
  
- }
+}
  
  30. Animate-Search-site-example {
  
@@ -303,7 +303,7 @@ https://vladimirsaenko.github.io/Iron-Man-gsap-site/
  
  https://vladimirsaenko.github.io/Animate-Search-site-example/
  
- }
+}
  
  31. Glove-of-Thanos-site {
  
@@ -363,6 +363,4 @@ https://vladimirsaenko.github.io/First-Generator-Random-Passwords/
   
   https://vladimirsaenko.github.io/Hexagon-CircleForm-site/
   
- }
- 
-  }
+}
