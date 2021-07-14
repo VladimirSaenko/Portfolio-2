@@ -63,9 +63,10 @@
     https://vladimirsaenko.github.io/Portfolio-2/sites/site-7/Video%20Scrolling/index.html
     
     https://vladimirsaenko.github.io/Video-Scrolling-site/
+
 }
    
- 7. First Calculator  {
+ 7. First Calculator {
   
    https://github.com/VladimirSaenko/First-Calculator
    
@@ -162,9 +163,7 @@
    https://github.com/VladimirSaenko/Witcher-Days-and-Nights
    
    https://vladimirsaenko.github.io/Witcher-Days-and-Nights/
-   
-  }
- 
+} 
  
 17. Drop Images | InvertRain {
 
