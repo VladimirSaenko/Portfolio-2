@@ -16,7 +16,6 @@ let raven3 = document.getElementById('raven-3');
 
 document.getElementById('forestDay').play();
 
-
 function toggle() {
     sun.style.visibility = 'hidden';
     sun.style.transition = '0s';
