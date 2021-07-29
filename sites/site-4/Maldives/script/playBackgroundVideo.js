@@ -1,5 +1,5 @@
 
-"use strict"
+"use strict";
 
 let backvideo = document.getElementById('backvideo');
 let playbtn = document.getElementById('playbtn');
