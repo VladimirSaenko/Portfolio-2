@@ -1,7 +1,6 @@
 
 "use strict";
 
-
 const banner = document.getElementsByClassName('banner')[0];
 const blocks = document.getElementsByClassName('blocks');
 
