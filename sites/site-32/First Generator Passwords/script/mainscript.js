@@ -1,5 +1,5 @@
 
-"use strict"
+"use strict";
 
 let alertBox = document.querySelector('.alertBox');
 
