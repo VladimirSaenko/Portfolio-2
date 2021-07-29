@@ -1,5 +1,5 @@
 
-"use strict"
+"use strict";
 
 let userLim = document.getElementById('limit');
 let resultForm = document.getElementById('form');
