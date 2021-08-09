@@ -31,4 +31,3 @@ while(freeSpaceH > 0) {
 //     cursor.style.left = e.clientX + 'px';
 //     cursor.style.top = e.clientY + 'px';
 // }
-

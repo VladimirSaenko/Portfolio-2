@@ -1,4 +1,6 @@
 
+"use strict";
+
 const searchBtn = document.querySelector(".search-btn");
 const searchBox = document.querySelector(".search-box");
 const cancelBtn = document.querySelector(".cancel-btn");

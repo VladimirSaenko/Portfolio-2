@@ -20,5 +20,3 @@ let musicButt0_5 = document.getElementById('alc-2');
 musicButt0_5.addEventListener('click', function() {
     document.getElementById('alcosound').play();
 });
-
-

@@ -15,16 +15,20 @@ body {
   * {
     user-zoom: fixed;
   }
+
   .slider{
     height: 100vh;
     flex-direction: column;
   }
+
   .item{
     width: 100%;
     user-select: none;
     cursor: none;
   }
+
   .item:hover{
     flex-grow: 30%;
   }
+
 }

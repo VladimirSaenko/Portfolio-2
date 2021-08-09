@@ -1,3 +1,4 @@
+
 "use strict";
 
 let images = [
@@ -45,5 +46,3 @@ function dropImage(){
 }
 
 setInterval(dropImage, 50);
-
-
