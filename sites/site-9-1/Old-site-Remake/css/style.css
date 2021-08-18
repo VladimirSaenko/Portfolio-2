@@ -55,10 +55,10 @@ input {
     position: relative;
     bottom: 45px;
     cursor: default;
-    font-size: 1500px;
+    font-size: 75px;
     text-transform: uppercase;
     font-family: 'Playfair Display', serif;
-    text-shadow: white 5px 3px 1px;
+    text-shadow: white 3px 3px 1px;
 }
 
 .lorem-text {
@@ -140,7 +140,6 @@ input {
 }
 
 @media screen and (min-width: 300px) and (max-width: 800px){
-    
     body {
         width: 275px;
         margin: auto;
@@ -192,6 +191,7 @@ input {
 
     .slide-tittle {
         bottom: 50%;
+        font-size: 50px;
     }
 
     .slide-img {
