@@ -90,6 +90,7 @@ body {
 }
 
 .gamelist i {
+    cursor: pointer;
     transition: 0.5s;
     border-radius: 0px;
     position: absolute;
