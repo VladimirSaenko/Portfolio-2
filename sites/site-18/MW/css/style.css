@@ -243,14 +243,6 @@ input, button {
     text-decoration: none;
 }
 
-.mainButton:hover, .mainButton a:hover {
-    border-color: rgb(1, 1, 83);
-    background: rgb(83, 83, 226);
-    color: black;
-    text-shadow: white 1px 2px 3px;
-    transition: 0.5s;
-}
-
 .rangeRandom, .currency {
     width: 250px;
     height: 75px;
