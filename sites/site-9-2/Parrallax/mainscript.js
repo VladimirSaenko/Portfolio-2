@@ -3,6 +3,7 @@
 
 let parspace = document.getElementById('side-1');
 let parmoon = document.getElementById('side-2');
+
 function changeItem1() {
     parspace.style.width = '1050px';
     parmoon.style.width = '486px';
