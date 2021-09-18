@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
 
-
 * {
     margin: 0;
     padding: 0;
@@ -62,7 +61,6 @@ section img {
 }
 
 footer {
-    background: #091921;
     width: auto;
     height: 100vh;
 }
