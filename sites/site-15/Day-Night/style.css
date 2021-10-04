@@ -114,7 +114,6 @@
     }
 }
 
-
 @keyframes animCloud{
     0% {
         transform: translateX(-100%) scale(1);
