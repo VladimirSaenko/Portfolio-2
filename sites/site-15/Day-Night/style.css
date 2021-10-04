@@ -104,9 +104,11 @@
         opacity: 0;
         transform: translateY(0px);
     }
+
     10%,90% {
         opacity: 1;
     }
+
     100% {
         opacity: 0;
         transform: translateY(-100px);
@@ -118,6 +120,7 @@
     0% {
         transform: translateX(-100%) scale(1);
     }
+
     100% {
         transform: translateX(400%) scale(1.5);
     }
@@ -204,37 +207,7 @@ img {
         cursor: pointer;
     }
     
-    .cloud1 {
-        display: none;
-        animation: none;
-        transition: 0s;
-    }
-    
-    .cloud2 {
-        display: none;
-        animation: none;
-        transition: 0s;
-    }
-    
-    .cloud3 {
-        display: none;
-        animation: none;
-        transition: 0s;
-    }
-    
-    .cloud4 {
-        display: none;
-        animation: none;
-        transition: 0s;
-    }
-    
-    .cloud5 {
-        display: none;
-        animation: none;
-        transition: 0s;
-    }
-    
-    .cloud6 {
+    .cloud1, .cloud2, .cloud3, .cloud4, .cloud5, .cloud6 {
         display: none;
         animation: none;
         transition: 0s;
