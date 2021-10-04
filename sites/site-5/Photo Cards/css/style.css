@@ -136,7 +136,7 @@ body {
     top: 10px;
 }
 
-@media(max-width:600px) {
+@media screen and (min-width: 300px) and (max-width: 800px)  {
     .container .hidcard {
         display: flex;
     }
