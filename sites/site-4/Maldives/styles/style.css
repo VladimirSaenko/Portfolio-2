@@ -131,7 +131,6 @@
     }
 }
 
-
 @media (min-aspect-ratio: 16/9) {
     #backvideo {
         width: 100%;
@@ -139,7 +138,7 @@
     }
 }
 
-@media (max-width: 640px){
+@media (max-width: 640px) {
 
     * {
         user-select: none;
