@@ -20,6 +20,8 @@ let titleColor1 = document.getElementById('titleColor1');
 let titleColor2 = document.getElementById('titleColor2');
 let valuta = "";
 
+userLim.focus();
+
 function mainFunc() {
     if(rangeRandom.value == 100) {
         colorcost1 = getRandomInt(0,100);
