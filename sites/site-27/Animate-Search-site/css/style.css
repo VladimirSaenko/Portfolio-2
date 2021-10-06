@@ -1,16 +1,15 @@
-
 /* @import url('https://fonts.googleapis.com/css2&family=Poppins:wght@400;500;600;700&display=swap'); */
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
     user-select: none;
+    font-family: 'Poppins', sans-serif;
 }
 
-HTML {
-    background-color: #FF3CAC;
+html {
+    background: #ff3cac;
     background-image: linear-gradient(225deg, #ff3cac 0%, #784ba0 50%, #2b86c5 100%);
 }
 
@@ -28,15 +27,16 @@ html, body {
     transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
-.search-box active {
+.search-box.active {
     width: 350px;
 }
 
 .search-box input {
+    user-select: text;
     height: 100%;
     width: 100%;
     border: none;
-    font-size: 28px;
+    font-size: 30px;
     border-radius: 50px;
     padding: 0 60px 0 20px;
     outline: none;
@@ -49,6 +49,7 @@ html, body {
 }
 
 .search-box .search-btn {
+    cursor: pointer;
     position: absolute;
     top: 50%;
     right: 0;
@@ -56,23 +57,33 @@ html, body {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #fff;
+    background-color: white;
     color: #ff3cac;
     text-align: center;
     line-height: 50px;
     transform: translateY(-50%);
-    cursor: pointer;
     transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
 .search-box .search-btn.active {
     right: 5px;
     background-color: #ff3cac;
-    color: #fff;
+    color: white;
     transform: translateY(-50%) rotate(360deg);
 }
 
 .search-box .cancel-btn {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+    transition: all 0.5s 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.search-box .cancel-btn{
     position: absolute;
     top: 50%;
     right: 20px;
@@ -85,8 +96,8 @@ html, body {
 
 .search-box .cancel-btn.active {
     right: -40px;
-    transform: translateY(-50%) rotate(360deg); 
-}
+    transform: translateY(-50%) rotate(360deg);
+} 
 
 .search-data {
     color: white;
