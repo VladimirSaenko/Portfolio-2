@@ -34,6 +34,10 @@
     background: linear-gradient(#ffeb3b,#ff9800);
 }
 
+.scene.active .bg {
+    transform: translateY(0);
+}
+
 .scene.active .moon {
     left: 200px;
     box-shadow: 0 0 20px rgba(255,255,255,0.5),
@@ -104,11 +108,11 @@
         opacity: 0;
         transform: translateY(0px);
     }
-
-    10%,90% {
+    
+    10%, 90% {
         opacity: 1;
     }
-
+    
     100% {
         opacity: 0;
         transform: translateY(-100px);
@@ -120,7 +124,7 @@
     0% {
         transform: translateX(-100%) scale(1);
     }
-
+    
     100% {
         transform: translateX(400%) scale(1.5);
     }
@@ -211,5 +215,10 @@ img {
         display: none;
         animation: none;
         transition: 0s;
+    }
+
+    .bg {
+        width: 100%;
+        height: 400px;
     }
 }
