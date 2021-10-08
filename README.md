@@ -2,87 +2,87 @@
  
 ### Вторая версия портфолио 
 
-#### P.S Некоторые сайты отсутствуют на мобильной версии портфолио
+### P.S Некоторые сайты отсутствуют на мобильной версии портфолио
 
 ### В списке такие сайты как:
 
 ## 1. Summer its cool! {
 
-  ### https://github.com/VladimirSaenko/Summer-Its-Cool-site
+### https://github.com/VladimirSaenko/Summer-Its-Cool-site
     
-  ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-2/Summer%20its%20cool/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-2/Summer%20its%20cool/index.html
     
-  ### https://vladimirsaenko.github.io/Summer-Its-Cool-site/
+### https://vladimirsaenko.github.io/Summer-Its-Cool-site/
     
 ### }
 
 ## 2. Water Balls site { 
 
-  ### https://github.com/VladimirSaenko/Water-Balls
+### https://github.com/VladimirSaenko/Water-Balls
    
-  ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-3/Water%20Balls/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-3/Water%20Balls/index.html
    
-  ### https://vladimirsaenko.github.io/Water-Balls-site/
+### https://vladimirsaenko.github.io/Water-Balls-site/
    
 ### }
    
-### 3. Maldives video site { 
+## 3. Maldives video site { 
 
- ###  https://github.com/VladimirSaenko/Maldives-video-site
+### https://github.com/VladimirSaenko/Maldives-video-site
    
- ###  https://vladimirsaenko.github.io/Portfolio-2/sites/site-4/Maldives/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-4/Maldives/index.html
    
- ###  https://vladimirsaenko.github.io/Maldives-video-site/
+### https://vladimirsaenko.github.io/Maldives-video-site/
    
 ### }
    
 ## 4. Random Photo Cards site {
 
-  ### https://vladimirsaenko.github.io/Random-Photo-Cards-site/
+### https://vladimirsaenko.github.io/Random-Photo-Cards-site/
    
-  ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-5/Photo%20Cards/index.html 
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-5/Photo%20Cards/index.html 
    
-  ### https://vladimirsaenko.github.io/Random-Photo-Cards-site/
+### https://vladimirsaenko.github.io/Random-Photo-Cards-site/
    
 ### }
    
 ## 5. Crazy Balls or Images Drop site {
    
- ###  https://github.com/VladimirSaenko/Crazy-Balls-or-Images-Drop-site.git
+### https://github.com/VladimirSaenko/Crazy-Balls-or-Images-Drop-site.git
    
- ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-6/Crazy%20Balls/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-6/Crazy%20Balls/index.html
    
- ###  https://vladimirsaenko.github.io/Crazy-Balls-or-Images-Drop-site/
+### https://vladimirsaenko.github.io/Crazy-Balls-or-Images-Drop-site/
    
 ### }
    
 ## 6. Video Scrolling site {
     
-  ###  https://github.com/VladimirSaenko/Video-Scrolling-site
+### https://github.com/VladimirSaenko/Video-Scrolling-site
     
-  ###  https://vladimirsaenko.github.io/Portfolio-2/sites/site-7/Video%20Scrolling/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-7/Video%20Scrolling/index.html
     
-  ###  https://vladimirsaenko.github.io/Video-Scrolling-site/
+### https://vladimirsaenko.github.io/Video-Scrolling-site/
 
 ### }
    
 ## 7. First Calculator {
   
- ###  https://github.com/VladimirSaenko/First-Calculator
+### https://github.com/VladimirSaenko/First-Calculator
    
- ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/First%20Calculator/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/First%20Calculator/index.html
    
- ###  https://vladimirsaenko.github.io/First-Calculator/
+### https://vladimirsaenko.github.io/First-Calculator/
    
 ### }
    
 ## 8. Old site | Remake new version {
 
- ### https://github.com/VladimirSaenko/Old-site-Remake-new-version
+### https://github.com/VladimirSaenko/Old-site-Remake-new-version
    
- ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-9-1/Old-site-Remake/index.html 
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-9-1/Old-site-Remake/index.html 
    
- ### https://vladimirsaenko.github.io/Old-site-Remake-new-version/
+### https://vladimirsaenko.github.io/Old-site-Remake-new-version/
    
 ### }
    
