@@ -49,6 +49,18 @@ a {
     color: red;
 }
 
+.album_artwork {
+    width: 100%;
+}
+
 img {
     user-select: none;
+}
+
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    .album_artwork {
+        width: 280px;
+        height: 270px;
+    }
+
 }
