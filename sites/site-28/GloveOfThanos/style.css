@@ -42,12 +42,11 @@ section h2 {
     transform-style: preserve-3d;
 }
 
-.banner .blocks{
+.banner .blocks {
     position: relative;
     display: block;
     width: 5vw;
     height: 5vh;
-    border-radius: 5px;
     /* background: white; */
     animation: animate 2s ease-in-out forwards;
 }
@@ -73,7 +72,7 @@ section h2 {
     }
 }
 
-section.active .banner .blocks{
+section.active .banner .blocks {
     animation: animateTwo 2s ease-in-out forwards;
     background: url(bg.jpg);
     background-position: center;
