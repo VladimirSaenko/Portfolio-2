@@ -12,7 +12,6 @@ body {
 }
 
 @media (max-width: 640px) {
-
   .slider {
     height: 100vh;
     flex-direction: column;
