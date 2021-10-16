@@ -205,18 +205,8 @@
 ### https://vladimirsaenko.github.io/Countdown-to-New-Year-2022/
 
 ### }
-
-### 21. Minimal-Way-site {
-
-### https://vladimirsaenko.github.io/Minimal-Way-site/
-   
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-18/MW/index.html
-   
-### https://github.com/VladimirSaenko/Minimal-Way-site
-   
-### }
  
-## 22. Winter Its Cool {
+## 21. Winter Its Cool {
   
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-20/Winter%20Its%20Cool/index.html
   
@@ -226,7 +216,7 @@
   
 ### }
  
-## 23. Spring Its Cool {
+## 22. Spring Its Cool {
   
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-21/Spring%20Its%20Cool/index.html
   
@@ -236,7 +226,7 @@
   
 ### }
  
-## 24. Autumn Its Cool {
+## 23. Autumn Its Cool {
  
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-22/Autumn%20Its%20Cool/index.html
  
@@ -246,7 +236,7 @@
  
 ### }
  
-## 25. All-Seasons site {
+## 24. All-Seasons site {
     
 ### https://github.com/VladimirSaenko/All-Seasons-Year-site
    
@@ -256,7 +246,7 @@
    
 ### }
  
-## 26. Gradient Photos site {
+## 25. Gradient Photos site {
  
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Gradient-Photo-site/index.html
  
@@ -266,7 +256,7 @@
  
 ### }
  
-## 27. Shrek Clip Path site {
+## 26. Shrek Clip Path site {
  
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-25/Clip-Path/index.html
  
@@ -276,7 +266,7 @@
  
 ### }
  
-## 28. Hexagons-sites-site {
+## 27. Hexagons-sites-site {
  
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/Hexagons/index.html
  
@@ -286,7 +276,7 @@
  
 ### }
  
-## 29. Hexagon-FormX-site {
+## 28. Hexagon-FormX-site {
  
 ### https://github.com/VladimirSaenko/Hexagon-FormX-site
  
@@ -296,7 +286,7 @@
  
 ### }
  
-## 30. Animate-Search-site-example {
+## 29. Animate-Search-site-example {
  
 ### https://github.com/VladimirSaenko/Animate-Search-site-example
  
@@ -306,7 +296,7 @@
  
 ### }
  
-## 31. Glove-of-Thanos-site {
+## 30. Glove-of-Thanos-site {
  
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-28/GloveOfThanos/index.html
  
@@ -316,7 +306,7 @@
 
 ### }
 
-## 32. SW-Republican-Fleet-site {
+## 31. SW-Republican-Fleet-site {
 
 ### https://github.com/VladimirSaenko/SW-Republican-Fleet-site
 
@@ -326,7 +316,7 @@
 
 ### }
 
-## 33. Drop Images | Normal Rain {
+## 32. Drop Images | Normal Rain {
 
 ### https://github.com/VladimirSaenko/Drop-Images-Normal-Rain
 
@@ -336,7 +326,7 @@
 
 ### }
 
-## 34. Menu-animate-site-example {
+## 33. Menu-animate-site-example {
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-31/Menu-animate-example/index.html
 
@@ -346,7 +336,7 @@
 
 ### }
 
-## 35. First Generator Random Passwords {
+## 34. First Generator Random Passwords {
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-32/First%20Generator%20Passwords/index.html
 
@@ -356,7 +346,7 @@
 
 ### }
  
-## 36. Hexagon CircleForm site {
+## 35. Hexagon CircleForm site {
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-26-3/Hexagon-CircleForm-site/index.html
   
