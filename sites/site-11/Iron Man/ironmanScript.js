@@ -7,7 +7,7 @@ gsap.to('#bg', {
     },
     y: 200,
     scale: 1.5
-})
+});
 
 gsap.to('#moon', {
     scrollTrigger : {
@@ -15,21 +15,21 @@ gsap.to('#moon', {
     },
     x: -400,
     scale: 3
-})
+});
 
 gsap.to('#cloud1', {
     scrollTrigger : {
         scrub: true
     },
     x: -400
-})
+});
 
 gsap.to('#cloud2', {
     scrollTrigger : {
         scrub: true
     },
     x: 400
-})
+});
 
 gsap.to('#jet', {
     scrollTrigger : {
@@ -39,7 +39,7 @@ gsap.to('#jet', {
     y: 200,
     scale: 4,
     rotation: -50
-})
+});
 
 gsap.to('#ironman', {
     scrollTrigger : {
@@ -48,4 +48,4 @@ gsap.to('#ironman', {
     x: 0,
     y: -1800,
     scale: 50
-})
+});
