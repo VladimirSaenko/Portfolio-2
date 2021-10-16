@@ -1,10 +1,15 @@
 
+/* * {
+    user-select: none;
+} */
+
 .slider {
     display: flex;
     justify-content: center;
 }
 
 .item {
+    user-select: none;
     border: 1px solid black;
     /* cursor: default; */
     cursor: pointer;
@@ -18,7 +23,7 @@
 }
 
 .item:hover {
-    flex-basis: 70%;
+    flex-basis: 70%;   
 }
 
 span {
@@ -36,6 +41,7 @@ span {
     background: url(../img/1.jpg) center;
     background-size: cover;
 }
+
 .item-2 {
     background: url(../img/2.jpg) center;
     background-size: cover;
@@ -49,4 +55,27 @@ span {
 .item-4 {
     background: url(../img/4.jpg) center;
     background-size: cover;
+}
+
+.preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    transform: translateX(100%);
+    animation: rolling 5s infinite;
+    z-index: 1000;
+}
+
+.preloader.finish {
+    display: none;
+}
+
+@keyframes rolling {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
 }

@@ -9,26 +9,23 @@
 body {
   margin: 0;
   font-family: 'Bad Script', sans-serif;
+  /* лол, бэд скрипт) */
 }
 
-@media (max-width: 640px){
-  * {
-    user-zoom: fixed;
-  }
-
-  .slider{
+@media (max-width: 640px) {
+  .slider {
     height: 100vh;
     flex-direction: column;
   }
 
-  .item{
+  .item {
     width: 100%;
     user-select: none;
     cursor: none;
   }
 
   .item:hover{
-    flex-grow: 30%;
+      flex-grow: 30%;
   }
 
 }
