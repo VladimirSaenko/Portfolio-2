@@ -30,9 +30,11 @@ section span {
     0% {
         transform: translateY(555px);
     }
+
     50% {
         opacity: 1;
     }
+    
     100% {
         /* transform: translateY(1000%); */
         transform: translateY(-1000%);
