@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     user-select: none;
-    font-family: 'Poppins',sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .container {
@@ -112,7 +112,6 @@
 .container .countdownBx .countdown div#second {
     color: yellow;
 }
-
 
 @media (max-width: 991px){
     .container .imgBx{
