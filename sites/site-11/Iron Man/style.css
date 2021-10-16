@@ -98,7 +98,6 @@ section::before {
     max-width: 100%;
 }
 
-
 @media (max-width: 600px) {
     #cloud1, #cloud2 {
         display: none;
