@@ -57,19 +57,6 @@ span {
     background-size: cover;
 }
 
-.preloader {
-    position: fixed;
-    top: 0;
-    left: 0;
-    transform: translateX(100%);
-    animation: rolling 5s infinite;
-    z-index: 1000;
-}
-
-.preloader.finish {
-    display: none;
-}
-
 @keyframes rolling {
     from {
         transform: rotate(0deg);
