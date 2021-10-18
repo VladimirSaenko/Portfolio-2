@@ -59,8 +59,8 @@ img {
 
 @media screen and (min-width: 300px) and (max-width: 800px) {
     .album_artwork {
-        width: 280px;
-        height: 270px;
+        width: 100%;
+        height: 100%;
     }
 
 }
