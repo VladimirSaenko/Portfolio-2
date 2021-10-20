@@ -42,7 +42,7 @@
    
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-4/Photo%20Cards/index.html
    
-### https://vladimirsaenko.github.io/Random-Photo-Cards-site/
+### https://github.com/VladimirSaenko/Random-Photo-Cards-site
    
 ### }
    
