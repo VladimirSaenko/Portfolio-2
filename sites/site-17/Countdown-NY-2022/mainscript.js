@@ -14,6 +14,7 @@ function newYear() {
         document.getElementById('minute').textContent = "0";
         document.getElementById('second').textContent = "0";
     }
+
     else {
         const second = 1000;
         const minute = second * 60;
