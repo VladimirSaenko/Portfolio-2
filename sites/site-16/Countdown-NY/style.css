@@ -114,24 +114,32 @@
     color: yellow;
 }
 
-
-@media (max-width: 991px){
+@media (max-width: 991px) {
     .container .imgBx{
-        display: none;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 250px;
+        background-image: url(img/bg.jpg);
     }
-    .container .countdownBx{
+
+    .container .countdownBx {
         width: 100%;
     }
 }
 
-@media (max-width: 600px){
-    .container .countdownBx h2{
-        font-size: 1.1em;
+@media (max-width: 600px) {
+    .container .countdownBx h2 {
+        /* font-size: 1.1em; */
+        font-size: 2em;
+        font-weight: bolder;
     }
-    .container .countdownBx .countdown{
+
+    .container .countdownBx .countdown {
         height: 100px;
     }
-    .container .countdownBx .countdown div{
+
+    .container .countdownBx .countdown div {
         width: 80px;
         color: #fff;
         margin: 0;
