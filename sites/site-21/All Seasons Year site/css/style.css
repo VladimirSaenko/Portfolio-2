@@ -2,12 +2,15 @@
 * {
     user-select: none;
     outline: none;
+    box-sizing: border-box;
+    user-select: none;
+    margin: 0;
+    padding: 0;
 }
 
 .slider {
     display: flex;
     justify-content: center;
-
 }
 
 .item {
@@ -28,14 +31,13 @@
     flex-basis: 70%;
 }
 
-
 span {
     color: white;
     font-size: 70px;
     text-shadow: 5.5px 10px 1px black;
 }
 
-a {
+p {
     text-decoration: none;
     color: inherit;
     font-family: inherit;
@@ -50,6 +52,7 @@ a {
     background: url(../img/Summer.jpg) center;
     background-size: cover;
 }
+
 .item-2 {
     background: url(../img/Winter.jpg) center;
     background-size: cover;
@@ -65,44 +68,42 @@ a {
     background-size: cover;
 }
 
-.link-summer {
+.summer {
     transition: 0.5s;
     color: inherit;
 }
 
-.link-summer:hover {
+.summer:hover {
     transition: 0.5s;
     color: greenyellow;
 }
 
-.link-winter {
+.winter {
     transition: 0.5s;
     color: inherit;
 }
 
-.link-winter:hover {
+.winter:hover {
     color: rgb(22, 22, 235);
     transition: 0.5s;
 }
 
-.link-autumn {
+.autumn {
     transition: 0.5s;
     color: inherit;
 }
 
-.link-autumn:hover {
+.autumn:hover {
     color: orange;
     transition: 0.5s;
 }
 
-.link-spring {
+.spring {
     transition: 0.5s;
     color: inherit;
 }
 
-.link-spring:hover {
+.spring:hover {
     color: pink;
     transition: 0.5s;
 }
-
-
