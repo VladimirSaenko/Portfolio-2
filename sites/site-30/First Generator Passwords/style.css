@@ -117,3 +117,15 @@
     border-radius: 15px;
     background: #9c27b0;
 }
+
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    .copy {
+        top: 50%;
+        right: 0;
+    }
+
+    .alertBox {
+        font-size: 25px;
+        font-weight: bold;
+    }
+}

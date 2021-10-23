@@ -8,7 +8,7 @@ function getPassword() {
     let passwordLength = 16;
     let password = "";
     let smiles = [
-        '¯\_(ツ)_/¯',
+        '-_-',
         '( ͡° ͜ʖ ͡°)',
         '(✷‿✷)',
         '( ͡⊙ ͜ʖ ͡⊙)',
