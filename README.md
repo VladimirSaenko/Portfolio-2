@@ -286,13 +286,13 @@
  
 ### }
  
-## 29. Glove-of-Thanos-site {
+## 29. Glove-of-EffectT-Thanos-site {
  
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/GloveOfThanos/index.html
  
-### https://github.com/VladimirSaenko/GloveOfThanos-site
+### https://github.com/VladimirSaenko/GloveOfThanos-Effect-site
  
-### https://vladimirsaenko.github.io/GloveOfThanos-site/
+### https://vladimirsaenko.github.io/GloveOfThanos-Effect-site/
 
 ### }
 
