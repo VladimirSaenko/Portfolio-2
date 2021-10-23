@@ -128,7 +128,7 @@ h1 {
     transition: 1s;
 }
 
-.bubbles  {
+.bubbles {
     width: 100%;
     display: flex;
     align-items: center;
@@ -140,7 +140,7 @@ h1 {
     bottom: -70px;
 }
 
-@keyframes bubbleFall{
+@keyframes bubbleFall {
     0%{
         transform: translateY(0);
         opacity: 0;
