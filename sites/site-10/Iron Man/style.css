@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     user-select: none;
-    font-family: 'Poppins',sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -111,5 +111,12 @@ section::before {
         color: white;
         position: relative;
         bottom: 55px;
+    }
+
+    #jet {
+        top: 0;
+        left: 0;
+        width: calc(100%) + 150px;
+        height: 450px;
     }
 }
