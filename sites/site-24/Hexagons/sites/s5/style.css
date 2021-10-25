@@ -113,3 +113,22 @@ body {
         filter: hue-rotate(360deg);
     }
 }
+
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    #cursor {
+        width: 275px;
+        height: 275px;
+    }
+
+    .container {
+        height: calc(100% + 150px);
+        width: calc(100% + 150px);
+        overflow: hidden;
+    }
+    
+    body {
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+}

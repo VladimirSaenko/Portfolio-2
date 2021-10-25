@@ -99,10 +99,7 @@ body {
     transform: translate(-50%, -50%);
     z-index: 1;
     transform: rotate(100deg);
-
 }
-
-
 
 @keyframes anime {
 
@@ -115,5 +112,21 @@ body {
     }
 }
 
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    #cursor, #cursor::before {
+        width: 100px;
+        height: 275px;
+    }
 
-
+    .container {
+        height: calc(100% + 150px);
+        width: calc(100% + 150px);
+        overflow: hidden;
+    }
+    
+    body {
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    }
+}
