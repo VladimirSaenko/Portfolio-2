@@ -14,4 +14,5 @@ for(let i = 1; i < 400; i++) {
 const section = document.querySelector('section');
 setTimeout(function() {
     section.classList.add('active');
+    location.reload();
 }, 13500);
