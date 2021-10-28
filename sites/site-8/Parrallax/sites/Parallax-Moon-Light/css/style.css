@@ -5,11 +5,13 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
+    user-select: none;
 }
 
 body {
     background: rgb(10,1,29);
-    min-height: 1475px;
+    /* min-height: 1475px; */
+    min-height: 150vh;
 }
 
 section {
@@ -60,33 +62,12 @@ section img {
     z-index: 2;
 }
 
-footer {
-    width: auto;
-    height: 100vh;
-}
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    #text {
+        text-align: center;
+    }
 
-.footerTittle {
-    cursor: default;
-    user-select: none;
-    color: white;
-    text-align: center;
-    position: relative;
-    top: 50%;
-    font-size: 75px;
-    transform: translateY(-50%);
-    transform: translateX(-100%);
-}
-
-.git-img {
-    /* visibility: hidden; */
-    position: relative;
-    top: 50%;
-    /* transform: translateY(100%); */
-    transform: translateX(-100%);
-    /* transform: translateX(240%); */
-    border-radius: 100%;
-    width: 250px;
-    height: 250px;
-    object-fit: cover;
-    object-position: top;
+    body {
+        min-height: 165vh;
+    }
 }
