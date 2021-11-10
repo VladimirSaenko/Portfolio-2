@@ -40,12 +40,12 @@ body {
     text-align: right;
     outline: none;
     padding: 10px;
-    background: transparent;
+    background: #0f3a50;
     color: white;
     cursor: default;
     font-size: 30px;
     width: 300px;
-    border: 5px solid rgba(255,255,255,0.05);
+    border: 5px solid rgba(255, 255, 255, 0.05);
 }
 
 .calculator span {
