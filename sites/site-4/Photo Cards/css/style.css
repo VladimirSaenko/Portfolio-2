@@ -8,6 +8,8 @@
 
 .content h2 {
     cursor: default;
+    font-size: 25px;
+    font-weight: bold;
 }
 
 body {
@@ -42,25 +44,7 @@ body {
     transition: 0.5s ease-in-out;
 }
 
-.container .hidcard {
-    display: none;
-    /* display: flex; */
-    flex-direction: column;
-    position: relative;
-    max-width: 300px;
-    height: 215px;
-    background: white;
-    box-shadow: 0px 5px 202px rgba(0,0,0, 0.5);
-    margin: 30px 10px;
-    padding: 20px 15px;
-    transition: 0.5s ease-in-out;
-}
-
 .container .card:hover {
-    height: 420px;
-}
-
-.container .hidcard:hover {
     height: 420px;
 }
 
@@ -73,40 +57,12 @@ body {
     z-index: 1;
 }
 
-.container .hidcard .img-box {
-    position: relative;
-    height: 260px;
-    width: 260px;
-    top: -60px;
-    left: 20px;
-    z-index: 1;
-}
-
 .container .card .img-box img {
-    cursor: pointer;
-    max-width: 100%;
-    border-radius: 10px;
-}
-
-.container .hidcard .img-box img {
-    cursor: pointer;
     max-width: 100%;
     border-radius: 10px;
 }
 
 .container .card .content {
-    position: relative;
-    top: 25px;
-    margin-top: -140px;
-    padding: 10px 15px;
-    text-align: center;
-    color: black;
-    visibility: hidden;
-    opacity: 0;
-    transition: 0.3s ease-in-out;
-}
-
-.container .hidcard .content {
     position: relative;
     top: 25px;
     margin-top: -140px;
@@ -125,20 +81,14 @@ body {
     transition-delay: 0.2s;
 }
 
-.container .hidcard:hover .content {
-    visibility: visible;
-    opacity: 1;
-    margin-top: -40px;
-    transition-delay: 0.2s;
-}
-
 .content p {
     position: relative;
     top: 10px;
+    font-size: 15px;
 }
 
 @media screen and (min-width: 300px) and (max-width: 800px)  {
-    .container .hidcard {
-        display: flex;
+    .container {
+        height: calc(100vh + 100px);
     }
 }
