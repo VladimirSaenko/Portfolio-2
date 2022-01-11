@@ -91,4 +91,8 @@ body {
     .container {
         height: calc(100vh + 100px);
     }
+
+    .content p {
+        font-size: 0.9em;
+    }
 }
