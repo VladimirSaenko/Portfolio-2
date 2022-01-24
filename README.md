@@ -1,347 +1,203 @@
-# Portfolio 2
+# Portfolio-2
  
-### Вторая версия портфолио 
+## Вторая версия портфолио 
 
-### P.S Некоторые сайты отсутствуют на мобильной версии портфолио
+## Summer It's Cool
 
-### В списке такие сайты как:
-
-## 1. Summer its cool {
-
-### https://github.com/VladimirSaenko/Summer-Its-Cool-site
-    
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-1/Summer%20its%20cool/index.html
-    
-### https://vladimirsaenko.github.io/Summer-Its-Cool-site/
-    
-### }
 
-## 2. Water Balls site { 
+![4](https://user-images.githubusercontent.com/56477695/150794479-2cf23c1c-28dc-4dcc-8103-b48610169630.jpg)
 
-### https://github.com/VladimirSaenko/Water-Balls
-   
+## Water Balls site
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-2/Water%20Balls/index.html
-   
-### https://vladimirsaenko.github.io/Water-Balls-site/
-   
-### }
-   
-## 3. Maldives video site { 
 
-### https://github.com/VladimirSaenko/Maldives-video-site
-   
+![background](https://user-images.githubusercontent.com/56477695/150794579-1495e7f9-d251-46f1-8f6a-062a7512499a.png)
+
+## Maldives video site
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-3/Maldives/index.html
-   
-### https://vladimirsaenko.github.io/Maldives-video-site/
-   
-### }
-   
-## 4. Random Photo Cards site {
 
-### https://vladimirsaenko.github.io/Random-Photo-Cards-site/
-   
+![background](https://user-images.githubusercontent.com/56477695/150794677-85a7fb05-938e-4549-bd47-5f341e728471.png)
+
+## Random Photo Cards sie
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-4/Photo%20Cards/index.html
-   
-### https://github.com/VladimirSaenko/Random-Photo-Cards-site
-   
-### }
-   
-## 5. Crazy Balls or Images Drop site {
-   
-### https://github.com/VladimirSaenko/Crazy-Balls-or-Images-Drop-site.git
-   
+
+## Images Drop 
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-5/Crazy%20Balls/index.html
-   
-### https://vladimirsaenko.github.io/Crazy-Balls-or-Images-Drop-site/
-   
-### }
-   
-## 6. Video Scrolling site {
-    
-### https://github.com/VladimirSaenko/Video-Scrolling-site
-    
+
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150795046-32623135-e5fb-4952-97ce-88c9ad698982.png)
+
+## Video Scrolling
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-6/Video%20Scrolling/index.html
-    
-### https://vladimirsaenko.github.io/Video-Scrolling-site/
 
-### }
-   
-## 7. First Calculator {
-  
-### https://github.com/VladimirSaenko/First-Calculator
-   
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150795133-ecc636f8-0658-4f52-8add-0b93427fb48f.jpg)
+
+## Calculator
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-7/First%20Calculator/index.html
-   
-### https://vladimirsaenko.github.io/First-Calculator/
-   
-### }
-   
-## 8. Parrallax sites | Space and Moon-Light {
 
-### https://github.com/VladimirSaenko/Parrallax-effect-Space-and-Moon-Light.git
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150795270-382df4d7-6415-48b1-ab89-ef496562be92.png)
+
+## Parallsx sites
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/Parrallax/index.html
 
-### https://vladimirsaenko.github.io/Parrallax-effect-Space-and-Moon-Light/
-   
-### }
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150795371-08f1fb0c-6cc3-469c-b0fd-372324f35f7c.png)
 
-## 9. First Clock site {
+## Clock
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-9/FirstClock/index.html
-  
-### https://github.com/VladimirSaenko/First-Clock-site-example
-  
-### https://vladimirsaenko.github.io/First-Clock-site/
-  
-### }
 
-## 10. Iron Man gsap site {
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150795436-30907356-9a61-4a77-8fd2-ac9131be7b4b.png)
 
-### https://github.com/VladimirSaenko/Iron-Man-gsap-site.git
+## Iron Man gsap
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-10/Iron%20Man/index.html
 
-### https://vladimirsaenko.github.io/Iron-Man-gsap-site/
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150795517-a985fc73-d2a1-4e8d-bf9c-d0f91dc0d361.jpg)
 
-### }
-
-## 11. Black Friday Banner site example {
+## Black Friday Banner
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-11/BannerBF/index.html
- 
-### https://github.com/VladimirSaenko/Black-Friday-Banner-site-example
- 
-### https://vladimirsaenko.github.io/Black-Friday-Banner-site-example/
- 
-### }
 
-## 12. Game List example {
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150795669-65d59fac-1025-471c-8d37-83499901d505.png)
 
-### https://github.com/VladimirSaenko/Game-List-example
-   
+## Game List
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-12/GameList/index.html
-   
-### https://vladimirsaenko.github.io/Game-List-example/
-   
-### }
- 
-## 13. Lorem Children site {
+
+![portfolio-img](https://user-images.githubusercontent.com/56477695/150795767-6bc7bf31-36e7-479c-bcb2-90134c41d6b1.png)
+
+## Lorem Text Children
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/Lorem-Children-animate-example/index.html
 
-### https://github.com/VladimirSaenko/Lorem-Children
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150795847-df34fd2e-ec70-49af-924e-0effeb7ecd0c.jpg)
 
-### https://vladimirsaenko.github.io/Lorem-Children/
-
-### }
-
-### 14. Day Night example {
+## Day Night site 
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-14/Day-Night/index.html
-  
-### https://github.com/VladimirSaenko/Day-Night-example
-  
-### https://vladimirsaenko.github.io/Day-Night-example/
-  
-### }
 
-## 15. 🐺 Witcher | Days & Nights🐺 {
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150796528-1beaa52e-ea78-432c-947a-8c6bf0126ffe.jpg)
+
+## Witcher Days & Nights
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15/Witcher-Days-and-Night/index.html
-   
-### https://github.com/VladimirSaenko/Witcher-Days-and-Nights
-   
-### https://vladimirsaenko.github.io/Witcher-Days-and-Nights/
- 
-### } 
- 
-### 16. Drop Images | InvertRain {
 
-### https://github.com/VladimirSaenko/Drop-Images-InvertRain
-   
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150796664-892bf7be-f45f-43f1-9a7b-fad6dac834de.jpg)
+
+## Drop Image Invert Rain
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-2/Drop-Image-Rain/index.html
-   
-### https://vladimirsaenko.github.io/Drop-Images-InvertRain/
-   
-### }
 
-## 17. Drop Image | Tornado {
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150796868-71ce93eb-6b24-40c2-881c-80c21e03d036.jpg)
+
+## Drop Image Tornado
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-3/Drop-Image-Tornado/index.html
-  
-### https://github.com/VladimirSaenko/Drop-Images-Tornado
-  
-### https://vladimirsaenko.github.io/Drop-Images-Tornado/
-  
-### }
 
-## 18. Countdown to New Year | 2021 {
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150798521-d13fa8ff-0dba-435b-bb7a-7c27616daf90.jpg)
+
+## Countdown To New Year 2021
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-16/Countdown-NY/index.html
-  
-### https://github.com/VladimirSaenko/Countdown-to-New-Year-2021
-  
-### https://vladimirsaenko.github.io/Countdown-to-New-Year-2021/
-  
-### }
- 
-### 19. Countdown to New Year | 2022 {
 
-### https://github.com/VladimirSaenko/Countdown-to-New-Year-2022 
-   
+![bg2](https://user-images.githubusercontent.com/56477695/150798619-c236b9b1-1cde-47ff-b40a-ca8b5a2dce1a.jpg)
+
+## Countdown to New Year 2022
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-17/Countdown-NY-2022/index.html
-   
-### https://vladimirsaenko.github.io/Countdown-to-New-Year-2022/
 
-### }
- 
-## 20. Winter Its Cool {
-  
+![bg](https://user-images.githubusercontent.com/56477695/150800038-aad3f8fd-89a8-496d-a24c-3d9603eb1f6a.jpg)
+
+## Winter It's Cool
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-18/Winter%20Its%20Cool/index.html
-  
-### https://github.com/VladimirSaenko/Winter-Its-Cool-site
-  
-### https://vladimirsaenko.github.io/Winter-Its-Cool-site/
-  
-### }
- 
-## 21. Spring Its Cool {
-  
+
+![3](https://user-images.githubusercontent.com/56477695/150800157-88cd99f8-4e26-4819-a8fd-fccd9aae2e00.jpg)
+
+## Spring It's Cool
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-19/Spring%20Its%20Cool/index.html
-  
-### https://github.com/VladimirSaenko/Spring-Its-Cool-site
-  
-### https://vladimirsaenko.github.io/Spring-Its-Cool-site/
-  
-### }
- 
-## 22. Autumn Its Cool {
- 
+
+![2](https://user-images.githubusercontent.com/56477695/150800679-0f70c2b6-c88d-4e0b-a857-146410657ddb.jpg)
+
+## Autumn It's Cool
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-20/Autumn%20Its%20Cool/index.html
- 
-### https://github.com/VladimirSaenko/Autumn-Its-Cool-site
- 
-### https://vladimirsaenko.github.io/Autumn-Its-Cool-site/
- 
-### }
- 
-## 23. All-Seasons site {
-    
-### https://github.com/VladimirSaenko/All-Seasons-Year-site
-   
+
+![3](https://user-images.githubusercontent.com/56477695/150801491-6cef69e1-3a8b-4863-a291-a27d0e2ab771.jpg)
+
+## All Seasons Year
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-21/All%20Seasons%20Year%20site/index.html
-   
-### https://vladimirsaenko.github.io/All-Seasons-Year-site/
-   
-### }
- 
-## 24. Gradient Photos site {
- 
+
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150801607-bd9800b8-6f4b-416b-bd27-d713a3c10868.jpg)
+
+## Gradient Photos
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-22/Gradient-Photo-site/index.html
- 
-### https://github.com/VladimirSaenko/Gradient-Photo-site.git
- 
-### https://vladimirsaenko.github.io/Gradient-Photos-site/
- 
-### }
- 
-## 25. Shrek Clip Path site {
- 
+
+## Clip Path
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-23/Clip-Path/index.html
- 
-### https://vladimirsaenko.github.io/Shrek-Clip-Path-site/
- 
-### https://github.com/VladimirSaenko/Shrek-Clip-Path-site
- 
-### }
- 
-## 26. Hexagons-sites-site {
- 
+
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150802814-8f0c5dae-8fd0-4e3b-a47d-5908d2bf0d35.jpg)
+
+## Hexagons
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Hexagons/index.html
- 
-### https://github.com/VladimirSaenko/Hexagons-sites-site
- 
-### https://vladimirsaenko.github.io/Hexagons-sites-site/
- 
-### }
- 
-## 27. Hexagon-FormX-site {
- 
-### https://github.com/VladimirSaenko/Hexagon-FormX-site
- 
+
+![portfolio-img](https://user-images.githubusercontent.com/56477695/150802907-302b1df1-add7-4313-8c12-9641747ef753.jpg)
+
+## Hexagon Form X
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24-2/Hexagon-FormX-site/index.html
- 
-### https://vladimirsaenko.github.io/Hexagon-FormX-site/
- 
-### }
- 
-## 28. Animate-Search-site-example {
- 
-### https://github.com/VladimirSaenko/Animate-Search-site-example
- 
+
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150802993-4e3028c4-1544-4ce4-b70a-03bbfa663407.jpg)
+
+## Hexagon Form Circle
+
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24-3/Hexagon-CircleForm-site/index.html
+
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150803112-b8d5ade5-3dd5-4568-a6c3-566e49daeb92.jpg)
+
+## Animate Search
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-25/Animate-Search-site/index.html
- 
-### https://vladimirsaenko.github.io/Animate-Search-site-example/
- 
-### }
- 
-## 29. Glove-of-EffectT-Thanos-site {
- 
+
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150803186-c01921ce-6b61-4ddd-9bb7-5c6b34ad6bd8.jpg)
+
+## glove of thanos effect
+
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/GloveOfThanos/index.html
- 
-### https://github.com/VladimirSaenko/GloveOfThanos-Effect-site
- 
-### https://vladimirsaenko.github.io/GloveOfThanos-Effect-site/
 
-### }
+![bg](https://user-images.githubusercontent.com/56477695/150803772-4d0a8544-4e02-4f3a-b822-a7052b75bb45.jpg)
 
-## 30. SW-Republican-Fleet-site {
-
-### https://github.com/VladimirSaenko/SW-Republican-Fleet-site
+## SW Republican Fleet hyperjump
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-27/SW-Republican-Fleet-site/index.html
 
-### https://vladimirsaenko.github.io/SW-Republican-Fleet-site/
+![hyperspace](https://user-images.githubusercontent.com/56477695/150803910-f9b48450-4587-4f94-99d6-2f9050ae0745.jpg)
 
-### }
-
-## 31. Drop Images | Normal Rain {
-
-### https://github.com/VladimirSaenko/Drop-Images-Normal-Rain
+## Drop Images Normal Rain
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-28/Drop-images-NormalRain/index.html
 
-### https://vladimirsaenko.github.io/Drop-Images-Normal-Rain/
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150805318-afc01b85-41fe-4f0d-ade1-c3040bae2bee.jpg)
 
-### }
-
-## 32. Menu-animate-site-example {
+## Menu
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-29/Menu-animate-example/index.html
 
-### https://github.com/VladimirSaenko/Menu-animate-site-example
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150805547-f5050ca3-bf52-4e55-bcbf-82b9417e63c4.jpg)
 
-### https://vladimirsaenko.github.io/Menu-animate-site-example/
-
-### }
-
-## 33. First Generator Random Passwords {
-
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-32/First%20Generator%20Passwords/index.html
-
-### https://github.com/VladimirSaenko/First-Generator-Random-Passwords
-
-### https://vladimirsaenko.github.io/First-Generator-Random-Passwords/
-
-### }
- 
-## 34. Hexagon CircleForm site {
+## Generator Random Passwords
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-30/First%20Generator%20Passwords/index.html
-  
-### https://github.com/VladimirSaenko/Hexagon-CircleForm-site
-  
-### https://vladimirsaenko.github.io/Hexagon-CircleForm-site/
-  
-### }
+
+![img-portfolio](https://user-images.githubusercontent.com/56477695/150805658-92599ec0-9d17-49eb-a64f-74acd3538236.png)
