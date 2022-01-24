@@ -27,13 +27,13 @@ section div {
 
 .box-1 {
     width: 50%;
-    background: url(img.jpg);
+    background: url(images/img.jpg);
     background-size: cover;
     box-sizing: border-box;
 }
 
 .box-2 {
-    background: url(img.jpg);
+    background: url(images/img.jpg);
     background-size: cover;
     transform: scale(-1, 1);
 }
