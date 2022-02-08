@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: consolas;
+    user-select: none !important;
 }
 
 body {
@@ -21,7 +22,6 @@ body {
 .tittle {
     text-align: center;
     cursor: default;
-    user-select: none;
     display: inline-block;
     color: white;
     font-size: 35px;
@@ -59,7 +59,6 @@ body {
 .gamelist li {
     margin-top: 5px;
     cursor: default;
-    user-select: none;
 }
 
 .gamelist label {
@@ -123,4 +122,10 @@ body {
     transform-origin: left;
     transition: transform 0.5s;
     transition-delay: 0.5s;
+}
+
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    .gamelist li {
+        margin: 0;
+    }
 }
