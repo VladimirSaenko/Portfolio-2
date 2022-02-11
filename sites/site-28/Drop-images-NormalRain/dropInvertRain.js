@@ -29,7 +29,7 @@ let images = [
     'url("https://picsum.photos/600/600?random=25")'
 ];
 
-function dropImage(){
+function dropImage() {
     let section = document.querySelector('section');
     let drop = document.createElement('span');
     drop.style.left = Math.random() * innerWidth + 'px';
@@ -40,7 +40,7 @@ function dropImage(){
     drop.style.height = 50 + size + 'px';
     drop.style.backgroundImage = bg;
     section.appendChild(drop);
-    setTimeout( ()=>{
+    setTimeout( ()=> {
         drop.remove()
     }, 6000);
 }
