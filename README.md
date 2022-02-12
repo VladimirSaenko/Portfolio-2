@@ -198,6 +198,6 @@
 
 ## Generator Random Passwords
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-30/First%20Generator%20Passwords/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-30/Generator-Random-Passwords/index.html
 
-![img-portfolio](https://user-images.githubusercontent.com/56477695/150805658-92599ec0-9d17-49eb-a64f-74acd3538236.png)
+![bg — копия](https://user-images.githubusercontent.com/56477695/153704478-c02ab33a-1263-4016-9115-7bc0736a1b26.jpg)
