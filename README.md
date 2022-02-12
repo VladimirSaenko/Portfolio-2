@@ -40,9 +40,9 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-7/First%20Calculator/index.html
 
-![img-portfolio](https://user-images.githubusercontent.com/56477695/150795270-382df4d7-6415-48b1-ab89-ef496562be92.png)
+![115112765-bf169500-9f8f-11eb-86c2-8e8327e73160](https://user-images.githubusercontent.com/56477695/153704792-ea1b4e02-f2e4-4ad1-bef7-b18ea6125fd2.png)
 
-## Parallsx sites
+## Parallax sites
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/Parrallax/index.html
 
@@ -70,7 +70,7 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-12/GameList/index.html
 
-![portfolio-img](https://user-images.githubusercontent.com/56477695/150795767-6bc7bf31-36e7-479c-bcb2-90134c41d6b1.png)
+![152783899-54f27781-4e83-4063-aacd-7daeb249b919](https://user-images.githubusercontent.com/56477695/153704816-5752632c-a917-4885-9101-d01f0b91f1a7.png)
 
 ## Lorem Text Children
 
@@ -83,12 +83,6 @@
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-14/Day-Night/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150796528-1beaa52e-ea78-432c-947a-8c6bf0126ffe.jpg)
-
-## Witcher Days & Nights
-
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15/Witcher-Days-and-Night/index.html
-
-![img-portfolio](https://user-images.githubusercontent.com/56477695/150796664-892bf7be-f45f-43f1-9a7b-fad6dac834de.jpg)
 
 ## Drop Image Invert Rain
 
