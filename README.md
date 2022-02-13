@@ -24,7 +24,7 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-4/Photo%20Cards/index.html
 
-## Images Drop 
+## Crazy Balls or Images Drop 
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-5/Crazy%20Balls/index.html
 
@@ -84,13 +84,13 @@
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150796528-1beaa52e-ea78-432c-947a-8c6bf0126ffe.jpg)
 
-## Drop Image Invert Rain
+## Drop Images Invert Rain
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-2/Drop-Image-Rain/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150796868-71ce93eb-6b24-40c2-881c-80c21e03d036.jpg)
 
-## Drop Image Tornado
+## Drop Images Tornado
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-3/Drop-Image-Tornado/index.html
 
@@ -102,7 +102,7 @@
 
 ![bg2](https://user-images.githubusercontent.com/56477695/150798619-c236b9b1-1cde-47ff-b40a-ca8b5a2dce1a.jpg)
 
-## Countdown to New Year 2022
+## Countdown To New Year 2022
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-17/Countdown-NY-2022/index.html
 
