@@ -8,8 +8,8 @@
 
 .content h2 {
     cursor: default;
-    font-size: 25px;
-    font-weight: bold;
+    font-size: 30px;
+    font-weight: bolder;
 }
 
 body {
@@ -83,8 +83,8 @@ body {
 
 .content p {
     position: relative;
-    top: 10px;
-    font-size: 15px;
+    top: 5px;
+    font-size: 14px;
 }
 
 @media screen and (min-width: 300px) and (max-width: 800px)  {
@@ -93,6 +93,10 @@ body {
     }
 
     .content p {
-        font-size: 14px;
+        font-size: 13px;
+    }
+
+    .content h2 {
+        font-size: 35px;
     }
 }
