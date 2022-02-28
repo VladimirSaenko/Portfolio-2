@@ -54,7 +54,7 @@
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150795436-30907356-9a61-4a77-8fd2-ac9131be7b4b.png)
 
-## Iron Man gsap
+## Iron Man gsap parallax
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-10/Iron%20Man/index.html
 
@@ -95,7 +95,6 @@
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-2/Drop-Image-Rain/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150796868-71ce93eb-6b24-40c2-881c-80c21e03d036.jpg)
-
 ## Drop Images Tornado
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-3/Drop-Image-Tornado/index.html
@@ -107,30 +106,6 @@
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-16/Countdown-NY/index.html
 
 ![bg2](https://user-images.githubusercontent.com/56477695/150798619-c236b9b1-1cde-47ff-b40a-ca8b5a2dce1a.jpg)
-
-## Countdown To New Year 2022
-
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-17/Countdown-NY-2022/index.html
-
-![bg](https://user-images.githubusercontent.com/56477695/150800038-aad3f8fd-89a8-496d-a24c-3d9603eb1f6a.jpg)
-
-## Winter It's Cool
-
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-18/Winter%20Its%20Cool/index.html
-
-![3](https://user-images.githubusercontent.com/56477695/150800157-88cd99f8-4e26-4819-a8fd-fccd9aae2e00.jpg)
-
-## Spring It's Cool
-
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-19/Spring%20Its%20Cool/index.html
-
-![2](https://user-images.githubusercontent.com/56477695/150800679-0f70c2b6-c88d-4e0b-a857-146410657ddb.jpg)
-
-## Autumn It's Cool
-
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-20/Autumn%20Its%20Cool/index.html
-
-![3](https://user-images.githubusercontent.com/56477695/150801491-6cef69e1-3a8b-4863-a291-a27d0e2ab771.jpg)
 
 ## All Seasons Year
 
@@ -183,12 +158,6 @@
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-27/SW-Republican-Fleet-site/index.html
 
 ![hyperspace](https://user-images.githubusercontent.com/56477695/150803910-f9b48450-4587-4f94-99d6-2f9050ae0745.jpg)
-
-## Drop Images Normal Rain
-
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-28/Drop-images-NormalRain/index.html
-
-![img-portfolio](https://user-images.githubusercontent.com/56477695/150805318-afc01b85-41fe-4f0d-ade1-c3040bae2bee.jpg)
 
 ## Menu
 
