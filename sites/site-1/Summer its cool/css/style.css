@@ -1,8 +1,4 @@
 
-/* * {
-    user-select: none;
-} */
-
 .slider {
     display: flex;
     justify-content: center;
@@ -35,11 +31,6 @@ span {
 .item:hover span {
     font-size: 100px;
     transition: 0.5s;
-}
-
-.item-1 {
-    background: url(../img/1.jpg) center;
-    background-size: cover;
 }
 
 .item-2 {
