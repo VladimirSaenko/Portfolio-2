@@ -95,6 +95,7 @@
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-2/Drop-Image-Rain/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150796868-71ce93eb-6b24-40c2-881c-80c21e03d036.jpg)
+
 ## Drop Images Tornado
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-3/Drop-Image-Tornado/index.html
@@ -141,11 +142,9 @@
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150803112-b8d5ade5-3dd5-4568-a6c3-566e49daeb92.jpg)
 
-## Animate Search
+## Search
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-25/Animate-Search-site/index.html
-
-![img-portfolio](https://user-images.githubusercontent.com/56477695/150803186-c01921ce-6b61-4ddd-9bb7-5c6b34ad6bd8.jpg)
 
 ## glove of thanos effect
 
