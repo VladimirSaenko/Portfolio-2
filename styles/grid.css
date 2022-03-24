@@ -1,4 +1,3 @@
-
 .albums {
     display: grid;
     /* grid-template-columns: 400px 400px 400px; */
@@ -22,7 +21,6 @@
 }
 
 @media all and (max-width: 640px) {
-
     .albums {
         grid-template-columns: 1fr;
         grid-gap: 10px;
@@ -33,17 +31,9 @@
         grid-gap: 10px;
         padding: 10px;
     }
-
-    .album_videoscroll {
-        visibility: hidden;
-    }
     
     body {
         background: linear-gradient(0deg, rgba(33,197,0,1) 50%, rgba(33,0,255,1) 75%);
-    }
-
-    .album_videoscroll {
-        display: none;
     }
 
     .hidd_album {
@@ -52,16 +42,11 @@
 }
 
 @media all and(max-width: 380px) {
-
     .album {
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr;
         grid-gap: 5px;
         padding: 5px;
-    }
-
-    .album_videoscroll {
-        display: none;
     }
 
     .hidd_album {
@@ -70,6 +55,5 @@
 
     body {
         background: linear-gradient(0deg, rgba(33,197,0,1) 50%, rgba(33,0,255,1) 75%);
-    }
-    
+    }   
 }
