@@ -146,7 +146,7 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-25/Animate-Search-site/index.html
 
-## glove of thanos effect
+## GloveOfThanos-Effect-site
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/GloveOfThanos/index.html
 
