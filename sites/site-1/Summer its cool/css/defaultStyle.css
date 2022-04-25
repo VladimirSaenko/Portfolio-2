@@ -23,7 +23,7 @@ body {
     cursor: none;
   }
 
-  .item:hover{
+  .item:hover {
       flex-grow: 30%;
   }
 
