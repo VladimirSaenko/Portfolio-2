@@ -1,0 +1,53 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+body{
+    overflow: hidden;
+}
+
+section{
+    height: 100vh;
+    overflow: hidden;
+    background: #091921;
+}
+
+section span{
+    position: absolute;
+    top: -1000px;
+    background: white;
+    /* border-radius: 50%; */
+    background-size: cover;
+    animation: anime 5.5s linear forwards;
+    /* animation-iteration-count: infinite; */
+    /* animation-fill-mode: forwards; */
+}
+
+@keyframes anime {
+    0% {
+        transform: translateY(555px);
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(1000%);
+        /* transform: translateY(-1000%); */
+        opacity: 0;
+    }
+}
+
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    body {
+        background: #091921;
+    }
+    
+    section {
+        width: 100%;
+        height: 100%;
+    }
+}
