@@ -13,8 +13,6 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    overflow: hidden;
-    /* background: #001925; */
     background: linear-gradient(180deg, rgba(0,0,0,1) 23%, rgba(63,49,179,1) 60%);
     color: white;
 }
@@ -27,19 +25,7 @@ body {
     font-size: 35px;
     padding: 10px 0;
     margin-left: 10px;
-    border-bottom: 10px white solid;
-    border-radius: 50px;
 }
-
-/* h3 {
-    display: inline-block;
-    color: white;
-    font-size: 35px;
-    padding: 10px 0;
-    margin-left: 10px;
-    border-bottom: 10px white solid;
-    border-radius: 50px;
-} */
 
 .gamelist {
     list-style: none;
@@ -47,7 +33,6 @@ body {
     background: #042b3e;
     display: flex;
     flex-direction: column;
-    /* flex-direction: column-reverse; */
     justify-content: center;
     align-items: center;
     padding: 30px 75px 10px 30px;
@@ -127,5 +112,9 @@ body {
 @media screen and (min-width: 300px) and (max-width: 800px) {
     .gamelist li {
         margin: 0;
+    }
+
+    body {
+        height: 145vh;
     }
 }
