@@ -126,6 +126,8 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-22/Gradient-Photo-site/index.html
 
+![147710056-4663e0eb-7596-4293-b5cf-fd544e40a49b](https://user-images.githubusercontent.com/56477695/168428912-241a414a-3b3e-4bd3-9378-6717bff4e900.jpg)
+
 ## Clip Path
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-23/Clip-Path/index.html
