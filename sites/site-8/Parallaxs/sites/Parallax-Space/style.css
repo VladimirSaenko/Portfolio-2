@@ -2,8 +2,8 @@
 * {
     margin: 0;
     padding: 0;
-    outline: none;
     user-select: none;
+    box-sizing: border-box;
 }
 
 body {
@@ -22,4 +22,8 @@ img {
 .container {
     height: 100vh;
     overflow: hidden;
+}
+
+.layer:hover {
+    cursor: pointer;
 }
