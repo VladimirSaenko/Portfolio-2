@@ -52,7 +52,7 @@
 
 ## Parallax sites
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/Parrallax/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/Parallaxs/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150795371-08f1fb0c-6cc3-469c-b0fd-372324f35f7c.png)
 
