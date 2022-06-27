@@ -136,23 +136,29 @@
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150802814-8f0c5dae-8fd0-4e3b-a47d-5908d2bf0d35.jpg)
 
-## Hexagons
+<!-- ## Hexagons
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Hexagons/index.html
 
 ![portfolio-img](https://user-images.githubusercontent.com/56477695/150802907-302b1df1-add7-4313-8c12-9641747ef753.jpg)
 
-## Hexagon Form X
+-->
+
+<!-- ## Hexagon Form X
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24-2/Hexagon-FormX-site/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150802993-4e3028c4-1544-4ce4-b70a-03bbfa663407.jpg)
 
-## Hexagon Form Circle
+-->
+
+<!-- ## Hexagon Form Circle
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24-3/Hexagon-CircleForm-site/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150803112-b8d5ade5-3dd5-4568-a6c3-566e49daeb92.jpg)
+
+-->
 
 ## Search
 
@@ -160,17 +166,21 @@
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/166143588-e279900b-53b0-4810-8432-99ed4506d3d6.png)
 
-## GloveOfThanos-Effect-site
+<!-- ## GloveOfThanos-Effect-site
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/GloveOfThanos/index.html
 
 ![bg](https://user-images.githubusercontent.com/56477695/150803772-4d0a8544-4e02-4f3a-b822-a7052b75bb45.jpg)
 
-## Star Wars Republican Fleet hyperjump
+-->
+
+<!-- ## Star Wars Republican Fleet hyperjump
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-27/SW-Republican-Fleet-site/index.html
 
 ![hyperspace](https://user-images.githubusercontent.com/56477695/150803910-f9b48450-4587-4f94-99d6-2f9050ae0745.jpg)
+
+-->
 
 ## Menu
 
