@@ -54,7 +54,7 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-8/Parallaxs/index.html
 
-![img-portfolio](https://user-images.githubusercontent.com/56477695/150795371-08f1fb0c-6cc3-469c-b0fd-372324f35f7c.png)
+![img-portfolio](https://user-images.githubusercontent.com/56477695/175936485-0e5a7cfb-a2bf-42ec-9184-cfe13274098f.png)
 
 ## Clock
 
