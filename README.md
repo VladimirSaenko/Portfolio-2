@@ -88,7 +88,7 @@
 
 ## Lorem Text Children
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/Lorem-Children-animate-example/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-13/Lorem-Children-Text/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150795847-df34fd2e-ec70-49af-924e-0effeb7ecd0c.jpg)
 
