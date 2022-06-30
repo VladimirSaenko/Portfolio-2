@@ -19,7 +19,7 @@ body {
 
 section {
     position: relative;
-    height: 150vh;
+    height: 125vh;
     width: 100%;
     overflow: hidden;
     display: flex;
@@ -90,6 +90,10 @@ button:hover {
 @media screen and (min-width: 300px) and (max-width: 800px) {
     #text {
         text-align: center;
+    }
+
+    section {
+        height: 150vh;
     }
 
     body {
