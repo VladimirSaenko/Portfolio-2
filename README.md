@@ -166,21 +166,17 @@
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/166143588-e279900b-53b0-4810-8432-99ed4506d3d6.png)
 
-<!-- ## GloveOfThanos-Effect-site
+## GloveOfThanos-Effect-site
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/GloveOfThanos/index.html
 
 ![bg](https://user-images.githubusercontent.com/56477695/150803772-4d0a8544-4e02-4f3a-b822-a7052b75bb45.jpg)
 
--->
-
-<!-- ## Star Wars Republican Fleet hyperjump
+## Star Wars Republican Fleet hyperjump
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-27/SW-Republican-Fleet-site/index.html
 
 ![hyperspace](https://user-images.githubusercontent.com/56477695/150803910-f9b48450-4587-4f94-99d6-2f9050ae0745.jpg)
-
--->
 
 ## Menu
 
