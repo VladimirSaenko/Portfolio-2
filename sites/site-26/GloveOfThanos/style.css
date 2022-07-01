@@ -43,12 +43,13 @@ section h2 {
 }
 
 .banner .blocks {
-    position: relative;
+    position: absolute;
     display: block;
-    width: 5vw;
-    height: 5vh;
-    /* background: white; */
+    width: 100vw;
+    height: 100vh;
+    border-radius: 5px;
     animation: animate 2s ease-in-out forwards;
+	clip-path: inset(0 90% 90% 0);
 }
 
 @keyframes animate {
