@@ -110,7 +110,7 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-2/Drop-Image-Tornado/index.html
 
-![img-portfolio](https://user-images.githubusercontent.com/56477695/150798521-d13fa8ff-0dba-435b-bb7a-7c27616daf90.jpg)
+![img-portfolio](https://user-images.githubusercontent.com/56477695/184877094-01957288-fce5-46c7-9b95-eb450c76a059.png)
 
 ## Drop Images Normal Rain
 
