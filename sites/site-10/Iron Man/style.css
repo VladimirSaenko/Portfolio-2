@@ -29,7 +29,7 @@ section::before {
     bottom: 0;
     height: 100px;
     width: 100%;
-    background: linear-gradient(to top,#0a2a43,transparent);
+    background: linear-gradient(to top, #0a2a43, transparent);
 }
 
 .second {
@@ -86,7 +86,7 @@ section::before {
     position: absolute;
     top: 110%;
     z-index: 100;
-    width: 100px;
+    width: 50px;
     transform: scale(0);
 }
 

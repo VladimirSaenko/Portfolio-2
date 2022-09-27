@@ -5,16 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Iron Man gsap parallax</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="img/icon.jpg">
+    <link rel="icon" href="images/icon.jpg">
 </head>
 <body>
     <section>
-        <img src="img/bg.jpg" id="bg">
-        <img src="img/moon.png" id="moon">
-        <img src="img/cloud1.png" id="cloud1">
-        <img src="img/cloud2.png" id="cloud2">
-        <img src="img/jet.png" id="jet">
-        <img src="img/ironman.png" id="ironman">
+        <img src="images/bg.jpg" id="bg" alt="bg">
+        <img src="images/moon.png" id="moon" alt="moon">
+        <img src="images/cloud1.png" id="cloud1" alt="cloud">
+        <img src="images/cloud2.png" id="cloud2" alt="cloud">
+        <img src="images/jet.png" id="jet" alt="jet">
+        <img src="#" id="ironman" alt="ironman">
     </section>
     <div class="second">
         <div class="content">
@@ -47,6 +47,7 @@
                 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         </div>
     </div>
+    <script src="setArmor.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/ScrollTrigger.min.js" ></script>
     <script>
@@ -63,7 +64,7 @@
                 scrub: true
             },
             x: -400,
-            scale: 3
+            scale: 4
         })
 
         gsap.to('#cloud1', {
