@@ -94,7 +94,7 @@
 
 ![118373064-5be34700-b5bd-11eb-8fc0-67be45d57d06](https://user-images.githubusercontent.com/56477695/170822453-c2f2df40-3a2b-428f-90fe-bd91e6825195.jpg)
 
-## Day Night site 
+## Day Night
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-14/Day-Night/index.html
 
