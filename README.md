@@ -102,7 +102,7 @@
 
 ## Drop Images Invert Rain
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15/Drop-Image-Rain/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15/Drop-Images-InvertRain/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150796868-71ce93eb-6b24-40c2-881c-80c21e03d036.jpg)
 
