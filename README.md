@@ -146,13 +146,13 @@
 
 ## Hexagon Form X
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24-2/Hexagon-FormX-site/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24-2/Hexagon-FormX/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150802993-4e3028c4-1544-4ce4-b70a-03bbfa663407.jpg)
 
 ## Hexagon Form Circle
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24-3/Hexagon-CircleForm-site/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24-3/Hexagon-CircleForm/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150803112-b8d5ade5-3dd5-4568-a6c3-566e49daeb92.jpg)
 
