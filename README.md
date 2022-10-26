@@ -62,7 +62,7 @@
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150795436-30907356-9a61-4a77-8fd2-ac9131be7b4b.png)
 
-## Iron Man gsap parallax
+## iron man gsap parallax
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-10/Iron%20Man/index.html
 
