@@ -140,8 +140,6 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Hexagons/index.html
 
-![portfolio-img](https://user-images.githubusercontent.com/56477695/150802907-302b1df1-add7-4313-8c12-9641747ef753.jpg)
-
 ## Hexagon Form X
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24-2/Hexagon-FormX/index.html
