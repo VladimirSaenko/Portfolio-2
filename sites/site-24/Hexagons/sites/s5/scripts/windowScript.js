@@ -25,3 +25,9 @@ while(freeSpaceH > 0) {
     body.innerHTML += row;
     freeSpaceH -= 80;
 }
+
+// let cursor = document.getElementById('cursor');
+// window.onmousemove = function(e) {
+//     cursor.style.left = e.clientX + 'px';
+//     cursor.style.top = e.clientY + 'px';
+// }
