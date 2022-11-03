@@ -136,13 +136,11 @@
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150802814-8f0c5dae-8fd0-4e3b-a47d-5908d2bf0d35.jpg)
 
-<!-- ## Hexagons
+## Hexagons
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Hexagons/index.html
 
 ![portfolio-img](https://user-images.githubusercontent.com/56477695/150802907-302b1df1-add7-4313-8c12-9641747ef753.jpg)
-
--->
 
 ## Hexagon Form X
 
