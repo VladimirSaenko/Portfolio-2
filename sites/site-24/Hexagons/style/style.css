@@ -59,14 +59,20 @@ span {
     clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 }
 
-@keyframes rolling {
-    from {
-        transform: rotate(0deg);
+@keyframes anime {
+
+    0% {
+        filter: hue-rotate(0deg);
     }
 
-    to {
-        transform: rotate(360deg);
+    100% {
+        filter: hue-rotate(360deg);
     }
+}
+
+.hexagon2 {
+    animation: anime 2s linear infinite;
+    background: #0f0;
 }
 
 @media screen and (min-width: 300px) and (max-width: 800px) {
@@ -75,15 +81,15 @@ span {
         flex-direction: column;
         overflow: visible;
     }
-
-    .item-h {
-        display: none;
-    }
     
     .item {
         width: 100%;
         user-select: none;
         cursor: none;
+    }
+
+    .item-h {
+        display: none;
     }
     
     .item:hover {
