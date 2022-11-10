@@ -107,6 +107,8 @@ body {
     transform-origin: left;
     transition: transform 0.5s;
     transition-delay: 0.5s;
+    overflow: visible;
+    visibility: visible;
 }
 
 @media screen and (min-width: 300px) and (max-width: 800px) {
@@ -116,5 +118,11 @@ body {
 
     body {
         height: 145vh;
+    }
+
+    .gamelist input[type="checkbox"]:checked ~ span::before {
+        display: none;
+        overflow: hidden;
+        visibility: hidden;
     }
 }
