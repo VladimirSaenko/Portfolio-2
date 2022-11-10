@@ -86,7 +86,7 @@ body {
 }
 
 .gamelist input[type="checkbox"] {
-    appearance: none;
+    -webkit-appearance: none;
 }
 
 .gamelist input[type="checkbox"]:checked ~ i {
