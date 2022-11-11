@@ -84,7 +84,7 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-12/GameList/index.html
 
-![152783899-54f27781-4e83-4063-aacd-7daeb249b919](https://user-images.githubusercontent.com/56477695/153704816-5752632c-a917-4885-9101-d01f0b91f1a7.png)
+![201045793-80c8d2bb-67ba-4ae7-97f9-cfe6fc05ec13](https://user-images.githubusercontent.com/56477695/201288229-350e76f9-82aa-4bae-ae02-0ee41dcc54d1.png)
 
 ## Lorem Text Children
 
