@@ -160,7 +160,7 @@
 
 ## GloveOfThanos-Effect-site
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/GloveOfThanos/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/GloveOfThanos-Effect-site/index.html
 
 ![bg](https://user-images.githubusercontent.com/56477695/150803772-4d0a8544-4e02-4f3a-b822-a7052b75bb45.jpg)
 
