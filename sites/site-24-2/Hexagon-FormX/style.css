@@ -114,7 +114,7 @@ body {
 @media screen and (min-width: 300px) and (max-width: 800px) {
     #cursor, #cursor::before {
         width: 100px;
-        height: 275px;
+        height: 450px;
     }
 
     .container {
