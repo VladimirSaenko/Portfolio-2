@@ -10,7 +10,7 @@
 
 ## All Seasons Year
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-21/All%20Seasons%20Year%20site/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-17/All%20Seasons%20Year%20site/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150801607-bd9800b8-6f4b-416b-bd27-d713a3c10868.jpg)
 
@@ -126,52 +126,52 @@
 
 ## Gradient Photos
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-22/Gradient-Photo-site/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-18/Gradient-Photo-site/index.html
 
 ![147710056-4663e0eb-7596-4293-b5cf-fd544e40a49b](https://user-images.githubusercontent.com/56477695/168428912-241a414a-3b3e-4bd3-9378-6717bff4e900.jpg)
 
 ## Clip Path
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-23/Clip-Path/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-19/Clip-Path/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150802814-8f0c5dae-8fd0-4e3b-a47d-5908d2bf0d35.jpg)
 
 ## Hexagons
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Hexagons/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-20/Hexagons/index.html
 
 ## Hexagon Form X
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24-2/Hexagon-FormX/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-20-2/Hexagon-FormX/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150802993-4e3028c4-1544-4ce4-b70a-03bbfa663407.jpg)
 
 ## Hexagon Form Circle
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24-3/Hexagon-CircleForm/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-20-3/Hexagon-CircleForm/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150803112-b8d5ade5-3dd5-4568-a6c3-566e49daeb92.jpg)
 
 ## Search Button example
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-25/Animate-Search-Button-example/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-21/Animate-Search-Button-example/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/166143588-e279900b-53b0-4810-8432-99ed4506d3d6.png)
 
 ## GloveOfThanos-Effect-site
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/GloveOfThanos-Effect-site/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-22/GloveOfThanos-Effect-site/index.html
 
 ![bg](https://user-images.githubusercontent.com/56477695/150803772-4d0a8544-4e02-4f3a-b822-a7052b75bb45.jpg)
 
 ## Menu
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-29/Menu-animate-example/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-23/Menu-animate-example/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150805547-f5050ca3-bf52-4e55-bcbf-82b9417e63c4.jpg)
 
 ## Generator Random Passwords
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-30/Generator-Random-Passwords/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-24/Generator-Random-Passwords/index.html
 
 ![bg — копия](https://user-images.githubusercontent.com/56477695/153704478-c02ab33a-1263-4016-9115-7bc0736a1b26.jpg)
