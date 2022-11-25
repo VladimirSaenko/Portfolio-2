@@ -64,7 +64,7 @@
 
 ## iron man gsap parallax
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-10/Iron%20Man/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-10/iron-man/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150795517-a985fc73-d2a1-4e8d-bf9c-d0f91dc0d361.jpg)
 
@@ -108,7 +108,7 @@
 
 ## Drop Images Tornado
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-2/Drop-Image-Tornado/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-2/Drop-Images-Tornado/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/184877094-01957288-fce5-46c7-9b95-eb450c76a059.png)
 
