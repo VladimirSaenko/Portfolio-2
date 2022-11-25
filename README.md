@@ -64,7 +64,7 @@
 
 ## iron man gsap parallax
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-10/Iron%20Man/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-10/iron-man/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/150795517-a985fc73-d2a1-4e8d-bf9c-d0f91dc0d361.jpg)
 
@@ -104,11 +104,11 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15/Drop-Images-InvertRain/index.html
 
-![img-portfolio](https://user-images.githubusercontent.com/56477695/150796868-71ce93eb-6b24-40c2-881c-80c21e03d036.jpg)
+![150796868-71ce93eb-6b24-40c2-881c-80c21e03d036](https://user-images.githubusercontent.com/56477695/203998462-0ede92c1-59ae-4eab-b4eb-00efa41b7b7b.jpg)
 
 ## Drop Images Tornado
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-2/Drop-Image-Tornado/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-2/Drop-Images-Tornado/index.html
 
 ![img-portfolio](https://user-images.githubusercontent.com/56477695/184877094-01957288-fce5-46c7-9b95-eb450c76a059.png)
 
@@ -116,7 +116,7 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-15-3/DropImagesNormalRain/index.html
 
-![img-portfolio](https://user-images.githubusercontent.com/56477695/150796868-71ce93eb-6b24-40c2-881c-80c21e03d036.jpg) 
+![150796868-71ce93eb-6b24-40c2-881c-80c21e03d036](https://user-images.githubusercontent.com/56477695/203998500-fa2727d9-c34a-409d-8a72-1b0cf9fe2b9b.jpg)
 
 ## Countdown To New Year 2021
 
@@ -133,8 +133,6 @@
 ## Clip Path
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-19/Clip-Path/index.html
-
-![img-portfolio](https://user-images.githubusercontent.com/56477695/150802814-8f0c5dae-8fd0-4e3b-a47d-5908d2bf0d35.jpg)
 
 ## Hexagons
 
