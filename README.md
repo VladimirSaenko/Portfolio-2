@@ -134,6 +134,8 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-19/Clip-Path/index.html
 
+![bg](https://user-images.githubusercontent.com/56477695/204077705-535e743c-6643-41de-b9db-59f9a32076e0.jpeg)
+
 ## Hexagons
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-20/Hexagons/index.html
