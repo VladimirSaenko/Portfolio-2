@@ -2,7 +2,7 @@
  
 ## Вторая версия портфолио
 
-## Portfolio 3: https://vladimirsaenko.github.io/Portfolio-3/ 
+## Portfolio-3: https://vladimirsaenko.github.io/Portfolio-3/ 
 
 ## Summer It's Cool
 
