@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" href="img/icon.png">
     <script src="https://kit.fontawesome.com/7a538433c3.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic" rel="stylesheet"/>
 </head>
 <body>
     <div class="search-box">
@@ -18,10 +18,9 @@
         <div class="cancel-btn">
             <i class="fa fa-times"></i>
         </div>
-        <div class="search-data">Скоро будет...</div>
+        <div class="search-data"></div>
     </div>
     <script>
-        
         const searchBtn = document.querySelector(".search-btn");
         const searchBox = document.querySelector(".search-box");
         const cancelBtn = document.querySelector(".cancel-btn");
@@ -52,6 +51,8 @@
             searchData.classList.add("active");
             searchInput.value = "";
         }
+
     </script>
+    <!-- <script src="animateSearch.js"></script> -->
 </body>
 </html>
