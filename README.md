@@ -14,7 +14,7 @@
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-17/All%20Seasons%20Year%20site/index.html
 
-![img-portfolio](https://user-images.githubusercontent.com/56477695/150801607-bd9800b8-6f4b-416b-bd27-d713a3c10868.jpg)
+![img-portfolio](https://user-images.githubusercontent.com/56477695/235465629-8e097d15-6d2f-457d-a6d8-5b466e1ff1eb.jpg)
 
 ## Water Balls site
 
