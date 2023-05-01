@@ -3,7 +3,6 @@
     user-select: none;
     outline: none;
     box-sizing: border-box;
-    user-select: none;
     margin: 0;
     padding: 0;
 }
@@ -14,10 +13,8 @@
 }
 
 .item {
-    user-select: none;
     border: 1px solid black;
-    /* cursor: default; */
-    cursor: pointer;
+    cursor: default;
     height: 100vh;
     display: flex;
     flex-basis: 25%;
