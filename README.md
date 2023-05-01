@@ -10,7 +10,7 @@
 
 ![4](https://user-images.githubusercontent.com/56477695/150794479-2cf23c1c-28dc-4dcc-8103-b48610169630.jpg)
 
-## All Seasons Year
+## All Seasons of Year
 
 ### https://vladimirsaenko.github.io/Portfolio-2/sites/site-17/All%20Seasons%20Year%20site/index.html
 
