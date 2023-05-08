@@ -6,11 +6,10 @@
 .item {
     user-select: none;
     border: 1px solid black;
-    /* cursor: default; */
-    cursor: pointer;
+    cursor: default;
     height: 100vh;
     display: flex;
-    flex-basis: 25%;
+    flex-basis: 35%;
     justify-content: center;
     align-items: center;
     background-color: #aeaeae;
@@ -30,6 +29,7 @@ span {
 .item:hover span {
     font-size: 100px;
     transition: 0.5s;
+    color: aquamarine;
 }
 
 .item-1 {
@@ -45,19 +45,4 @@ span {
 .item-3 {
     background: url(../img/3.jpg) center;
     background-size: cover;
-}
-
-.item-4 {
-    background: url(../img/4.jpg) center;
-    background-size: cover;
-}
-
-@keyframes rolling {
-    from {
-        transform: rotate(0deg);
-    }
-
-    to {
-        transform: rotate(360deg);
-    }
 }
