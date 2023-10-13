@@ -12,7 +12,7 @@
 <body>
     <form class="calculator" name="calcul">
         <input type="text" name="txt" class="value" readonly>
-        <span class="numb clear" onclick="document.calcul.txt.value = '' ">Стереть</span>
+        <span class="numb clear" onclick="document.calcul.txt.value = '' ">Delete</span>
         <span class="numb" onclick="document.calcul.txt.value += '/' ">/</span>
         <span class="numb" onclick="document.calcul.txt.value += '*' ">*</span>
         <span class="numb" onclick="document.calcul.txt.value += '7' ">7</span>
@@ -39,8 +39,5 @@
         <span class="numb" id="alc-2" onclick="document.calcul.txt.value += '0.5' ">0.5</span>
         <span class="numb equal" onclick="document.calcul.txt.value = eval(calcul.txt.value)">=</span>
     </form>
-    <audio id="sound3" src="audio/minusthree.mp3"></audio>
-    <audio id="sound40" src="audio/music40.mp3"></audio>
-    <script src="audio.js"></script>
 </body>
 </html>
